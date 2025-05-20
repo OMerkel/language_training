@@ -1,4 +1,4 @@
-[conjugation.word00001]
+[word00001]
 de-DE = "Ich habe ein Buch."
 en-US = "I have a book."
 fr-FR = "J'ai un livre."
@@ -14,7 +14,7 @@ sv-SE = "Jag har en bok."
 tr-TR = "Bir kitabım var."
 pl-PL = "Mam książkę."
 
-[conjugation.word00002]
+[word00002]
 de-DE = "Du hast einen Hund."
 en-US = "You have a dog."
 fr-FR = "Tu as un chien."
@@ -30,7 +30,7 @@ sv-SE = "Du har en hund."
 tr-TR = "Bir köpeğin var."
 pl-PL = "Masz psa."
 
-[conjugation.word00003]
+[word00003]
 de-DE = "Er hat eine Katze."
 en-US = "He has a cat."
 fr-FR = "Il a un chat."
@@ -46,7 +46,7 @@ sv-SE = "Han har en katt."
 tr-TR = "Onun bir kedisi var."
 pl-PL = "On ma kota."
 
-[conjugation.word00004]
+[word00004]
 de-DE = "Wir haben Zeit."
 en-US = "We have time."
 fr-FR = "Nous avons du temps."
@@ -62,7 +62,7 @@ sv-SE = "Vi har tid."
 tr-TR = "Zamanımız var."
 pl-PL = "Mamy czas."
 
-[conjugation.word00005]
+[word00005]
 de-DE = "Ihr habt Hunger."
 en-US = "You are hungry."
 fr-FR = "Vous avez faim."
@@ -78,7 +78,7 @@ sv-SE = "Ni är hungriga."
 tr-TR = "Açsınız."
 pl-PL = "Jesteście głodni."
 
-[conjugation.word00006]
+[word00006]
 de-DE = "Sie haben Glück."
 en-US = "They are lucky."
 fr-FR = "Ils ont de la chance."
@@ -94,7 +94,7 @@ sv-SE = "De har tur."
 tr-TR = "Şanslılar."
 pl-PL = "Mają szczęście."
 
-[conjugation.word00007]
+[word00007]
 de-DE = "Ich mag Schokolade."
 en-US = "I like chocolate."
 fr-FR = "J'aime le chocolat."
@@ -110,7 +110,7 @@ sv-SE = "Jag gillar choklad."
 tr-TR = "Çikolatayı severim."
 pl-PL = "Lubię czekoladę."
 
-[conjugation.word00008]
+[word00008]
 de-DE = "Du magst Musik."
 en-US = "You like music."
 fr-FR = "Tu aimes la musique."
@@ -126,7 +126,7 @@ sv-SE = "Du gillar musik."
 tr-TR = "Müziği seversin."
 pl-PL = "Lubisz muzykę."
 
-[conjugation.word00009]
+[word00009]
 de-DE = "Er mag Sport."
 en-US = "He likes sports."
 fr-FR = "Il aime le sport."
@@ -142,7 +142,7 @@ sv-SE = "Han gillar sport."
 tr-TR = "Sporu sever."
 pl-PL = "On lubi sport."
 
-[conjugation.word00010]
+[word00010]
 de-DE = "Wir mögen Pizza."
 en-US = "We like pizza."
 fr-FR = "Nous aimons la pizza."
@@ -158,7 +158,7 @@ sv-SE = "Vi gillar pizza."
 tr-TR = "Pizzayı severiz."
 pl-PL = "Lubimy pizzę."
 
-[conjugation.word00011]
+[word00011]
 de-DE = "Ihr mögt Filme."
 en-US = "You like movies."
 fr-FR = "Vous aimez les films."
@@ -174,7 +174,7 @@ sv-SE = "Ni gillar filmer."
 tr-TR = "Filmleri seversiniz."
 pl-PL = "Lubicie filmy."
 
-[conjugation.word00012]
+[word00012]
 de-DE = "Sie mögen Tiere."
 en-US = "They like animals."
 fr-FR = "Ils aiment les animaux."
@@ -190,7 +190,7 @@ sv-SE = "De gillar djur."
 tr-TR = "Hayvanları severler."
 pl-PL = "Oni lubią zwierzęta."
 
-[conjugation.word00013]
+[word00013]
 de-DE = "Ich bin müde."
 en-US = "I am tired."
 fr-FR = "Je suis fatigué."
@@ -206,7 +206,7 @@ sv-SE = "Jag är trött."
 tr-TR = "Yorgunum."
 pl-PL = "Jestem zmęczony."
 
-[conjugation.word00014]
+[word00014]
 de-DE = "Du bist freundlich."
 en-US = "You are friendly."
 fr-FR = "Tu es gentil."
@@ -222,7 +222,7 @@ sv-SE = "Du är vänlig."
 tr-TR = "Sen arkadaşcansın."
 pl-PL = "Jesteś przyjazny."
 
-[conjugation.word00015]
+[word00015]
 de-DE = "Er ist Lehrer."
 en-US = "He is a teacher."
 fr-FR = "Il est professeur."
@@ -238,7 +238,7 @@ sv-SE = "Han är lärare."
 tr-TR = "O öğretmen."
 pl-PL = "On jest nauczycielem."
 
-[conjugation.word00016]
+[word00016]
 de-DE = "Wir sind glücklich."
 en-US = "We are happy."
 fr-FR = "Nous sommes heureux."
@@ -254,7 +254,7 @@ sv-SE = "Vi är glada."
 tr-TR = "Mutluyuz."
 pl-PL = "Jesteśmy szczęśliwi."
 
-[conjugation.word00017]
+[word00017]
 de-DE = "Ihr seid pünktlich."
 en-US = "You are punctual."
 fr-FR = "Vous êtes ponctuels."
@@ -270,7 +270,7 @@ sv-SE = "Ni är punktliga."
 tr-TR = "Dakiksiniz."
 pl-PL = "Jesteście punktualni."
 
-[conjugation.word00018]
+[word00018]
 de-DE = "Sie sind Ärzte."
 en-US = "They are doctors."
 fr-FR = "Ils sont médecins."
@@ -286,7 +286,7 @@ sv-SE = "De är läkare."
 tr-TR = "Onlar doktor."
 pl-PL = "Oni są lekarzami."
 
-[conjugation.word00019]
+[word00019]
 de-DE = "Ich laufe jeden Morgen."
 en-US = "I run every morning."
 fr-FR = "Je cours chaque matin."
@@ -302,7 +302,7 @@ sv-SE = "Jag springer varje morgon."
 tr-TR = "Her sabah koşarım."
 pl-PL = "Biegam każdego ranka."
 
-[conjugation.word00020]
+[word00020]
 de-DE = "Du läufst schnell."
 en-US = "You run fast."
 fr-FR = "Tu cours vite."
@@ -318,7 +318,7 @@ sv-SE = "Du springer snabbt."
 tr-TR = "Hızlı koşarsın."
 pl-PL = "Biegasz szybko."
 
-[conjugation.word00021]
+[word00021]
 de-DE = "Er läuft im Park."
 en-US = "He runs in the park."
 fr-FR = "Il court dans le parc."
@@ -334,7 +334,7 @@ sv-SE = "Han springer i parken."
 tr-TR = "Parkta koşar."
 pl-PL = "On biega w parku."
 
-[conjugation.word00022]
+[word00022]
 de-DE = "Wir laufen zusammen."
 en-US = "We run together."
 fr-FR = "Nous courons ensemble."
@@ -350,7 +350,7 @@ sv-SE = "Vi springer tillsammans."
 tr-TR = "Birlikte koşarız."
 pl-PL = "Biegamy razem."
 
-[conjugation.word00023]
+[word00023]
 de-DE = "Ihr lauft zur Schule."
 en-US = "You run to school."
 fr-FR = "Vous courez à l'école."
@@ -366,7 +366,7 @@ sv-SE = "Ni springer till skolan."
 tr-TR = "Okula koşarsınız."
 pl-PL = "Biegacie do szkoły."
 
-[conjugation.word00024]
+[word00024]
 de-DE = "Sie laufen im Stadion."
 en-US = "They run in the stadium."
 fr-FR = "Ils courent dans le stade."
@@ -382,7 +382,7 @@ sv-SE = "De springer på stadion."
 tr-TR = "Stadyumda koşarlar."
 pl-PL = "Oni biegają na stadionie."
 
-[conjugation.word00025]
+[word00025]
 de-DE = "Ich sehe den Film."
 en-US = "I see the movie."
 fr-FR = "Je vois le film."
@@ -398,7 +398,7 @@ sv-SE = "Jag ser filmen."
 tr-TR = "Filmi görüyorum."
 pl-PL = "Widzę film."
 
-[conjugation.word00026]
+[word00026]
 de-DE = "Du siehst das Bild."
 en-US = "You see the picture."
 fr-FR = "Tu vois l'image."
@@ -414,7 +414,7 @@ sv-SE = "Du ser bilden."
 tr-TR = "Resmi görüyorsun."
 pl-PL = "Widzisz obraz."
 
-[conjugation.word00027]
+[word00027]
 de-DE = "Er sieht den Hund."
 en-US = "He sees the dog."
 fr-FR = "Il voit le chien."
@@ -430,7 +430,7 @@ sv-SE = "Han ser hunden."
 tr-TR = "Köpeği görüyor."
 pl-PL = "On widzi psa."
 
-[conjugation.word00028]
+[word00028]
 de-DE = "Wir sehen die Sterne."
 en-US = "We see the stars."
 fr-FR = "Nous voyons les étoiles."
@@ -446,7 +446,7 @@ sv-SE = "Vi ser stjärnorna."
 tr-TR = "Yıldızları görüyoruz."
 pl-PL = "Widzimy gwiazdy."
 
-[conjugation.word00029]
+[word00029]
 de-DE = "Ihr seht das Auto."
 en-US = "You see the car."
 fr-FR = "Vous voyez la voiture."
@@ -462,7 +462,7 @@ sv-SE = "Ni ser bilen."
 tr-TR = "Arabayı görüyorsunuz."
 pl-PL = "Widzicie samochód."
 
-[conjugation.word00030]
+[word00030]
 de-DE = "Sie sehen den Vogel."
 en-US = "They see the bird."
 fr-FR = "Ils voient l'oiseau."
@@ -478,7 +478,7 @@ sv-SE = "De ser fågeln."
 tr-TR = "Kuşu görüyorlar."
 pl-PL = "Oni widzą ptaka."
 
-[conjugation.word00031]
+[word00031]
 de-DE = "Ich esse einen Apfel."
 en-US = "I eat an apple."
 fr-FR = "Je mange une pomme."
@@ -494,7 +494,7 @@ sv-SE = "Jag äter ett äpple."
 tr-TR = "Bir elma yiyorum."
 pl-PL = "Jem jabłko."
 
-[conjugation.word00032]
+[word00032]
 de-DE = "Du isst ein Brot."
 en-US = "You eat a bread."
 fr-FR = "Tu manges un pain."
@@ -510,7 +510,7 @@ sv-SE = "Du äter ett bröd."
 tr-TR = "Bir ekmek yiyorsun."
 pl-PL = "Jesz chleb."
 
-[conjugation.word00033]
+[word00033]
 de-DE = "Sie isst einen Kuchen."
 en-US = "She eats a cake."
 fr-FR = "Elle mange un gâteau."
@@ -526,7 +526,7 @@ sv-SE = "Hon äter en tårta."
 tr-TR = "Bir pasta yiyor."
 pl-PL = "Ona je ciasto."
 
-[conjugation.word00034]
+[word00034]
 de-DE = "Wir essen Suppe."
 en-US = "We eat soup."
 fr-FR = "Nous mangeons de la soupe."
@@ -542,7 +542,7 @@ sv-SE = "Vi äter soppa."
 tr-TR = "Çorba içeriz."
 pl-PL = "Jemy zupę."
 
-[conjugation.word00035]
+[word00035]
 de-DE = "Ihr esst Reis."
 en-US = "You eat rice."
 fr-FR = "Vous mangez du riz."
@@ -558,7 +558,7 @@ sv-SE = "Ni äter ris."
 tr-TR = "Pirinç yiyorsunuz."
 pl-PL = "Jecie ryż."
 
-[conjugation.word00036]
+[word00036]
 de-DE = "Sie essen Gemüse."
 en-US = "They eat vegetables."
 fr-FR = "Ils mangent des légumes."
@@ -574,7 +574,7 @@ sv-SE = "De äter grönsaker."
 tr-TR = "Sebze yiyorlar."
 pl-PL = "Oni jedzą warzywa."
 
-[conjugation.word00037]
+[word00037]
 de-DE = "Ich trinke Wasser."
 en-US = "I drink water."
 fr-FR = "Je bois de l'eau."
@@ -590,7 +590,7 @@ sv-SE = "Jag dricker vatten."
 tr-TR = "Su içerim."
 pl-PL = "Piję wodę."
 
-[conjugation.word00038]
+[word00038]
 de-DE = "Du trinkst Tee."
 en-US = "You drink tea."
 fr-FR = "Tu bois du thé."
@@ -606,7 +606,7 @@ sv-SE = "Du dricker te."
 tr-TR = "Çay içiyorsun."
 pl-PL = "Pijesz herbatę."
 
-[conjugation.word00039]
+[word00039]
 de-DE = "Er trinkt Kaffee."
 en-US = "He drinks coffee."
 fr-FR = "Il boit du café."
@@ -622,7 +622,7 @@ sv-SE = "Han dricker kaffe."
 tr-TR = "Kahve içer."
 pl-PL = "On pije kawę."
 
-[conjugation.word00040]
+[word00040]
 de-DE = "Wir trinken Saft."
 en-US = "We drink juice."
 fr-FR = "Nous buvons du jus."
@@ -638,7 +638,7 @@ sv-SE = "Vi dricker juice."
 tr-TR = "Meyve suyu içeriz."
 pl-PL = "Pijemy sok."
 
-[conjugation.word00041]
+[word00041]
 de-DE = "Ihr trinkt Limonade."
 en-US = "You drink lemonade."
 fr-FR = "Vous buvez de la limonade."
@@ -654,7 +654,7 @@ sv-SE = "Ni dricker lemonad."
 tr-TR = "Limonata içiyorsunuz."
 pl-PL = "Pijecie lemoniadę."
 
-[conjugation.word00042]
+[word00042]
 de-DE = "Sie trinken Milch."
 en-US = "They drink milk."
 fr-FR = "Ils boivent du lait."
@@ -670,7 +670,7 @@ sv-SE = "De dricker mjölk."
 tr-TR = "Süt içiyorlar."
 pl-PL = "Oni piją mleko."
 
-[conjugation.word00043]
+[word00043]
 de-DE = "Ich gehe nach Hause."
 en-US = "I go home."
 fr-FR = "Je vais à la maison."
@@ -686,7 +686,7 @@ sv-SE = "Jag går hem."
 tr-TR = "Eve gidiyorum."
 pl-PL = "Idę do domu."
 
-[conjugation.word00044]
+[word00044]
 de-DE = "Du gehst zur Schule."
 en-US = "You go to school."
 fr-FR = "Tu vas à l'école."
@@ -702,7 +702,7 @@ sv-SE = "Du går till skolan."
 tr-TR = "Okula gidiyorsun."
 pl-PL = "Idziesz do szkoły."
 
-[conjugation.word00045]
+[word00045]
 de-DE = "Er geht ins Büro."
 en-US = "He goes to the office."
 fr-FR = "Il va au bureau."
@@ -718,7 +718,7 @@ sv-SE = "Han går till kontoret."
 tr-TR = "O, ofise gidiyor."
 pl-PL = "On idzie do biura."
 
-[conjugation.word00046]
+[word00046]
 de-DE = "Wir gehen in den Park."
 en-US = "We go to the park."
 fr-FR = "Nous allons au parc."
@@ -734,7 +734,7 @@ sv-SE = "Vi går till parken."
 tr-TR = "Parka gidiyoruz."
 pl-PL = "Idziemy do parku."
 
-[conjugation.word00047]
+[word00047]
 de-DE = "Ihr geht ins Kino."
 en-US = "You go to the cinema."
 fr-FR = "Vous allez au cinéma."
@@ -750,7 +750,7 @@ sv-SE = "Ni går på bio."
 tr-TR = "Sinemaya gidiyorsunuz."
 pl-PL = "Idziecie do kina."
 
-[conjugation.word00048]
+[word00048]
 de-DE = "Sie gehen zum Bahnhof."
 en-US = "They go to the train station."
 fr-FR = "Ils vont à la gare."
@@ -766,7 +766,7 @@ sv-SE = "De går till stationen."
 tr-TR = "Tren istasyonuna gidiyorlar."
 pl-PL = "Oni idą na dworzec."
 
-[conjugation.word00049]
+[word00049]
 de-DE = "Ich spiele Fußball."
 en-US = "I play soccer."
 fr-FR = "Je joue au football."
@@ -782,7 +782,7 @@ sv-SE = "Jag spelar fotboll."
 tr-TR = "Futbol oynuyorum."
 pl-PL = "Gram w piłkę nożną."
 
-[conjugation.word00050]
+[word00050]
 de-DE = "Du spielst Gitarre."
 en-US = "You play guitar."
 fr-FR = "Tu joues de la guitare."
@@ -798,7 +798,7 @@ sv-SE = "Du spelar gitarr."
 tr-TR = "Gitar çalıyorsun."
 pl-PL = "Grasz na gitarze."
 
-[conjugation.word00051]
+[word00051]
 de-DE = "Er spielt Schach."
 en-US = "He plays chess."
 fr-FR = "Il joue aux échecs."
@@ -814,7 +814,7 @@ sv-SE = "Han spelar schack."
 tr-TR = "Satranç oynuyor."
 pl-PL = "On gra w szachy."
 
-[conjugation.word00052]
+[word00052]
 de-DE = "Wir spielen Karten."
 en-US = "We play cards."
 fr-FR = "Nous jouons aux cartes."
@@ -830,7 +830,7 @@ sv-SE = "Vi spelar kort."
 tr-TR = "Kart oynuyoruz."
 pl-PL = "Gramy w karty."
 
-[conjugation.word00053]
+[word00053]
 de-DE = "Ihr spielt Tennis."
 en-US = "You play tennis."
 fr-FR = "Vous jouez au tennis."
@@ -846,7 +846,7 @@ sv-SE = "Ni spelar tennis."
 tr-TR = "Tenis oynuyorsunuz."
 pl-PL = "Gracie w tenisa."
 
-[conjugation.word00054]
+[word00054]
 de-DE = "Sie spielen im Garten."
 en-US = "They play in the garden."
 fr-FR = "Ils jouent dans le jardin."
@@ -862,7 +862,7 @@ sv-SE = "De leker i trädgården."
 tr-TR = "Bahçede oynuyorlar."
 pl-PL = "Oni bawią się w ogrodzie."
 
-[conjugation.word00055]
+[word00055]
 de-DE = "Ich klettere auf den Baum."
 en-US = "I climb the tree."
 fr-FR = "Je grimpe à l'arbre."
@@ -878,7 +878,7 @@ sv-SE = "Jag klättrar i trädet."
 tr-TR = "Ağaca tırmanıyorum."
 pl-PL = "Wspinam się na drzewo."
 
-[conjugation.word00056]
+[word00056]
 de-DE = "Du kletterst auf den Felsen."
 en-US = "You climb the rock."
 fr-FR = "Tu grimpes sur le rocher."
@@ -894,7 +894,7 @@ sv-SE = "Du klättrar på stenen."
 tr-TR = "Kayaya tırmanıyorsun."
 pl-PL = "Wspinasz się na skałę."
 
-[conjugation.word00057]
+[word00057]
 de-DE = "Er klettert auf das Dach."
 en-US = "He climbs onto the roof."
 fr-FR = "Il grimpe sur le toit."
@@ -910,7 +910,7 @@ sv-SE = "Han klättrar upp på taket."
 tr-TR = "Çatıya tırmanıyor."
 pl-PL = "On wspina się na dach."
 
-[conjugation.word00058]
+[word00058]
 de-DE = "Wir klettern in den Bergen."
 en-US = "We climb in the mountains."
 fr-FR = "Nous escaladons dans les montagnes."
@@ -926,7 +926,7 @@ sv-SE = "Vi klättrar i bergen."
 tr-TR = "Dağlarda tırmanıyoruz."
 pl-PL = "Wspinamy się w górach."
 
-[conjugation.word00059]
+[word00059]
 de-DE = "Ihr klettert auf den Turm."
 en-US = "You climb the tower."
 fr-FR = "Vous grimpez sur la tour."
@@ -942,7 +942,7 @@ sv-SE = "Ni klättrar upp i tornet."
 tr-TR = "Kuleye tırmanıyorsunuz."
 pl-PL = "Wspinacie się na wieżę."
 
-[conjugation.word00060]
+[word00060]
 de-DE = "Sie klettern auf den Hügel."
 en-US = "They climb the hill."
 fr-FR = "Ils grimpent sur la colline."
@@ -958,7 +958,7 @@ sv-SE = "De klättrar upp på kullen."
 tr-TR = "Tepeye tırmanıyorlar."
 pl-PL = "Oni wspinają się na wzgórze."
 
-[conjugation.word00061]
+[word00061]
 de-DE = "Ich wandere im Wald."
 en-US = "I hike in the forest."
 fr-FR = "Je fais de la randonnée en forêt."
@@ -974,7 +974,7 @@ sv-SE = "Jag vandrar i skogen."
 tr-TR = "Ormanda yürüyüş yapıyorum."
 pl-PL = "Wędruję po lesie."
 
-[conjugation.word00062]
+[word00062]
 de-DE = "Du wanderst am Fluss."
 en-US = "You hike by the river."
 fr-FR = "Tu fais de la randonnée le long de la rivière."
@@ -990,7 +990,7 @@ sv-SE = "Du vandrar vid floden."
 tr-TR = "Nehir kenarında yürüyorsun."
 pl-PL = "Wędrujesz nad rzeką."
 
-[conjugation.word00063]
+[word00063]
 de-DE = "Sie wandert in den Alpen."
 en-US = "She hikes in the Alps."
 fr-FR = "Elle fait de la randonnée dans les Alpes."
@@ -1006,7 +1006,7 @@ sv-SE = "Hon vandrar i Alperna."
 tr-TR = "Alplerde yürüyüş yapıyor."
 pl-PL = "Ona wędruje w Alpach."
 
-[conjugation.word00064]
+[word00064]
 de-DE = "Wir wandern zusammen."
 en-US = "We hike together."
 fr-FR = "Nous faisons de la randonnée ensemble."
@@ -1022,7 +1022,7 @@ sv-SE = "Vi vandrar tillsammans."
 tr-TR = "Birlikte yürüyüş yapıyoruz."
 pl-PL = "Wędrujemy razem."
 
-[conjugation.word00065]
+[word00065]
 de-DE = "Ihr wandert auf dem Weg."
 en-US = "You hike on the path."
 fr-FR = "Vous faites de la randonnée sur le chemin."
@@ -1038,7 +1038,7 @@ sv-SE = "Ni vandrar på stigen."
 tr-TR = "Yolda yürüyüş yapıyorsunuz."
 pl-PL = "Wędrujecie ścieżką."
 
-[conjugation.word00066]
+[word00066]
 de-DE = "Sie wandern durch das Tal."
 en-US = "They hike through the valley."
 fr-FR = "Ils font de la randonnée dans la vallée."
@@ -1054,7 +1054,7 @@ sv-SE = "De vandrar genom dalen."
 tr-TR = "Vadiden yürüyüş yapıyorlar."
 pl-PL = "Oni wędrują przez dolinę."
 
-[conjugation.word00067]
+[word00067]
 de-DE = "Ich fahre mit dem Auto."
 en-US = "I drive a car."
 fr-FR = "Je conduis une voiture."
@@ -1070,7 +1070,7 @@ sv-SE = "Jag kör bil."
 tr-TR = "Araba sürüyorum."
 pl-PL = "Prowadzę samochód."
 
-[conjugation.word00068]
+[word00068]
 de-DE = "Du fährst Fahrrad."
 en-US = "You ride a bicycle."
 fr-FR = "Tu fais du vélo."
@@ -1086,7 +1086,7 @@ sv-SE = "Du cyklar."
 tr-TR = "Bisiklete biniyorsun."
 pl-PL = "Jeździsz na rowerze."
 
-[conjugation.word00069]
+[word00069]
 de-DE = "Sie fährt mit dem Bus."
 en-US = "She takes the bus."
 fr-FR = "Elle prend le bus."
@@ -1102,7 +1102,7 @@ sv-SE = "Hon tar bussen."
 tr-TR = "Otobüse biniyor."
 pl-PL = "Ona jedzie autobusem."
 
-[conjugation.word00070]
+[word00070]
 de-DE = "Wir fahren nach Berlin."
 en-US = "We travel to Berlin."
 fr-FR = "Nous allons à Berlin."
@@ -1118,7 +1118,7 @@ sv-SE = "Vi åker till Berlin."
 tr-TR = "Berlin'e gidiyoruz."
 pl-PL = "Jedziemy do Berlina."
 
-[conjugation.word00071]
+[word00071]
 de-DE = "Ihr fahrt mit dem Zug."
 en-US = "You go by train."
 fr-FR = "Vous prenez le train."
@@ -1134,7 +1134,7 @@ sv-SE = "Ni åker tåg."
 tr-TR = "Trenle gidiyorsunuz."
 pl-PL = "Jedziecie pociągiem."
 
-[conjugation.word00072]
+[word00072]
 de-DE = "Sie fahren nach Hause."
 en-US = "They drive home."
 fr-FR = "Ils rentrent chez eux en voiture."

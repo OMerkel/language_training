@@ -1,4 +1,4 @@
-[hotel.word00001]
+[word00001]
 de-DE = "Ich hätte gerne ein Zimmer für zwei Personen."
 en-US = "I would like a room for two people."
 fr-FR = "Je voudrais une chambre pour deux personnes."
@@ -14,7 +14,7 @@ sv-SE = "Jag skulle vilja ha ett rum för två personer."
 tr-TR = "İki kişilik bir oda istiyorum."
 pl-PL = "Poproszę pokój dla dwóch osób."
 
-[hotel.word00002]
+[word00002]
 de-DE = "Ich hätte gerne ein Einzelzimmer."
 en-US = "I would like a single room."
 fr-FR = "Je voudrais une chambre simple."
@@ -30,7 +30,7 @@ sv-SE = "Jag skulle vilja ha ett enkelrum."
 tr-TR = "Tek kişilik bir oda istiyorum."
 pl-PL = "Poproszę pokój jednoosobowy."
 
-[hotel.word00003]
+[word00003]
 de-DE = "Ich hätte gerne ein Doppelzimmer."
 en-US = "I would like a double room."
 fr-FR = "Je voudrais une chambre double."
@@ -46,7 +46,7 @@ sv-SE = "Jag skulle vilja ha ett dubbelrum."
 tr-TR = "Çift kişilik bir oda istiyorum."
 pl-PL = "Poproszę pokój dwuosobowy."
 
-[hotel.word00004]
+[word00004]
 de-DE = "Ich hätte gerne ein Zimmer mit Bad."
 en-US = "I would like a room with a bath."
 fr-FR = "Je voudrais une chambre avec salle de bain."
@@ -62,7 +62,7 @@ sv-SE = "Jag skulle vilja ha ett rum med badrum."
 tr-TR = "Banyolu bir oda istiyorum."
 pl-PL = "Poproszę pokój z łazienką."
 
-[hotel.word00005]
+[word00005]
 de-DE = "Ich hätte gerne ein Zimmer mit Dusche."
 en-US = "I would like a room with a shower."
 fr-FR = "Je voudrais une chambre avec douche."
@@ -78,7 +78,7 @@ sv-SE = "Jag skulle vilja ha ett rum med dusch."
 tr-TR = "Duşlu bir oda istiyorum."
 pl-PL = "Poproszę pokój z prysznicem."
 
-[hotel.word00006]
+[word00006]
 de-DE = "Ich gehe die Treppe hoch."
 en-US = "I am going up the stairs."
 fr-FR = "Je monte les escaliers."
@@ -94,7 +94,7 @@ sv-SE = "Jag går uppför trappan."
 tr-TR = "Merdivenlerden yukarı çıkıyorum."
 pl-PL = "Wchodzę po schodach."
 
-[hotel.word00007]
+[word00007]
 de-DE = "Ich gehe die Treppe runter."
 en-US = "I am going down the stairs."
 fr-FR = "Je descends les escaliers."
@@ -110,7 +110,7 @@ sv-SE = "Jag går nerför trappan."
 tr-TR = "Merdivenlerden aşağı iniyorum."
 pl-PL = "Schodzę po schodach."
 
-[hotel.word00008]
+[word00008]
 de-DE = "Die Rezeption ist im Erdgeschoss."
 en-US = "The reception is on the ground floor."
 fr-FR = "La réception est au rez-de-chaussée."
@@ -126,7 +126,7 @@ sv-SE = "Receptionen ligger på bottenvåningen."
 tr-TR = "Resepsiyon zemin katta."
 pl-PL = "Recepcja znajduje się na parterze."
 
-[hotel.word00009]
+[word00009]
 de-DE = "Das Zimmer ist im dritten Stock."
 en-US = "The room is on the third floor."
 fr-FR = "La chambre est au troisième étage."
@@ -142,7 +142,7 @@ sv-SE = "Rummet ligger på tredje våningen."
 tr-TR = "Oda üçüncü katta."
 pl-PL = "Pokój jest na trzecim piętrze."
 
-[hotel.word00010]
+[word00010]
 de-DE = "Die Lobby"
 en-US = "The lobby"
 fr-FR = "Le hall"
@@ -158,7 +158,7 @@ sv-SE = "Lobbyn"
 tr-TR = "Lobi"
 pl-PL = "Hol"
 
-[hotel.word00011]
+[word00011]
 de-DE = "Ab wann ist das Restaurant geöffnet?"
 en-US = "From what time is the restaurant open?"
 fr-FR = "À partir de quelle heure le restaurant est-il ouvert ?"
@@ -174,7 +174,7 @@ sv-SE = "Från vilken tid är restaurangen öppen?"
 tr-TR = "Restoran saat kaçtan itibaren açık?"
 pl-PL = "Od której godziny restauracja jest otwarta?"
 
-[hotel.word00012]
+[word00012]
 de-DE = "Wie viel kostet das Zimmer?"
 en-US = "How much does the room cost?"
 fr-FR = "Combien coûte la chambre ?"
@@ -190,7 +190,7 @@ sv-SE = "Hur mycket kostar rummet?"
 tr-TR = "Oda ne kadar?"
 pl-PL = "Ile kosztuje pokój?"
 
-[hotel.word00013]
+[word00013]
 de-DE = "Ich habe eine Reservierung."
 en-US = "I have a reservation."
 fr-FR = "J'ai une réservation."
@@ -206,7 +206,7 @@ sv-SE = "Jag har en bokning."
 tr-TR = "Bir rezervasyonum var."
 pl-PL = "Mam rezerwację."
 
-[hotel.word00014]
+[word00014]
 de-DE = "Ich möchte ein Zimmer reservieren."
 en-US = "I would like to reserve a room."
 fr-FR = "Je voudrais réserver une chambre."
@@ -222,7 +222,7 @@ sv-SE = "Jag skulle vilja boka ett rum."
 tr-TR = "Bir oda ayırtmak istiyorum."
 pl-PL = "Chciałbym zarezerwować pokój."
 
-[hotel.word00015]
+[word00015]
 de-DE = "Ich möchte ein Zimmer stornieren."
 en-US = "I would like to cancel a room."
 fr-FR = "Je voudrais annuler une chambre."
@@ -238,7 +238,7 @@ sv-SE = "Jag skulle vilja avboka ett rum."
 tr-TR = "Bir odayı iptal etmek istiyorum."
 pl-PL = "Chciałbym anulować pokój."
 
-[hotel.word00016]
+[word00016]
 de-DE = "Ich möchte bitte ein Zimmer für eine Nacht."
 en-US = "I would like a room for one night, please."
 fr-FR = "Je voudrais une chambre pour une nuit, s'il vous plaît."
@@ -254,7 +254,7 @@ sv-SE = "Jag skulle vilja ha ett rum för en natt, tack."
 tr-TR = "Bir gece için oda istiyorum, lütfen."
 pl-PL = "Poproszę pokój na jedną noc."
 
-[hotel.word00017]
+[word00017]
 de-DE = "die Abreise"
 en-US = "the departure"
 fr-FR = "le départ"
@@ -270,7 +270,7 @@ sv-SE = "avresan"
 tr-TR = "ayrılış"
 pl-PL = "wyjazd"
 
-[hotel.word00018]
+[word00018]
 de-DE = "Wir reisen am Sonntag ab."
 en-US = "We are leaving on Sunday."
 fr-FR = "Nous partons dimanche."
@@ -286,7 +286,7 @@ sv-SE = "Vi åker på söndag."
 tr-TR = "Pazar günü ayrılıyoruz."
 pl-PL = "Wyjeżdżamy w niedzielę."
 
-[hotel.word00019]
+[word00019]
 de-DE = "das Hotel"
 en-US = "the hotel"
 fr-FR = "l'hôtel"

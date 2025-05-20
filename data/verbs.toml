@@ -1,4 +1,4 @@
-[verbs.word00001]
+[word00001]
 de-DE = "Ich kaufe Schuhe."
 en-US = "I buy shoes."
 fr-FR = "J'achète des chaussures."
@@ -14,7 +14,7 @@ sv-SE = "Jag köper skor."
 tr-TR = "Ayakkabı alıyorum."
 pl-PL = "Kupuję buty."
 
-[verbs.word00002]
+[word00002]
 de-DE = "Wir gehen in die Stadt."
 en-US = "We go to the city."
 fr-FR = "Nous allons en ville."
@@ -30,7 +30,7 @@ sv-SE = "Vi går till staden."
 tr-TR = "Şehre gidiyoruz."
 pl-PL = "Idziemy do miasta."
 
-[verbs.word00003]
+[word00003]
 de-DE = "Er trifft sich mit ihr."
 en-US = "He meets with her."
 fr-FR = "Il la rencontre."
@@ -46,7 +46,7 @@ sv-SE = "Han träffar henne."
 tr-TR = "O, onunla buluşuyor."
 pl-PL = "On spotyka się z nią."
 
-[verbs.word00004]
+[word00004]
 de-DE = "Sie liest ein Buch."
 en-US = "She reads a book."
 fr-FR = "Elle lit un livre."
@@ -62,7 +62,7 @@ sv-SE = "Hon läser en bok."
 tr-TR = "O bir kitap okuyor."
 pl-PL = "Ona czyta książkę."
 
-[verbs.word00005]
+[word00005]
 de-DE = "Wir essen zu Abend."
 en-US = "We have dinner."
 fr-FR = "Nous dînons."
@@ -78,7 +78,7 @@ sv-SE = "Vi äter middag."
 tr-TR = "Akşam yemeği yiyoruz."
 pl-PL = "Jemy kolację."
 
-[verbs.word00006]
+[word00006]
 de-DE = "Du schreibst einen Brief."
 en-US = "You write a letter."
 fr-FR = "Tu écris une lettre."
@@ -94,7 +94,7 @@ sv-SE = "Du skriver ett brev."
 tr-TR = "Sen bir mektup yazıyorsun."
 pl-PL = "Piszesz list."
 
-[verbs.word00007]
+[word00007]
 de-DE = "Sie schlafen im Hotel."
 en-US = "They sleep in the hotel."
 fr-FR = "Ils dorment à l'hôtel."
@@ -110,7 +110,7 @@ sv-SE = "De sover på hotellet."
 tr-TR = "Onlar otelde uyuyorlar."
 pl-PL = "Oni śpią w hotelu."
 
-[verbs.word00008]
+[word00008]
 de-DE = "Ich trinke Wasser."
 en-US = "I drink water."
 fr-FR = "Je bois de l'eau."
@@ -126,7 +126,7 @@ sv-SE = "Jag dricker vatten."
 tr-TR = "Su içiyorum."
 pl-PL = "Piję wodę."
 
-[verbs.word00009]
+[word00009]
 de-DE = "Du fährst mit dem Fahrrad."
 en-US = "You ride a bicycle."
 fr-FR = "Tu fais du vélo."
@@ -142,7 +142,7 @@ sv-SE = "Du cyklar."
 tr-TR = "Bisiklete biniyorsun."
 pl-PL = "Jeździsz na rowerze."
 
-[verbs.word00010]
+[word00010]
 de-DE = "Er kocht das Abendessen."
 en-US = "He cooks dinner."
 fr-FR = "Il prépare le dîner."
@@ -158,7 +158,7 @@ sv-SE = "Han lagar middag."
 tr-TR = "O akşam yemeği pişiriyor."
 pl-PL = "On gotuje kolację."
 
-[verbs.word00011]
+[word00011]
 de-DE = "Sie tanzt gern."
 en-US = "She likes to dance."
 fr-FR = "Elle aime danser."
@@ -174,7 +174,7 @@ sv-SE = "Hon gillar att dansa."
 tr-TR = "O dans etmeyi sever."
 pl-PL = "Ona lubi tańczyć."
 
-[verbs.word00012]
+[word00012]
 de-DE = "Wir schwimmen im See."
 en-US = "We swim in the lake."
 fr-FR = "Nous nageons dans le lac."
@@ -190,7 +190,7 @@ sv-SE = "Vi simmar i sjön."
 tr-TR = "Gölda yüzüyoruz."
 pl-PL = "Pływamy w jeziorze."
 
-[verbs.word00013]
+[word00013]
 de-DE = "Ihr spielt Fußball."
 en-US = "You play soccer."
 fr-FR = "Vous jouez au football."
@@ -206,7 +206,7 @@ sv-SE = "Ni spelar fotboll."
 tr-TR = "Futbol oynuyorsunuz."
 pl-PL = "Gracie w piłkę nożną."
 
-[verbs.word00014]
+[word00014]
 de-DE = "Sie besuchen ihre Großeltern."
 en-US = "They visit their grandparents."
 fr-FR = "Ils rendent visite à leurs grands-parents."
@@ -222,7 +222,7 @@ sv-SE = "De besöker sina morföräldrar."
 tr-TR = "Onlar büyükanne ve büyükbabalarını ziyaret ediyorlar."
 pl-PL = "Oni odwiedzają swoich dziadków."
 
-[verbs.word00015]
+[word00015]
 de-DE = "Ich höre Musik."
 en-US = "I listen to music."
 fr-FR = "J'écoute de la musique."
@@ -238,7 +238,7 @@ sv-SE = "Jag lyssnar på musik."
 tr-TR = "Müzik dinliyorum."
 pl-PL = "Słucham muzyki."
 
-[verbs.word00016]
+[word00016]
 de-DE = "Du malst ein Bild."
 en-US = "You paint a picture."
 fr-FR = "Tu peins un tableau."
@@ -254,7 +254,7 @@ sv-SE = "Du målar en tavla."
 tr-TR = "Bir resim boyuyorsun."
 pl-PL = "Malujesz obraz."
 
-[verbs.word00017]
+[word00017]
 de-DE = "Er telefoniert mit seinem Freund."
 en-US = "He calls his friend."
 fr-FR = "Il téléphone à son ami."
@@ -270,7 +270,7 @@ sv-SE = "Han ringer sin vän."
 tr-TR = "Arkadaşını arıyor."
 pl-PL = "Dzwoni do swojego przyjaciela."
 
-[verbs.word00018]
+[word00018]
 de-DE = "Sie lernt für die Prüfung."
 en-US = "She studies for the exam."
 fr-FR = "Elle étudie pour l'examen."
@@ -286,7 +286,7 @@ sv-SE = "Hon pluggar till provet."
 tr-TR = "O sınava çalışıyor."
 pl-PL = "Ona uczy się do egzaminu."
 
-[verbs.word00019]
+[word00019]
 de-DE = "Wir laufen im Park."
 en-US = "We run in the park."
 fr-FR = "Nous courons dans le parc."
@@ -302,7 +302,7 @@ sv-SE = "Vi springer i parken."
 tr-TR = "Parkta koşuyoruz."
 pl-PL = "Biegamy w parku."
 
-[verbs.word00020]
+[word00020]
 de-DE = "Ihr kauft Obst auf dem Markt."
 en-US = "You buy fruit at the market."
 fr-FR = "Vous achetez des fruits au marché."
@@ -318,7 +318,7 @@ sv-SE = "Ni köper frukt på marknaden."
 tr-TR = "Pazarda meyve alıyorsunuz."
 pl-PL = "Kupujecie owoce na targu."
 
-[verbs.word00021]
+[word00021]
 de-DE = "Sie reparieren das Auto."
 en-US = "They repair the car."
 fr-FR = "Ils réparent la voiture."
@@ -334,7 +334,7 @@ sv-SE = "De lagar bilen."
 tr-TR = "Arabayı tamir ediyorlar."
 pl-PL = "Oni naprawiają samochód."
 
-[verbs.word00022]
+[word00022]
 de-DE = "Ich öffne das Fenster."
 en-US = "I open the window."
 fr-FR = "J'ouvre la fenêtre."
@@ -350,7 +350,7 @@ sv-SE = "Jag öppnar fönstret."
 tr-TR = "Pencereyi açıyorum."
 pl-PL = "Otwieram okno."
 
-[verbs.word00023]
+[word00023]
 de-DE = "Du schließt die Tür."
 en-US = "You close the door."
 fr-FR = "Tu fermes la porte."
@@ -366,7 +366,7 @@ sv-SE = "Du stänger dörren."
 tr-TR = "Kapıyı kapatıyorsun."
 pl-PL = "Zamykasz drzwi."
 
-[verbs.word00024]
+[word00024]
 de-DE = "Er fotografiert die Landschaft."
 en-US = "He photographs the landscape."
 fr-FR = "Il photographie le paysage."
@@ -382,7 +382,7 @@ sv-SE = "Han fotograferar landskapet."
 tr-TR = "Manzarayı fotoğraflıyor."
 pl-PL = "On fotografuje krajobraz."
 
-[verbs.word00025]
+[word00025]
 de-DE = "Sie backt einen Kuchen."
 en-US = "She bakes a cake."
 fr-FR = "Elle fait un gâteau."

@@ -1,4 +1,4 @@
-[ordinals.word00001]
+[word00001]
 de-DE = "der erste Platz"
 en-US = "the first place"
 it-IT = "il primo posto"
@@ -14,7 +14,7 @@ sv-SE = "första platsen"
 tr-TR = "birinci yer"
 pl-PL = "pierwsze miejsce"
 
-[ordinals.word00002]
+[word00002]
 de-DE = "der zweite Platz"
 en-US = "the second place"
 it-IT = "il secondo posto"
@@ -30,7 +30,7 @@ sv-SE = "andra platsen"
 tr-TR = "ikinci yer"
 pl-PL = "drugie miejsce"
 
-[ordinals.word00003]
+[word00003]
 de-DE = "der dritte Platz"
 en-US = "the third place"
 it-IT = "il terzo posto"
@@ -46,7 +46,7 @@ sv-SE = "tredje platsen"
 tr-TR = "üçüncü yer"
 pl-PL = "trzecie miejsce"
 
-[ordinals.word00004]
+[word00004]
 de-DE = "der vierte Platz"
 en-US = "the fourth place"
 it-IT = "il quarto posto"
@@ -62,7 +62,7 @@ sv-SE = "fjärde platsen"
 tr-TR = "dördüncü yer"
 pl-PL = "czwarte miejsce"
 
-[ordinals.word00005]
+[word00005]
 de-DE = "der fünfte Platz"
 en-US = "the fifth place"
 it-IT = "il quinto posto"
@@ -78,7 +78,7 @@ sv-SE = "femte platsen"
 tr-TR = "beşinci yer"
 pl-PL = "piąte miejsce"
 
-[ordinals.word00006]
+[word00006]
 de-DE = "der sechste Platz"
 en-US = "the sixth place"
 it-IT = "il sesto posto"
@@ -94,7 +94,7 @@ sv-SE = "sjätte platsen"
 tr-TR = "altıncı yer"
 pl-PL = "szóste miejsce"
 
-[ordinals.word00007]
+[word00007]
 de-DE = "der siebte Platz"
 en-US = "the seventh place"
 it-IT = "il settimo posto"
@@ -110,7 +110,7 @@ sv-SE = "sjunde platsen"
 tr-TR = "yedinci yer"
 pl-PL = "siódme miejsce"
 
-[ordinals.word00008]
+[word00008]
 de-DE = "der achte Platz"
 en-US = "the eighth place"
 it-IT = "l'ottavo posto"
@@ -126,7 +126,7 @@ sv-SE = "åttonde platsen"
 tr-TR = "sekizinci yer"
 pl-PL = "ósme miejsce"
 
-[ordinals.word00009]
+[word00009]
 de-DE = "der neunte Platz"
 en-US = "the ninth place"
 it-IT = "il nono posto"
@@ -142,7 +142,7 @@ sv-SE = "nionde platsen"
 tr-TR = "dokuzuncu yer"
 pl-PL = "dziewiąte miejsce"
 
-[ordinals.word00010]
+[word00010]
 de-DE = "der zehnte Platz"
 en-US = "the tenth place"
 it-IT = "il decimo posto"
@@ -158,7 +158,7 @@ sv-SE = "tionde platsen"
 tr-TR = "onuncu yer"
 pl-PL = "dziesiąte miejsce"
 
-[ordinals.word00011]
+[word00011]
 de-DE = "der elfte Platz"
 en-US = "the eleventh place"
 it-IT = "l'undicesimo posto"
@@ -174,7 +174,7 @@ sv-SE = "elfte platsen"
 tr-TR = "on birinci yer"
 pl-PL = "jedenaste miejsce"
 
-[ordinals.word00012]
+[word00012]
 de-DE = "der zwölfte Platz"
 en-US = "the twelfth place"
 it-IT = "il dodicesimo posto"
@@ -190,7 +190,7 @@ sv-SE = "tolfte platsen"
 tr-TR = "on ikinci yer"
 pl-PL = "dwunaste miejsce"
 
-[ordinals.word00013]
+[word00013]
 de-DE = "der dreizehnte Platz"
 en-US = "the thirteenth place"
 it-IT = "il tredicesimo posto"
@@ -206,7 +206,7 @@ sv-SE = "trettonde platsen"
 tr-TR = "on üçüncü yer"
 pl-PL = "trzynaste miejsce"
 
-[ordinals.word00014]
+[word00014]
 de-DE = "der vierzehnte Platz"
 en-US = "the fourteenth place"
 it-IT = "il quattordicesimo posto"
@@ -222,7 +222,7 @@ sv-SE = "fjortonde platsen"
 tr-TR = "on dördüncü yer"
 pl-PL = "czternaste miejsce"
 
-[ordinals.word00015]
+[word00015]
 de-DE = "der fünfzehnte Platz"
 en-US = "the fifteenth place"
 it-IT = "il quindicesimo posto"
@@ -238,7 +238,7 @@ sv-SE = "femtonde platsen"
 tr-TR = "on beşinci yer"
 pl-PL = "piętnaste miejsce"
 
-[ordinals.word00016]
+[word00016]
 de-DE = "der sechzehnte Platz"
 en-US = "the sixteenth place"
 it-IT = "il sedicesimo posto"
@@ -254,7 +254,7 @@ sv-SE = "sextonde platsen"
 tr-TR = "on altıncı yer"
 pl-PL = "szesnaste miejsce"
 
-[ordinals.word00017]
+[word00017]
 de-DE = "der siebzehnte Platz"
 en-US = "the seventeenth place"
 it-IT = "il diciassettesimo posto"
@@ -270,7 +270,7 @@ sv-SE = "sjuttonde platsen"
 tr-TR = "on yedinci yer"
 pl-PL = "siedemnaste miejsce"
 
-[ordinals.word00018]
+[word00018]
 de-DE = "der achtzehnte Platz"
 en-US = "the eighteenth place"
 it-IT = "il diciottesimo posto"
@@ -286,7 +286,7 @@ sv-SE = "artonnde platsen"
 tr-TR = "on sekizinci yer"
 pl-PL = "osiemnaste miejsce"
 
-[ordinals.word00019]
+[word00019]
 de-DE = "der neunzehnte Platz"
 en-US = "the nineteenth place"
 it-IT = "il diciannovesimo posto"
@@ -302,7 +302,7 @@ sv-SE = "nittonde platsen"
 tr-TR = "on dokuzuncu yer"
 pl-PL = "dziewiętnaste miejsce"
 
-[ordinals.word00020]
+[word00020]
 de-DE = "der zwanzigste Platz"
 en-US = "the twentieth place"
 it-IT = "il ventesimo posto"
@@ -318,7 +318,7 @@ sv-SE = "tjugonde platsen"
 tr-TR = "yirminci yer"
 pl-PL = "dwudzieste miejsce"
 
-[ordinals.word00021]
+[word00021]
 de-DE = "Die einundzwanzigste Flasche"
 en-US = "the twenty-first bottle"
 it-IT = "la ventunesima bottiglia"
@@ -334,7 +334,7 @@ sv-SE = "den tjugoförsta flaskan"
 tr-TR = "yirmi birinci şişe"
 pl-PL = "dwudziesta pierwsza butelka"
 
-[ordinals.word00022]
+[word00022]
 de-DE = "Die zweiundzwanzigste Flasche"
 en-US = "the twenty-second bottle"
 it-IT = "la ventiduesima bottiglia"
@@ -350,7 +350,7 @@ sv-SE = "den tjugoandra flaskan"
 tr-TR = "yirmi ikinci şişe"
 pl-PL = "dwudziesta druga butelka"
 
-[ordinals.word00023]
+[word00023]
 de-DE = "Die dreiundzwanzigste Flasche"
 en-US = "the twenty-third bottle"
 it-IT = "la ventitreesima bottiglia"
@@ -366,7 +366,7 @@ sv-SE = "den tjugotredje flaskan"
 tr-TR = "yirmi üçüncü şişe"
 pl-PL = "dwudziesta trzecia butelka"
 
-[ordinals.word00024]
+[word00024]
 de-DE = "Die vierundzwanzigste Flasche"
 en-US = "the twenty-fourth bottle"
 it-IT = "la ventiquattresima bottiglia"
@@ -382,7 +382,7 @@ sv-SE = "den tjugofjärde flaskan"
 tr-TR = "yirmi dördüncü şişe"
 pl-PL = "dwudziesta czwarta butelka"
 
-[ordinals.word00025]
+[word00025]
 de-DE = "Die fünfundzwanzigste Flasche"
 en-US = "the twenty-fifth bottle"
 it-IT = "la venticinquesima bottiglia"
@@ -398,7 +398,7 @@ sv-SE = "den tjugofemte flaskan"
 tr-TR = "yirmi beşinci şişe"
 pl-PL = "dwudziesta piąta butelka"
 
-[ordinals.word00026]
+[word00026]
 de-DE = "Die sechsundzwanzigste Flasche"
 en-US = "the twenty-sixth bottle"
 it-IT = "la ventiseiesima bottiglia"
@@ -414,7 +414,7 @@ sv-SE = "den tjugosjätte flaskan"
 tr-TR = "yirmi altıncı şişe"
 pl-PL = "dwudziesta szósta butelka"
 
-[ordinals.word00027]
+[word00027]
 de-DE = "Die siebenundzwanzigste Flasche"
 en-US = "the twenty-seventh bottle"
 it-IT = "la ventisettesima bottiglia"
@@ -430,7 +430,7 @@ sv-SE = "den tjugosjunde flaskan"
 tr-TR = "yirmi yedinci şişe"
 pl-PL = "dwudziesta siódma butelka"
 
-[ordinals.word00028]
+[word00028]
 de-DE = "Die achtundzwanzigste Flasche"
 en-US = "the twenty-eighth bottle"
 it-IT = "la ventottesima bottiglia"
@@ -446,7 +446,7 @@ sv-SE = "den tjugoåttonde flaskan"
 tr-TR = "yirmi sekizinci şişe"
 pl-PL = "dwudziesta ósma butelka"
 
-[ordinals.word00029]
+[word00029]
 de-DE = "Die neunundzwanzigste Flasche"
 en-US = "the twenty-ninth bottle"
 it-IT = "la ventinovesima bottiglia"
@@ -462,7 +462,7 @@ sv-SE = "den tjugonionde flaskan"
 tr-TR = "yirmi dokuzuncu şişe"
 pl-PL = "dwudziesta dziewiąta butelka"
 
-[ordinals.word00030]
+[word00030]
 de-DE = "Die dreißigste Flasche"
 en-US = "the thirtieth bottle"
 it-IT = "la trentesima bottiglia"
@@ -478,7 +478,7 @@ sv-SE = "den trettionde flaskan"
 tr-TR = "otuzuncu şişe"
 pl-PL = "trzydziesta butelka"
 
-[ordinals.word00031]
+[word00031]
 de-DE = "Die einunddreißigste Flasche"
 en-US = "the thirty-first bottle"
 it-IT = "la trentunesima bottiglia"
@@ -494,7 +494,7 @@ sv-SE = "den trettioförsta flaskan"
 tr-TR = "otuz birinci şişe"
 pl-PL = "trzydziesta pierwsza butelka"
 
-[ordinals.word00032]
+[word00032]
 de-DE = "Die zweiunddreißigste Flasche"
 en-US = "the thirty-second bottle"
 it-IT = "la trentaduesima bottiglia"
@@ -510,7 +510,7 @@ sv-SE = "den trettioandra flaskan"
 tr-TR = "otuz ikinci şişe"
 pl-PL = "trzydziesta druga butelka"
 
-[ordinals.word00033]
+[word00033]
 de-DE = "Die dreiunddreißigste Flasche"
 en-US = "the thirty-third bottle"
 it-IT = "la trentatreesima bottiglia"
@@ -526,7 +526,7 @@ sv-SE = "den trettiotredje flaskan"
 tr-TR = "otuz üçüncü şişe"
 pl-PL = "trzydziesta trzecia butelka"
 
-[ordinals.word00034]
+[word00034]
 de-DE = "Die vierunddreißigste Flasche"
 en-US = "the thirty-fourth bottle"
 it-IT = "la trentaquattresima bottiglia"
@@ -542,7 +542,7 @@ sv-SE = "den trettiofjärde flaskan"
 tr-TR = "otuz dördüncü şişe"
 pl-PL = "trzydziesta czwarta butelka"
 
-[ordinals.word00035]
+[word00035]
 de-DE = "Die fünfunddreißigste Flasche"
 en-US = "the thirty-fifth bottle"
 it-IT = "la trentacinquesima bottiglia"
@@ -558,7 +558,7 @@ sv-SE = "den trettiofemte flaskan"
 tr-TR = "otuz beşinci şişe"
 pl-PL = "trzydziesta piąta butelka"
 
-[ordinals.word00036]
+[word00036]
 de-DE = "Die sechsunddreißigste Flasche"
 en-US = "the thirty-sixth bottle"
 it-IT = "la trentaseiesima bottiglia"
@@ -574,7 +574,7 @@ sv-SE = "den trettiosjätte flaskan"
 tr-TR = "otuz altıncı şişe"
 pl-PL = "trzydziesta szósta butelka"
 
-[ordinals.word00037]
+[word00037]
 de-DE = "Die siebenunddreißigste Flasche"
 en-US = "the thirty-seventh bottle"
 it-IT = "la trentasettesima bottiglia"

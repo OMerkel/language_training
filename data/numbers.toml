@@ -1,4 +1,4 @@
-[numbers.word00001]
+[word00001]
 en-US = "one"
 fr-FR = "un"
 de-DE = "eins"
@@ -14,7 +14,7 @@ tr-TR = "bir"
 pl-PL = "jeden"
 it-IT = "uno"
 
-[numbers.word00002]
+[word00002]
 en-US = "two"
 fr-FR = "deux"
 de-DE = "zwei"
@@ -30,7 +30,7 @@ tr-TR = "iki"
 pl-PL = "dwa"
 it-IT = "due"
 
-[numbers.word00003]
+[word00003]
 en-US = "three"
 fr-FR = "trois"
 de-DE = "drei"
@@ -46,7 +46,7 @@ tr-TR = "üç"
 pl-PL = "trzy"
 it-IT = "tre"
 
-[numbers.word00004]
+[word00004]
 en-US = "four"
 fr-FR = "quatre"
 de-DE = "vier"
@@ -62,7 +62,7 @@ tr-TR = "dört"
 pl-PL = "cztery"
 it-IT = "quattro"
 
-[numbers.word00005]
+[word00005]
 en-US = "five"
 fr-FR = "cinq"
 de-DE = "fünf"
@@ -78,7 +78,7 @@ tr-TR = "beş"
 pl-PL = "pięć"
 it-IT = "cinque"
 
-[numbers.word00006]
+[word00006]
 en-US = "six"
 fr-FR = "six"
 de-DE = "sechs"
@@ -94,7 +94,7 @@ tr-TR = "altı"
 pl-PL = "sześć"
 it-IT = "sei"
 
-[numbers.word00007]
+[word00007]
 en-US = "seven"
 fr-FR = "sept"
 de-DE = "sieben"
@@ -110,7 +110,7 @@ tr-TR = "yedi"
 pl-PL = "siedem"
 it-IT = "sette"
 
-[numbers.word00008]
+[word00008]
 en-US = "eight"
 fr-FR = "huit"
 de-DE = "acht"
@@ -126,7 +126,7 @@ tr-TR = "sekiz"
 pl-PL = "osiem"
 it-IT = "otto"
 
-[numbers.word00009]
+[word00009]
 en-US = "nine"
 fr-FR = "neuf"
 de-DE = "neun"
@@ -142,7 +142,7 @@ tr-TR = "dokuz"
 pl-PL = "dziewięć"
 it-IT = "nove"
 
-[numbers.word00010]
+[word00010]
 en-US = "ten"
 fr-FR = "dix"
 de-DE = "zehn"
@@ -158,7 +158,7 @@ tr-TR = "on"
 pl-PL = "dziesięć"
 it-IT = "dieci"
 
-[numbers.word00011]
+[word00011]
 en-US = "eleven"
 fr-FR = "onze"
 de-DE = "elf"
@@ -174,7 +174,7 @@ tr-TR = "on bir"
 pl-PL = "jedenaście"
 it-IT = "undici"
 
-[numbers.word00012]
+[word00012]
 en-US = "twelve"
 fr-FR = "douze"
 de-DE = "zwölf"
@@ -190,7 +190,7 @@ tr-TR = "on iki"
 pl-PL = "dwanaście"
 it-IT = "dodici"
 
-[numbers.word00013]
+[word00013]
 de-DE = "dreizehn"
 en-US = "thirteen"
 fr-FR = "treize"
@@ -206,7 +206,7 @@ tr-TR = "on üç"
 pl-PL = "trzynaście"
 it-IT = "tredici"
 
-[numbers.word00014]
+[word00014]
 de-DE = "vierzehn"
 en-US = "fourteen"
 fr-FR = "quatorze"
@@ -222,7 +222,7 @@ tr-TR = "on dört"
 pl-PL = "czternaście"
 it-IT = "quattordici"
 
-[numbers.word00015]
+[word00015]
 de-DE = "fünfzehn"
 en-US = "fifteen"
 fr-FR = "quinze"
@@ -238,7 +238,7 @@ tr-TR = "on beş"
 pl-PL = "piętnaście"
 it-IT = "quindici"
 
-[numbers.word00016]
+[word00016]
 de-DE = "sechzehn"
 en-US = "sixteen"
 fr-FR = "seize"
@@ -254,7 +254,7 @@ tr-TR = "on altı"
 pl-PL = "szesnaście"
 it-IT = "sedici"
 
-[numbers.word00017]
+[word00017]
 de-DE = "siebzehn"
 en-US = "seventeen"
 fr-FR = "dix-sept"
@@ -270,7 +270,7 @@ tr-TR = "on yedi"
 pl-PL = "siedemnaście"
 it-IT = "diciassette"
 
-[numbers.word00018]
+[word00018]
 de-DE = "achtzehn"
 en-US = "eighteen"
 fr-FR = "dix-huit"
@@ -286,7 +286,7 @@ tr-TR = "on sekiz"
 pl-PL = "osiemnaście"
 it-IT = "diciotto"
 
-[numbers.word00019]
+[word00019]
 de-DE = "neunzehn"
 en-US = "nineteen"
 fr-FR = "dix-neuf"
@@ -302,7 +302,7 @@ tr-TR = "on dokuz"
 pl-PL = "dziewiętnaście"
 it-IT = "diciannove"
 
-[numbers.word00020]
+[word00020]
 de-DE = "zwanzig"
 en-US = "twenty"
 fr-FR = "vingt"

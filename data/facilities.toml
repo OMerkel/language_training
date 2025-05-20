@@ -1,4 +1,4 @@
-[facilities.word00001]
+[word00001]
 en-US = "the door"
 fr-FR = "la porte"
 de-DE = "die Tür"
@@ -14,7 +14,7 @@ sv-SE = "dörren"
 tr-TR = "kapı"
 pl-PL = "drzwi"
 
-[facilities.word00002]
+[word00002]
 en-US = "the window"
 fr-FR = "la fenêtre"
 de-DE = "das Fenster"
@@ -30,7 +30,7 @@ sv-SE = "fönstret"
 tr-TR = "pencere"
 pl-PL = "okno"
 
-[facilities.word00003]
+[word00003]
 en-US = "the wall"
 fr-FR = "le mur"
 de-DE = "die Wand"
@@ -46,7 +46,7 @@ sv-SE = "väggen"
 tr-TR = "duvar"
 pl-PL = "ściana"
 
-[facilities.word00004]
+[word00004]
 en-US = "the floor"
 fr-FR = "le sol"
 de-DE = "der Boden"
@@ -62,7 +62,7 @@ sv-SE = "golvet"
 tr-TR = "zemin"
 pl-PL = "podłoga"
 
-[facilities.word00005]
+[word00005]
 en-US = "the ceiling"
 fr-FR = "le plafond"
 de-DE = "die Decke"
@@ -78,7 +78,7 @@ sv-SE = "taket"
 tr-TR = "tavan"
 pl-PL = "sufit"
 
-[facilities.word00006]
+[word00006]
 en-US = "the roof"
 fr-FR = "le toit"
 de-DE = "das Dach"
@@ -94,7 +94,7 @@ sv-SE = "taket"
 tr-TR = "çatı"
 pl-PL = "dach"
 
-[facilities.word00007]
+[word00007]
 en-US = "the stairs"
 fr-FR = "l'escalier"
 de-DE = "die Treppe"
@@ -110,7 +110,7 @@ sv-SE = "trappan"
 tr-TR = "merdiven"
 pl-PL = "schody"
 
-[facilities.word00008]
+[word00008]
 it-IT = "la scala"
 fr-FR = "l'échelle"
 de-DE = "die Leiter"
@@ -126,7 +126,7 @@ sv-SE = "stegen"
 tr-TR = "merdiven"
 pl-PL = "drabina"
 
-[facilities.word00009]
+[word00009]
 en-US = "the yard"
 fr-FR = "la cour"
 de-DE = "der Hof"
@@ -142,7 +142,7 @@ sv-SE = "gården"
 tr-TR = "avlu"
 pl-PL = "podwórko"
 
-[facilities.word00010]
+[word00010]
 en-US = "the fence"
 fr-FR = "la clôture"
 de-DE = "der Zaun"
@@ -158,7 +158,7 @@ sv-SE = "staketet"
 tr-TR = "çit"
 pl-PL = "płot"
 
-[facilities.word00011]
+[word00011]
 en-US = "the gate"
 fr-FR = "le portail"
 de-DE = "das Tor"
@@ -174,7 +174,7 @@ sv-SE = "grinden"
 tr-TR = "kapı"
 pl-PL = "brama"
 
-[facilities.word00012]
+[word00012]
 de-DE = "der Briefkasten"
 en-US = "the mailbox"
 fr-FR = "la boîte aux lettres"
@@ -190,7 +190,7 @@ sv-SE = "brevlådan"
 tr-TR = "posta kutusu"
 pl-PL = "skrzynka na listy"
 
-[facilities.word00013]
+[word00013]
 en-US = "the elevator button"
 fr-FR = "le bouton d'ascenseur"
 de-DE = "der Aufzugknopf"
@@ -206,7 +206,7 @@ sv-SE = "hissknappen"
 tr-TR = "asansör düğmesi"
 pl-PL = "przycisk windy"
 
-[facilities.word00014]
+[word00014]
 en-US = "the light switch"
 fr-FR = "l'interrupteur"
 de-DE = "der Lichtschalter"
@@ -222,7 +222,7 @@ sv-SE = "ljusbrytaren"
 tr-TR = "ışık anahtarı"
 pl-PL = "włącznik światła"
 
-[facilities.word00015]
+[word00015]
 en-US = "the remote control"
 fr-FR = "la télécommande"
 de-DE = "die Fernbedienung"
@@ -238,7 +238,7 @@ sv-SE = "fjärrkontrollen"
 tr-TR = "uzaktan kumanda"
 pl-PL = "pilot zdalnego sterowania"
 
-[facilities.word00016]
+[word00016]
 en-US = "the air conditioner"
 fr-FR = "le climatiseur"
 de-DE = "die Klimaanlage"
@@ -254,7 +254,7 @@ sv-SE = "luftkonditioneringen"
 tr-TR = "klima"
 pl-PL = "klimatyzacja"
 
-[facilities.word00017]
+[word00017]
 en-US = "the keycard"
 fr-FR = "la carte-clé"
 de-DE = "die Schlüsselkarte"
@@ -270,7 +270,7 @@ sv-SE = "nyckelkortet"
 tr-TR = "anahtar kartı"
 pl-PL = "karta-klucz"
 
-[facilities.word00018]
+[word00018]
 en-US = "the pillow"
 fr-FR = "l'oreiller"
 de-DE = "das Kissen"
@@ -286,7 +286,7 @@ sv-SE = "kudden"
 tr-TR = "yastık"
 pl-PL = "poduszka"
 
-[facilities.word00019]
+[word00019]
 en-US = "the blanket"
 fr-FR = "la couverture"
 de-DE = "die Decke"
@@ -302,7 +302,7 @@ sv-SE = "filten"
 tr-TR = "battaniye"
 pl-PL = "koc"
 
-[facilities.word00020]
+[word00020]
 en-US = "the mattress"
 fr-FR = "le matelas"
 de-DE = "die Matratze"
@@ -318,7 +318,7 @@ sv-SE = "madrassen"
 tr-TR = "yatak"
 pl-PL = "materac"
 
-[facilities.word00021]
+[word00021]
 en-US = "the towel"
 fr-FR = "la serviette"
 de-DE = "das Handtuch"
@@ -334,7 +334,7 @@ sv-SE = "handduken"
 tr-TR = "havlu"
 pl-PL = "ręcznik"
 
-[facilities.word00022]
+[word00022]
 en-US = "the wardrobe"
 fr-FR = "l'armoire"
 de-DE = "der Kleiderschrank"
@@ -350,7 +350,7 @@ sv-SE = "garderoben"
 tr-TR = "gardırop"
 pl-PL = "szafa"
 
-[facilities.word00023]
+[word00023]
 en-US = "the bed"
 fr-FR = "le lit"
 de-DE = "das Bett"
@@ -366,7 +366,7 @@ sv-SE = "sängen"
 tr-TR = "yatak"
 pl-PL = "łóżko"
 
-[facilities.word00024]
+[word00024]
 en-US = "the sheet"
 fr-FR = "le drap"
 de-DE = "das Bettlaken"
@@ -382,7 +382,7 @@ sv-SE = "lakanet"
 tr-TR = "çarşaf"
 pl-PL = "prześcieradło"
 
-[facilities.word00025]
+[word00025]
 en-US = "the alarm clock"
 fr-FR = "le réveil"
 de-DE = "der Wecker"
@@ -398,7 +398,7 @@ sv-SE = "väckarklockan"
 tr-TR = "çalar saat"
 pl-PL = "budzik"
 
-[facilities.word00026]
+[word00026]
 de-DE = "die Steckdose"
 en-US = "the power outlet"
 fr-FR = "la prise de courant"
@@ -414,7 +414,7 @@ sv-SE = "eluttaget"
 tr-TR = "priz"
 pl-PL = "gniazdko"
 
-[facilities.word00027]
+[word00027]
 en-US = "the washing machine"
 fr-FR = "la machine à laver"
 de-DE = "die Waschmaschine"
@@ -430,7 +430,7 @@ sv-SE = "tvättmaskinen"
 tr-TR = "çamaşır makinesi"
 pl-PL = "pralka"
 
-[facilities.word00028]
+[word00028]
 en-US = "the refrigerator"
 fr-FR = "le réfrigérateur"
 de-DE = "der Kühlschrank"
@@ -446,7 +446,7 @@ sv-SE = "kylskåpet"
 tr-TR = "buzdolabı"
 pl-PL = "lodówka"
 
-[facilities.word00029]
+[word00029]
 en-US = "the microwave"
 fr-FR = "le micro-ondes"
 de-DE = "die Mikrowelle"
@@ -462,7 +462,7 @@ sv-SE = "mikrovågsugnen"
 tr-TR = "mikrodalga fırın"
 pl-PL = "kuchenka mikrofalowa"
 
-[facilities.word00030]
+[word00030]
 en-US = "the dishwasher"
 fr-FR = "le lave-vaisselle"
 de-DE = "der Geschirrspüler"
@@ -478,7 +478,7 @@ sv-SE = "diskmaskinen"
 tr-TR = "bulaşık makinesi"
 pl-PL = "zmywarka"
 
-[facilities.word00031]
+[word00031]
 en-US = "the hair dryer"
 fr-FR = "le sèche-cheveux"
 de-DE = "der Haartrockner"
@@ -494,7 +494,7 @@ sv-SE = "hårfönen"
 tr-TR = "saç kurutma makinesi"
 pl-PL = "suszarka do włosów"
 
-[facilities.word00032]
+[word00032]
 en-US = "the curtain"
 fr-FR = "le rideau"
 de-DE = "der Vorhang"
@@ -510,7 +510,7 @@ sv-SE = "gardinen"
 tr-TR = "perde"
 pl-PL = "zasłona"
 
-[facilities.word00033]
+[word00033]
 en-US = "the sofa"
 fr-FR = "le canapé"
 de-DE = "das Sofa"
@@ -526,7 +526,7 @@ sv-SE = "soffan"
 tr-TR = "kanepe"
 pl-PL = "sofa"
 
-[facilities.word00034]
+[word00034]
 en-US = "the armchair"
 fr-FR = "le fauteuil"
 de-DE = "der Sessel"
@@ -542,7 +542,7 @@ sv-SE = "fåtöljen"
 tr-TR = "berjer"
 pl-PL = "fotel"
 
-[facilities.word00035]
+[word00035]
 en-US = "the lamp"
 fr-FR = "la lampe"
 de-DE = "die Lampe"
@@ -558,7 +558,7 @@ sv-SE = "lampan"
 tr-TR = "lamba"
 pl-PL = "lampa"
 
-[facilities.word00036]
+[word00036]
 en-US = "the carpet"
 fr-FR = "la moquette"
 de-DE = "der Teppich"
@@ -574,7 +574,7 @@ sv-SE = "mattan"
 tr-TR = "halı"
 pl-PL = "dywan"
 
-[facilities.word00037]
+[word00037]
 en-US = "the mirror"
 fr-FR = "le miroir"
 de-DE = "der Spiegel"
@@ -590,7 +590,7 @@ sv-SE = "spegeln"
 tr-TR = "ayna"
 pl-PL = "lustro"
 
-[facilities.word00038]
+[word00038]
 en-US = "the bookshelf"
 fr-FR = "la bibliothèque"
 de-DE = "das Bücherregal"
@@ -606,7 +606,7 @@ sv-SE = "bokhyllan"
 tr-TR = "kitaplık"
 pl-PL = "regał na książki"
 
-[facilities.word00039]
+[word00039]
 en-US = "the television"
 fr-FR = "la télévision"
 de-DE = "der Fernseher"
@@ -622,7 +622,7 @@ sv-SE = "teven"
 tr-TR = "televizyon"
 pl-PL = "telewizor"
 
-[facilities.word00040]
+[word00040]
 en-US = "the closet"
 fr-FR = "le placard"
 de-DE = "der Schrank"
@@ -638,7 +638,7 @@ sv-SE = "garderoben"
 tr-TR = "gömme dolap"
 pl-PL = "szafa wnękowa"
 
-[facilities.word00041]
+[word00041]
 en-US = "the fireplace"
 fr-FR = "la cheminée"
 de-DE = "der Kamin"
@@ -654,7 +654,7 @@ sv-SE = "öppna spisen"
 tr-TR = "şömine"
 pl-PL = "kominek"
 
-[facilities.word00042]
+[word00042]
 en-US = "the intercom"
 fr-FR = "l'interphone"
 de-DE = "die Gegensprechanlage"
@@ -670,7 +670,7 @@ sv-SE = "porttelefonen"
 tr-TR = "diafon"
 pl-PL = "domofon"
 
-[facilities.word00043]
+[word00043]
 de-DE = "der Sicherungskasten"
 en-US = "the fuse box"
 fr-FR = "le tableau électrique"
