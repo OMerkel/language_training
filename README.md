@@ -4,7 +4,7 @@ Some tools to support you on your language training stuff.
 
 ## Tool Overview
 
-- *read_out_loud.py* This script reads out loud a language training text from a data/*.toml in target language using the gTTS (Google Text-to-Speech) library.
+- **read_out_loud.py** This script reads out loud a language training text from a data/*.toml in target language using the gTTS (Google Text-to-Speech) library.
 
 ## Setup
 
