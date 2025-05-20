@@ -1,4 +1,4 @@
-[general.word00001]
+[word00001]
 it-IT = "Sono d'accordo"
 en-US = "I agree"
 fr-FR = "Je suis d'accord"
@@ -14,7 +14,7 @@ sv-SE = "Jag håller med"
 tr-TR = "Katılıyorum"
 pl-PL = "Zgadzam się"
 
-[general.word00002]
+[word00002]
 it-IT = "Ci credo"
 en-US = "I believe it"
 fr-FR = "Je le crois"
@@ -30,7 +30,7 @@ sv-SE = "Jag tror det"
 tr-TR = "İnanıyorum"
 pl-PL = "Wierzę w to"
 
-[general.word00003]
+[word00003]
 en-US = "Thank you"
 fr-FR = "Merci"
 de-DE = "Danke"
@@ -46,7 +46,7 @@ tr-TR = "Teşekkürler"
 pl-PL = "Dziękuję"
 it-IT = "Grazie"
 
-[general.word00004]
+[word00004]
 en-US = "yes"
 fr-FR = "oui"
 de-DE = "ja"
@@ -62,7 +62,7 @@ tr-TR = "evet"
 pl-PL = "tak"
 it-IT = "sì"
 
-[general.word00005]
+[word00005]
 en-US = "no"
 fr-FR = "non"
 de-DE = "nein"

@@ -1,4 +1,4 @@
-[restaurant.word00001]
+[word00001]
 de-DE = "Die Rechnung bitte."
 en-US = "The bill, please."
 fr-FR = "L'addition, s'il vous plaît."
@@ -14,7 +14,7 @@ tr-TR = "Hesap lütfen."
 pl-PL = "Rachunek, proszę."
 it-IT = "Il conto, per favore."
 
-[restaurant.word00002]
+[word00002]
 en-US = "A table for two, please."
 fr-FR = "Une table pour deux, s'il vous plaît."
 de-DE = "Ein Tisch für zwei, bitte."
@@ -30,7 +30,7 @@ tr-TR = "İki kişilik bir masa lütfen."
 pl-PL = "Stolik dla dwóch osób, proszę."
 it-IT = "Un tavolo per due, per favore."
 
-[restaurant.word00003]
+[word00003]
 en-US = "Can I see the menu, please?"
 fr-FR = "Puis-je voir le menu, s'il vous plaît ?"
 de-DE = "Kann ich bitte die Speisekarte sehen?"
@@ -46,7 +46,7 @@ tr-TR = "Menüyü görebilir miyim lütfen?"
 pl-PL = "Czy mogę zobaczyć menu?"
 it-IT = "Posso vedere il menù, per favore?"
 
-[restaurant.word00004]
+[word00004]
 en-US = "Water, please."
 fr-FR = "De l'eau, s'il vous plaît."
 de-DE = "Wasser, bitte."
@@ -62,7 +62,7 @@ tr-TR = "Su lütfen."
 pl-PL = "Woda, proszę."
 it-IT = "Acqua, per favore."
 
-[restaurant.word00005]
+[word00005]
 en-US = "I would like to order."
 fr-FR = "Je voudrais commander."
 de-DE = "Ich möchte bestellen."
@@ -78,7 +78,7 @@ tr-TR = "Sipariş vermek istiyorum."
 pl-PL = "Chciałbym złożyć zamówienie."
 it-IT = "Vorrei ordinare."
 
-[restaurant.word00006]
+[word00006]
 de-DE = "Entschuldigen Sie, wo befinden sich die Toiletten?"
 en-US = "Excuse me, where are the restrooms?"
 fr-FR = "Excusez-moi, où sont les toilettes ?"
@@ -94,7 +94,7 @@ tr-TR = "Affedersiniz, tuvaletler nerede?"
 pl-PL = "Przepraszam, gdzie są toalety?"
 it-IT = "Mi scusi, dove sono i bagni?"
 
-[restaurant.word00007]
+[word00007]
 de-DE = "Danke"
 en-US = "Thank you"
 fr-FR = "Merci"
@@ -110,7 +110,7 @@ tr-TR = "Teşekkürler"
 pl-PL = "Dziękuję"
 it-IT = "Grazie"
 
-[restaurant.word00008]
+[word00008]
 de-DE = "Vielen Dank"
 en-US = "Thank you very much"
 fr-FR = "Merci beaucoup"

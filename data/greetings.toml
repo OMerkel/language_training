@@ -1,4 +1,4 @@
-[greetings.word00001]
+[word00001]
 es-ES = "Hola"
 pt-PT = "Olá"
 ru-RU = "Здравствуйте"
@@ -14,7 +14,7 @@ en-US = "Hello"
 fr-FR = "Bonjour"
 it-IT = "Ciao"
 
-[greetings.word00002]
+[word00002]
 de-DE = "Guten Morgen"
 es-ES = "Buenos días"
 pt-PT = "Bom dia"
@@ -30,7 +30,7 @@ en-US = "Good morning"
 fr-FR = "Bonjour"
 it-IT = "Buongiorno"
 
-[greetings.word00003]
+[word00003]
 de-DE = "Guten Tag"
 es-ES = "Buen día"
 pt-PT = "Boa tarde"
@@ -46,7 +46,7 @@ en-US = "Good day"
 fr-FR = "Bonne journée"
 it-IT = "Buona giornata"
 
-[greetings.word00004]
+[word00004]
 it-IT = "Ciao, informal"
 en-US = "Hi, informal"
 fr-FR = "Salut, informel"
@@ -62,7 +62,7 @@ sv-SE = "Hej, informellt"
 tr-TR = "Selam, gayri resmi"
 pl-PL = "Cześć, nieformalnie"
 
-[greetings.word00005]
+[word00005]
 en-US = "Good night"
 fr-FR = "Bonne nuit"
 de-DE = "Gute Nacht"
@@ -78,7 +78,7 @@ tr-TR = "İyi geceler"
 pl-PL = "Dobranoc"
 it-IT = "Buona notte"
 
-[greetings.word00006]
+[word00006]
 it-IT = "buon pomeriggio"
 en-US = "Good afternoon"
 fr-FR = "Bon après-midi"
@@ -94,7 +94,7 @@ sv-SE = "God eftermiddag"
 tr-TR = "Tünaydın"
 pl-PL = "Dzień dobry"
 
-[greetings.word00007]
+[word00007]
 it-IT = "Buonasera"
 en-US = "Good evening"
 fr-FR = "Bonsoir"
@@ -110,7 +110,7 @@ sv-SE = "God kväll"
 tr-TR = "İyi akşamlar"
 pl-PL = "Dobry wieczór"
 
-[greetings.word00008]
+[word00008]
 it-IT = "Salve"
 en-US = "Greetings"
 fr-FR = "Salutations"
@@ -126,7 +126,7 @@ sv-SE = "Hälsningar"
 tr-TR = "Selamlar"
 pl-PL = "Pozdrowienia"
 
-[greetings.word00009]
+[word00009]
 en-US = "Goodbye"
 fr-FR = "Au revoir"
 de-DE = "Auf Wiedersehen"
@@ -142,7 +142,7 @@ tr-TR = "Hoşça kal"
 pl-PL = "Do widzenia"
 it-IT = "Arrivederci"
 
-[greetings.word00010]
+[word00010]
 de-DE = "Wie geht es Dir?"
 es-ES = "¿Cómo estás?"
 pt-PT = "Como estás?"
@@ -158,7 +158,7 @@ en-US = "How are you?"
 fr-FR = "Comment ça va?"
 it-IT = "Come stai?"
 
-[greetings.word00011]
+[word00011]
 de-DE = "Wie geht es Ihnen?"
 es-ES = "¿Cómo está usted?"
 pt-PT = "Como está o senhor/a?"
@@ -174,7 +174,7 @@ en-US = "How are you? (formal)"
 fr-FR = "Comment allez-vous?"
 it-IT = "Come sta?"
 
-[greetings.word00017]
+[word00017]
 en-US = "Thank you"
 fr-FR = "Merci"
 de-DE = "Danke"

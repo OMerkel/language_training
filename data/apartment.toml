@@ -1,4 +1,4 @@
-[apartment.word00001]
+[word00001]
 de-DE = "Ferienwohnung"
 en-US = "Holiday apartment"
 fr-FR = "Appartement de vacances"
@@ -14,7 +14,7 @@ sv-SE = "Semesterlägenhet"
 tr-TR = "Tatil dairesi"
 pl-PL = "Apartament wakacyjny"
 
-[apartment.word00002]
+[word00002]
 de-DE = "Wie führen wir die Schlüsselübergabe durch?"
 en-US = "How do we handle the key handover?"
 fr-FR = "Comment procédons-nous à la remise des clés ?"
@@ -30,7 +30,7 @@ sv-SE = "Hur gör vi med nyckelöverlämningen?"
 tr-TR = "Anahtar teslimini nasıl yapıyoruz?"
 pl-PL = "Jak przeprowadzamy przekazanie kluczy?"
 
-[apartment.word00003]
+[word00003]
 de-DE = "Wo befindet sich der Wohnungsschlüssel?"
 en-US = "Where is the apartment key?"
 fr-FR = "Où se trouve la clé de l'appartement ?"
@@ -46,7 +46,7 @@ sv-SE = "Var finns lägenhetsnyckeln?"
 tr-TR = "Daire anahtarı nerede?"
 pl-PL = "Gdzie jest klucz do mieszkania?"
 
-[apartment.word00004]
+[word00004]
 de-DE = "Der Zimmerschlüssel steckt in der Türe."
 en-US = "The room key is in the door."
 fr-FR = "La clé de la chambre est dans la porte."
@@ -62,7 +62,7 @@ sv-SE = "Rumsnyckeln sitter i dörren."
 tr-TR = "Oda anahtarı kapıda."
 pl-PL = "Klucz do pokoju jest w drzwiach."
 
-[apartment.word00005]
+[word00005]
 de-DE = "Beschreiben Sie mir bitte den Weg."
 en-US = "Please describe the way to me."
 fr-FR = "Décrivez-moi le chemin, s'il vous plaît."
@@ -78,7 +78,7 @@ sv-SE = "Beskriv vägen för mig, tack."
 tr-TR = "Lütfen bana yolu tarif edin."
 pl-PL = "Proszę opisać mi drogę."
 
-[apartment.word00006]
+[word00006]
 de-DE = "Wir werden in einer Stunde ankommen."
 en-US = "We will arrive in an hour."
 fr-FR = "Nous arriverons dans une heure."
@@ -94,7 +94,7 @@ sv-SE = "Vi kommer om en timme."
 tr-TR = "Bir saat içinde varacağız."
 pl-PL = "Przyjedziemy za godzinę."
 
-[apartment.word00007]
+[word00007]
 de-DE = "Wir werden um siebzehn Uhr dreizig ankommen."
 en-US = "We will arrive at seventeen thirty."
 fr-FR = "Nous arriverons à dix-sept heures trente."
@@ -110,7 +110,7 @@ sv-SE = "Vi kommer klockan sjutton trettio."
 tr-TR = "Saat on yedi otuzda varacağız."
 pl-PL = "Przyjedziemy o siedemnastej trzydzieści."
 
-[apartment.word00008]
+[word00008]
 de-DE = "das Haus"
 en-US = "the house"
 fr-FR = "la maison"
@@ -126,7 +126,7 @@ sv-SE = "huset"
 tr-TR = "ev"
 pl-PL = "dom"
 
-[apartment.word00009]
+[word00009]
 de-DE = "das Zimmer"
 en-US = "the room"
 fr-FR = "la chambre"
@@ -142,7 +142,7 @@ sv-SE = "rummet"
 tr-TR = "oda"
 pl-PL = "pokój"
 
-[apartment.word00010]
+[word00010]
 de-DE = "das Bad"
 en-US = "the bathroom"
 fr-FR = "la salle de bain"
@@ -158,7 +158,7 @@ sv-SE = "badrummet"
 tr-TR = "banyo"
 pl-PL = "łazienka"
 
-[apartment.word00011]
+[word00011]
 de-DE = "die Küche"
 en-US = "the kitchen"
 fr-FR = "la cuisine"
@@ -174,7 +174,7 @@ sv-SE = "köket"
 tr-TR = "mutfak"
 pl-PL = "kuchnia"
 
-[apartment.word00012]
+[word00012]
 de-DE = "das Wohnzimmer"
 en-US = "the living room"
 fr-FR = "le salon"
@@ -190,7 +190,7 @@ sv-SE = "vardagsrummet"
 tr-TR = "oturma odası"
 pl-PL = "salon"
 
-[apartment.word00013]
+[word00013]
 de-DE = "das Schlafzimmer"
 en-US = "the bedroom"
 fr-FR = "la chambre à coucher"
@@ -206,7 +206,7 @@ sv-SE = "sovrummet"
 tr-TR = "yatak odası"
 pl-PL = "sypialnia"
 
-[apartment.word00014]
+[word00014]
 de-DE = "das Esszimmer"
 en-US = "the dining room"
 fr-FR = "la salle à manger"
@@ -222,7 +222,7 @@ sv-SE = "matsalen"
 tr-TR = "yemek odası"
 pl-PL = "jadalnia"
 
-[apartment.word00015]
+[word00015]
 de-DE = "das Badezimmer"
 en-US = "the bathroom"
 fr-FR = "la salle de bains"
@@ -238,7 +238,7 @@ sv-SE = "badrummet"
 tr-TR = "banyo"
 pl-PL = "łazienka"
 
-[apartment.word00016]
+[word00016]
 de-DE = "die Toilette"
 en-US = "the toilet"
 fr-FR = "les toilettes"
@@ -254,7 +254,7 @@ sv-SE = "toaletten"
 tr-TR = "tuvalet"
 pl-PL = "toaleta"
 
-[apartment.word00017]
+[word00017]
 de-DE = "der Balkon"
 en-US = "the balcony"
 fr-FR = "le balcon"
@@ -270,7 +270,7 @@ sv-SE = "balkongen"
 tr-TR = "balkon"
 pl-PL = "balkon"
 
-[apartment.word00018]
+[word00018]
 de-DE = "die Terrasse"
 en-US = "the terrace"
 fr-FR = "la terrasse"
@@ -286,7 +286,7 @@ sv-SE = "terrassen"
 tr-TR = "teras"
 pl-PL = "taras"
 
-[apartment.word00019]
+[word00019]
 de-DE = "der Aufzug"
 en-US = "the elevator"
 fr-FR = "l'ascenseur"
@@ -302,7 +302,7 @@ sv-SE = "hissen"
 tr-TR = "asansör"
 pl-PL = "winda"
 
-[apartment.word00020]
+[word00020]
 de-DE = "die Treppe"
 en-US = "the stairs"
 fr-FR = "l'escalier"
@@ -318,7 +318,7 @@ sv-SE = "trappan"
 tr-TR = "merdiven"
 pl-PL = "schody"
 
-[apartment.word00021]
+[word00021]
 de-DE = "der Flur"
 en-US = "the corridor"
 fr-FR = "le couloir"
@@ -334,7 +334,7 @@ sv-SE = "korridoren"
 tr-TR = "koridor"
 pl-PL = "korytarz"
 
-[apartment.word00022]
+[word00022]
 de-DE = "der Garten"
 en-US = "the garden"
 fr-FR = "le jardin"
@@ -350,7 +350,7 @@ sv-SE = "trädgården"
 tr-TR = "bahçe"
 pl-PL = "ogród"
 
-[apartment.word00023]
+[word00023]
 de-DE = "der Parkplatz"
 en-US = "the parking lot"
 fr-FR = "le parking"
@@ -366,7 +366,7 @@ sv-SE = "parkeringsplatsen"
 tr-TR = "otopark"
 pl-PL = "parking"
 
-[apartment.word00024]
+[word00024]
 de-DE = "die Garage"
 en-US = "the garage"
 fr-FR = "le garage"
@@ -382,7 +382,7 @@ sv-SE = "garaget"
 tr-TR = "garaj"
 pl-PL = "garaż"
 
-[apartment.word00025]
+[word00025]
 de-DE = "der Keller"
 en-US = "the basement"
 fr-FR = "le sous-sol"
@@ -398,7 +398,7 @@ sv-SE = "källaren"
 tr-TR = "bodrum katı"
 pl-PL = "piwnica"
 
-[apartment.word00026]
+[word00026]
 it-IT = "la cantina"
 en-US = "the cellar"
 fr-FR = "la cave"
@@ -414,7 +414,7 @@ sv-SE = "vinkällaren"
 tr-TR = "şarap mahzeni"
 pl-PL = "piwniczka na wino"
 
-[apartment.word00027]
+[word00027]
 en-US = "the attic"
 fr-FR = "le grenier"
 de-DE = "der Dachboden"
@@ -430,7 +430,7 @@ sv-SE = "vinden"
 tr-TR = "çatı katı"
 pl-PL = "strych"
 
-[apartment.word00028]
+[word00028]
 en-US = "the balcony"
 fr-FR = "le balcon"
 de-DE = "der Balkon"

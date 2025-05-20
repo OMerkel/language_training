@@ -1,4 +1,4 @@
-[traffic.word00001]
+[word00001]
 de-DE = "Wo ist die nächste Busstation?"
 en-US = "Where is the nearest bus station?"
 fr-FR = "Où est la station de bus la plus proche ?"
@@ -14,7 +14,7 @@ sv-SE = "Var ligger närmaste busshållplats?"
 tr-TR = "En yakın otobüs durağı nerede?"
 pl-PL = "Gdzie jest najbliższy przystanek autobusowy?"
 
-[traffic.word00002]
+[word00002]
 de-DE = "Zwei Personen nach Arco, bitte."
 en-US = "Two tickets to Arco, please."
 fr-FR = "Deux billets pour Arco, s'il vous plaît."
@@ -30,7 +30,7 @@ sv-SE = "Två biljetter till Arco, tack."
 tr-TR = "Arco'ya iki bilet lütfen."
 pl-PL = "Dwa bilety do Arco, proszę."
 
-[traffic.word00003]
+[word00003]
 de-DE = "Wann fährt der nächste Bus nach Arco?"
 en-US = "When does the next bus to Arco leave?"
 fr-FR = "Quand part le prochain bus pour Arco ?"
@@ -46,7 +46,7 @@ sv-SE = "När går nästa buss till Arco?"
 tr-TR = "Arco'ya giden bir sonraki otobüs ne zaman kalkıyor?"
 pl-PL = "Kiedy odjeżdża następny autobus do Arco?"
 
-[traffic.word00004]
+[word00004]
 de-DE = "Wie viel kostet ein Ticket nach Riva del Garda?"
 en-US = "How much is a ticket to Riva del Garda?"
 fr-FR = "Combien coûte un billet pour Riva del Garda ?"
@@ -62,7 +62,7 @@ sv-SE = "Hur mycket kostar en biljett till Riva del Garda?"
 tr-TR = "Riva del Garda'ya bir bilet ne kadar?"
 pl-PL = "Ile kosztuje bilet do Riva del Garda?"
 
-[traffic.word00005]
+[word00005]
 de-DE = "Ich hätte gerne ein Ticket nach Trient."
 en-US = "I would like a ticket to Trento."
 fr-FR = "Je voudrais un billet pour Trente."
@@ -78,7 +78,7 @@ sv-SE = "Jag skulle vilja ha en biljett till Trento."
 tr-TR = "Trento'ya bir bilet istiyorum."
 pl-PL = "Poproszę bilet do Trydentu."
 
-[traffic.word00006]
+[word00006]
 de-DE = "Auto fahren"
 en-US = "Drive a car"
 fr-FR = "Conduire une voiture"
@@ -94,7 +94,7 @@ sv-SE = "Köra bil"
 tr-TR = "Araba sürmek"
 pl-PL = "Prowadzić samochód"
 
-[traffic.word00007]
+[word00007]
 de-DE = "Fahrrad fahren"
 en-US = "Ride a bicycle"
 fr-FR = "Faire du vélo"
@@ -110,7 +110,7 @@ sv-SE = "Cykla"
 tr-TR = "Bisiklet sürmek"
 pl-PL = "Jeździć na rowerze"
 
-[traffic.word00008]
+[word00008]
 de-DE = "Ampel"
 en-US = "Traffic light"
 fr-FR = "Feu de circulation"
@@ -126,7 +126,7 @@ sv-SE = "Trafikljus"
 tr-TR = "Trafik ışığı"
 pl-PL = "Sygnalizacja świetlna"
 
-[traffic.word00009]
+[word00009]
 de-DE = "Fußgängerüberweg"
 en-US = "Pedestrian crossing"
 fr-FR = "Passage piéton"
@@ -142,7 +142,7 @@ sv-SE = "Övergångsställe"
 tr-TR = "Yaya geçidi"
 pl-PL = "Przejście dla pieszych"
 
-[traffic.word00010]
+[word00010]
 de-DE = "Einbahnstraße"
 en-US = "One-way street"
 fr-FR = "Sens unique"
@@ -158,7 +158,7 @@ sv-SE = "Enkelriktad gata"
 tr-TR = "Tek yönlü cadde"
 pl-PL = "Ulica jednokierunkowa"
 
-[traffic.word00011]
+[word00011]
 de-DE = "Kreuzung"
 en-US = "Intersection"
 fr-FR = "Carrefour"
@@ -174,7 +174,7 @@ sv-SE = "Korsning"
 tr-TR = "Kavşak"
 pl-PL = "Skrzyżowanie"
 
-[traffic.word00012]
+[word00012]
 de-DE = "Parkplatz"
 en-US = "Parking lot"
 fr-FR = "Parking"
@@ -190,7 +190,7 @@ sv-SE = "Parkering"
 tr-TR = "Otopark"
 pl-PL = "Parking"
 
-[traffic.word00013]
+[word00013]
 de-DE = "Tankstelle"
 en-US = "Gas station"
 fr-FR = "Station-service"
@@ -206,7 +206,7 @@ sv-SE = "Bensinstation"
 tr-TR = "Benzin istasyonu"
 pl-PL = "Stacja benzynowa"
 
-[traffic.word00014]
+[word00014]
 de-DE = "Bahnhof"
 en-US = "Train station"
 fr-FR = "Gare"
@@ -222,7 +222,7 @@ sv-SE = "Tågstation"
 tr-TR = "Tren istasyonu"
 pl-PL = "Dworzec kolejowy"
 
-[traffic.word00015]
+[word00015]
 de-DE = "Flughafen"
 en-US = "Airport"
 fr-FR = "Aéroport"
@@ -238,7 +238,7 @@ sv-SE = "Flygplats"
 tr-TR = "Havalimanı"
 pl-PL = "Lotnisko"
 
-[traffic.word00016]
+[word00016]
 de-DE = "Fahrplan"
 en-US = "Timetable"
 fr-FR = "Horaire"
@@ -254,7 +254,7 @@ sv-SE = "Tidtabell"
 tr-TR = "Zaman çizelgesi"
 pl-PL = "Rozkład jazdy"
 
-[traffic.word00017]
+[word00017]
 de-DE = "Fahrkarte"
 en-US = "Ticket"
 fr-FR = "Billet"
@@ -270,7 +270,7 @@ sv-SE = "Biljett"
 tr-TR = "Bilet"
 pl-PL = "Bilet"
 
-[traffic.word00018]
+[word00018]
 de-DE = "Fahrzeug"
 en-US = "Vehicle"
 fr-FR = "Véhicule"
@@ -286,7 +286,7 @@ sv-SE = "Fordon"
 tr-TR = "Araç"
 pl-PL = "Pojazd"
 
-[traffic.word00019]
+[word00019]
 de-DE = "Fahrer"
 en-US = "Driver"
 fr-FR = "Conducteur"

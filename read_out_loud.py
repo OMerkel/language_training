@@ -1,6 +1,6 @@
 """
-This script reads out loud a language training text string in Italian
-using the gTTS (Google Text-to-Speech) library.
+This script reads out loud a language training text from a data/*.toml
+in target language using the gTTS (Google Text-to-Speech) library.
 
 Dependencies:
     - gtts: Install via `uv add gtts`
@@ -14,8 +14,8 @@ Usage:
     Run the script to generate and play the audio.
     The script will read a text string from a TOML file,
     convert it to speech, and play the audio using pygame.
-    The script will also print the text in both German and Italian
-    to the console.
+    The script will also print the text in both source and
+    target language to the console.
     The script will pause for a few seconds between each
     text-to-speech conversion to allow the user to read
     the text before it is spoken.
@@ -101,12 +101,12 @@ def lookup_text(file: Optional[str] = None,
             },]
     text: list[dict[str, str]] = []
     with open(file, "rb") as f:
-        data: dict[str, dict[str, dict[str, str]]] = tomllib.load(f)
+        data: dict[str, dict[str, str]] = tomllib.load(f)
     # Assuming the structure of the TOML file is known
     # and we want to extract specific keys
-    for key in data['conjugation']:
-        first_lang: str = data['conjugation'][key][lang_1]
-        second_lang: str = data['conjugation'][key][lang_2]
+    for key in data:
+        first_lang: str = data[key][lang_1]
+        second_lang: str = data[key][lang_2]
         text.append({lang_1: first_lang, lang_2: second_lang})
     # with open(file, 'r', encoding='utf-8') as file:
     #     for line in file:
@@ -114,20 +114,30 @@ def lookup_text(file: Optional[str] = None,
     return text
 
 
-def main() -> None:
-    """Main function to execute the script."""
+def main(source_lang: str = "de-DE", target_lang: str = "it-IT",
+         toml_file: str = "data/conjugation.toml") -> None:
+    """Main function to execute the script.
+    Args:
+        source_lang (str): The source language code. Default is 'de-DE'.
+        target_lang (str): The target language code. Default is 'it-IT'.
+        toml_file (str): The path to the TOML file.
+                         Default is 'data/conjugation.toml'.
+    Returns:
+        None
+    """
     # Print a greeting message
     print("Hello from language-training!")
 
     # text = lookup_text()
-    text = lookup_text('data/conjugation.toml')
+    text = lookup_text(toml_file, source_lang, target_lang)
     for i in text:
-        print(f"{i["de-DE"]=}", end=" ")
+        print(f"{i[source_lang]=}", end=" ")
         time.sleep(5)
         input("Press Enter to continue...")
-        print(f"{i["it-IT"]=}")
+        print(f"{i[target_lang]=}")
         time.sleep(1)
-        audio_bytes: BytesIO = generate_audio(i["it-IT"])
+        language: str = target_lang.split("-")[0]
+        audio_bytes: BytesIO = generate_audio(i[target_lang], language)
         play_audio(audio_bytes=audio_bytes)
         time.sleep(2)
 
