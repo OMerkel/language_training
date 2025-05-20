@@ -15,11 +15,19 @@ python -m venv .venv
 * Activate the Python virtual environment
 * Update pip
 * Install packages from requirements.txt
-* check uv version
+* Check uv version
+* Sync and resolve package dependencies
 
 ```bash
 .venv\Scripts\activate
 python -m pip install --upgrade pip
 pip install -r requirements.txt
 uv --version
+uv sync
+```
+
+Now you can run any given script from this repository, e.g. ...
+
+```bash
+uv run read_out_loud.py
 ```
