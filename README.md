@@ -1,5 +1,7 @@
 # Language Training
 
+![https://github.com/OMerkel/language_training/actions/workflows/pylint.yml](https://github.com/OMerkel/language_training/actions/workflows/pylint.yml/badge.svg)
+
 Some tools to support you on your language training stuff.
 
 ## Tool Overview
