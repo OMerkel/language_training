@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--
+Copyright (c) 2025
+@author Oliver Merkel, Merkel(dot)Oliver(at)web(dot)de.
+All rights reserved.
+
+This graphics is licensed under a
+http://creativecommons.org/licenses/by-nc-sa/4.0/deed.en_US
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+-->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:cc="http://creativecommons.org/ns#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns="http://www.w3.org/2000/svg"
+  width="32" height="20"
+  viewBox="0 0 60 39">
+  <title>Country Flag en-US</title>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Country Flag en-US</dc:title>
+        <dc:date>2025-05-22</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Oliver Merkel, Merkel(dot)Oliver (at)web(dot) de</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Oliver Merkel, Merkel(dot)Oliver (at)web(dot) de</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Oliver Merkel, Merkel(dot)Oliver (at)web(dot) de</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:language>en-GB</dc:language>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-nc-sa/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:prohibits
+           rdf:resource="http://creativecommons.org/ns#CommercialUse" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <rect width="60" height="39" y="0" x="0" fill="#fff"/>
+  <path
+     d="m 0,0 h 60 v 3 h -60 v -3 m 0,6 h 60 v 3 h -60 v -3 m 0,6 h 60 v 3 h -60 v -3 m 0,6 h 60 v 3 h -60 v -3 m 0,6 h 60 v 3 h -60 v -3 m 0,6 h 60 v 3 h -60 v -3 m 0,6 h 60 v 3 h -60 v -3 z"
+     fill="#a62842"
+     id="path1" />
+  <path
+     d="M 0,0 h 27 v 21 h -27 z"
+     fill="#102d5e"
+     id="path8" />
+  <g
+     id="g29">
+    <g
+       id="g28">
+      <path
+         fill="#ffffff"
+         d="M 7.6132754,7.1375102 8.9285309,6.2707328 H 7.304457 L 6.8023493,4.8644927 6.3002416,6.2707328 H 4.6761677 L 5.9892015,7.1375102 5.4870938,8.5437503 6.8023493,7.6749525 8.1153831,8.5437503 Z"
+         id="path12"
+         style="stroke-width:2.1187" />
+      <path
+         fill="#ffffff"
+         d="M 14.233987,7.1375102 15.547021,6.2707328 H 13.922947 L 13.420839,4.8644927 12.918732,6.2707328 h -1.624074 l 1.313034,0.8667774 -0.499886,1.4062401 1.313033,-0.8687978 1.313034,0.8687978 z"
+         id="path13"
+         style="stroke-width:2.1187" />
+      <path
+         fill="#ffffff"
+         d="M 20.852477,7.1375102 22.165511,6.2707328 H 20.541437 L 20.03933,4.8644927 19.537222,6.2707328 h -1.624074 l 1.315256,0.8667774 -0.502108,1.4062401 1.313034,-0.8687978 1.315255,0.8687978 z"
+         id="path14"
+         style="stroke-width:2.1187" />
+    </g>
+    <g
+       id="g27">
+      <path
+         fill="#ffffff"
+         d="M 4.3584624,3.460273 5.6737179,2.5914752 H 4.0496439 L 3.5475362,1.1872555 3.0454286,2.5914752 H 1.4213546 L 2.7343884,3.460273 2.2322807,4.8644927 3.5475362,3.9977153 4.86057,4.8644927 Z"
+         id="path9"
+         style="stroke-width:2.1187" />
+      <path
+         fill="#ffffff"
+         d="M 10.976953,3.460273 12.292208,2.5914752 H 10.668134 L 10.166026,1.1872555 9.6639187,2.5914752 H 8.0398448 L 9.3528786,3.460273 8.8507709,4.8644927 10.166026,3.9977153 11.47906,4.8644927 Z"
+         id="path10"
+         style="stroke-width:2.1187" />
+      <path
+         fill="#ffffff"
+         d="M 17.597664,3.460273 18.910698,2.5914752 H 17.286624 L 16.784517,1.1872555 16.282409,2.5914752 h -1.624074 l 1.313034,0.8687978 -0.499886,1.4042197 1.313034,-0.8667774 1.313033,0.8667774 z"
+         id="path11"
+         style="stroke-width:2.1187" />
+      <path
+         fill="#ffffff"
+         d="M 24.216155,3.460273 25.529188,2.5914752 H 23.905114 L 23.403007,1.1872555 22.900899,2.5914752 h -1.624074 l 1.315256,0.8687978 -0.502108,1.4042197 1.313034,-0.8667774 1.315255,0.8667774 z"
+         id="path18"
+         style="stroke-width:2.1187" />
+    </g>
+  </g>
+  <g
+     id="g29-4"
+     transform="translate(-0.1013956,7.1193751)">
+    <g
+       id="g28-9">
+      <path
+         fill="#ffffff"
+         d="M 7.6132754,7.1375102 8.9285309,6.2707328 H 7.304457 L 6.8023493,4.8644927 6.3002416,6.2707328 H 4.6761677 L 5.9892015,7.1375102 5.4870938,8.5437503 6.8023493,7.6749525 8.1153831,8.5437503 Z"
+         id="path12-5"
+         style="stroke-width:2.1187" />
+      <path
+         fill="#ffffff"
+         d="M 14.233987,7.1375102 15.547021,6.2707328 H 13.922947 L 13.420839,4.8644927 12.918732,6.2707328 h -1.624074 l 1.313034,0.8667774 -0.499886,1.4062401 1.313033,-0.8687978 1.313034,0.8687978 z"
+         id="path13-3"
+         style="stroke-width:2.1187" />
+      <path
+         fill="#ffffff"
+         d="M 20.852477,7.1375102 22.165511,6.2707328 H 20.541437 L 20.03933,4.8644927 19.537222,6.2707328 h -1.624074 l 1.315256,0.8667774 -0.502108,1.4062401 1.313034,-0.8687978 1.315255,0.8687978 z"
+         id="path14-6"
+         style="stroke-width:2.1187" />
+    </g>
+    <g
+       id="g27-7">
+      <path
+         fill="#ffffff"
+         d="M 4.3584624,3.460273 5.6737179,2.5914752 H 4.0496439 L 3.5475362,1.1872555 3.0454286,2.5914752 H 1.4213546 L 2.7343884,3.460273 2.2322807,4.8644927 3.5475362,3.9977153 4.86057,4.8644927 Z"
+         id="path9-2"
+         style="stroke-width:2.1187" />
+      <path
+         fill="#ffffff"
+         d="M 10.976953,3.460273 12.292208,2.5914752 H 10.668134 L 10.166026,1.1872555 9.6639187,2.5914752 H 8.0398448 L 9.3528786,3.460273 8.8507709,4.8644927 10.166026,3.9977153 11.47906,4.8644927 Z"
+         id="path10-7"
+         style="stroke-width:2.1187" />
+      <path
+         fill="#ffffff"
+         d="M 17.597664,3.460273 18.910698,2.5914752 H 17.286624 L 16.784517,1.1872555 16.282409,2.5914752 h -1.624074 l 1.313034,0.8687978 -0.499886,1.4042197 1.313034,-0.8667774 1.313033,0.8667774 z"
+         id="path11-1"
+         style="stroke-width:2.1187" />
+      <path
+         fill="#ffffff"
+         d="M 24.216155,3.460273 25.529188,2.5914752 H 23.905114 L 23.403007,1.1872555 22.900899,2.5914752 h -1.624074 l 1.315256,0.8687978 -0.502108,1.4042197 1.313034,-0.8667774 1.315255,0.8667774 z"
+         id="path18-9"
+         style="stroke-width:2.1187" />
+    </g>
+  </g>
+  <g
+     id="g27-7-4"
+     transform="translate(-0.09611779,14.370525)">
+    <path
+       fill="#ffffff"
+       d="M 4.3584624,3.460273 5.6737179,2.5914752 H 4.0496439 L 3.5475362,1.1872555 3.0454286,2.5914752 H 1.4213546 L 2.7343884,3.460273 2.2322807,4.8644927 3.5475362,3.9977153 4.86057,4.8644927 Z"
+       id="path9-2-7"
+       style="stroke-width:2.1187" />
+    <path
+       fill="#ffffff"
+       d="M 10.976953,3.460273 12.292208,2.5914752 H 10.668134 L 10.166026,1.1872555 9.6639187,2.5914752 H 8.0398448 L 9.3528786,3.460273 8.8507709,4.8644927 10.166026,3.9977153 11.47906,4.8644927 Z"
+       id="path10-7-6"
+       style="stroke-width:2.1187" />
+    <path
+       fill="#ffffff"
+       d="M 17.597664,3.460273 18.910698,2.5914752 H 17.286624 L 16.784517,1.1872555 16.282409,2.5914752 h -1.624074 l 1.313034,0.8687978 -0.499886,1.4042197 1.313034,-0.8667774 1.313033,0.8667774 z"
+       id="path11-1-0"
+       style="stroke-width:2.1187" />
+    <path
+       fill="#ffffff"
+       d="M 24.216155,3.460273 25.529188,2.5914752 H 23.905114 L 23.403007,1.1872555 22.900899,2.5914752 h -1.624074 l 1.315256,0.8687978 -0.502108,1.4042197 1.313034,-0.8667774 1.315255,0.8667774 z"
+       id="path18-9-3"
+       style="stroke-width:2.1187" />
+  </g>
+</svg>

@@ -1,7 +1,9 @@
 # Language Training
 
-![https://github.com/OMerkel/language_training/actions/workflows/pylint.yml](https://github.com/OMerkel/language_training/actions/workflows/pylint.yml/badge.svg)
-[![uv](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/uv/main/assets/badge/v0.json)](https://github.com/astral-sh/uv)
+[![Pylint](https://github.com/OMerkel/language_training/actions/workflows/pylint.yml/badge.svg)](https://github.com/OMerkel/language_training/actions/workflows/pylint.yml)
+[![uv](https://img.shields.io/badge/uv-fast%20Python%20package%20manager-blue)](https://docs.astral.sh/uv/)
+[![Python Version](https://img.shields.io/badge/python-3.13%2B-blue)](https://docs.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/OMerkel/language_training/blob/main/LICENSE)
 
 Some tools to support you on your language training stuff.
 
@@ -33,6 +35,8 @@ uv --version
 uv sync
 ```
 
+## Run some Tools
+
 Now you can run any given script from this repository, e.g. ...
 
 - run read_out_loud.py and show the usage information
@@ -53,3 +57,24 @@ uv run read_out_loud.py
 ```bash
 uv run .\read_out_loud.py --source_lang it-IT --target_lang ja-JP --toml_file .\data\greetings.toml
 ```
+
+## Current Language Support
+
+Use the mentioned Country Codes to refer to your intended language selection.
+
+| Flag | Country Name      | Country Code |
+|------|-------------------|--------------|
+| ![German Flag](./img/flag_de-DE.svg)     | Germany       | de-DE           |
+| ![US Flag](./img/flag_en-US.svg)         | United States | en-US           |
+| ![French Flag](./img/flag_fr-FR.svg)     | France        | fr-FR           |
+| ![Spanish Flag](./img/flag_es-ES.svg)    | Spain         | es-ES           |
+| ![Italian Flag](./img/flag_it-IT.svg)    | Italy         | it-IT           |
+| ![Portuguese Flag](./img/flag_pt-PT.svg) | Portugal      | pt-PT           |
+| ![Russian Flag](./img/flag_ru-RU.svg)    | Russia        | ru-RU           |
+| ![Japanese Flag](./img/flag_ja-JP.svg)   | Japan         | ja-JP           |
+| ![Chinese Flag](./img/flag_zh-CN.svg)    | China         | zh-CN           |
+| ![Korean Flag](./img/flag_ko-KR.svg)     | South Korea   | ko-KR           |
+| ![Dutch Flag](./img/flag_nl-NL.svg)      | Netherlands   | nl-NL           |
+| ![Swedish Flag](./img/flag_sv-SE.svg)    | Sweden        | sv-SE           |
+| ![Turkish Flag](./img/flag_tr-TR.svg)    | Turkey        | tr-TR           |
+| ![Polish Flag](./img/flag_pl-PL.svg)     | Poland        | pl-PL           |

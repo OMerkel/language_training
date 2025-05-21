@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--
+Copyright (c) 2025
+@author Oliver Merkel, Merkel(dot)Oliver(at)web(dot)de.
+All rights reserved.
+
+This graphics is licensed under a
+http://creativecommons.org/licenses/by-nc-sa/4.0/deed.en_US
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+-->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:cc="http://creativecommons.org/ns#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns="http://www.w3.org/2000/svg"
+  width="32" height="20"
+  viewBox="0 0 60 39">
+  <title>Country Flag ko-KR</title>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Country Flag ko-KR</dc:title>
+        <dc:date>2025-05-22</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Oliver Merkel, Merkel(dot)Oliver (at)web(dot) de</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Oliver Merkel, Merkel(dot)Oliver (at)web(dot) de</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:publisher>
+          <cc:Agent>
+            <dc:title>Oliver Merkel, Merkel(dot)Oliver (at)web(dot) de</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:language>en-GB</dc:language>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-nc-sa/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:prohibits
+           rdf:resource="http://creativecommons.org/ns#CommercialUse" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <rect
+     width="60"
+     height="39"
+     y="0"
+     x="0"
+     fill="#FFF"
+     id="rect1" />
+  <g
+     id="g22"
+     transform="matrix(2.1015602,0,0,2.0649882,-3.6247839,-13.539811)">
+    <path
+       transform="rotate(-56.31,8.143,10.762)"
+       d="m 5.877,10.384 h 4.533 v 0.755 H 5.877 Z"
+       id="path2" />
+    <path
+       transform="rotate(-56.31,9.086,11.39)"
+       d="m 6.819,11.013 h 4.533 v 0.755 H 6.819 Z"
+       id="path3" />
+    <path
+       transform="rotate(-56.31,10.028,12.02)"
+       d="m 7.762,11.641 h 4.533 v 0.755 H 7.762 Z"
+       id="path4" />
+  </g>
+  <g
+     id="g23"
+     transform="matrix(2.1015602,0,0,2.0649882,-3.6247839,-13.539811)">
+    <path
+       transform="rotate(-33.69,22.915,11.39)"
+       d="m 22.537,9.124 h 0.755 v 4.533 h -0.755 z"
+       id="path15" />
+    <path
+       transform="rotate(-33.69,21.29,10.998)"
+       d="m 20.913,9.959 h 0.755 v 2.077 h -0.755 z"
+       id="path18" />
+    <path
+       transform="rotate(-33.69,22.652,13.04)"
+       d="m 22.275,12.002 h 0.755 v 2.077 h -0.755 z"
+       id="path19" />
+    <path
+       transform="rotate(-33.69,23.176,9.741)"
+       d="m 22.798,8.702 h 0.755 v 2.077 h -0.755 z"
+       id="path20" />
+    <path
+       transform="rotate(-33.691,24.539,11.783)"
+       d="m 24.16,10.745 h 0.755 v 2.077 H 24.16 Z"
+       id="path21" />
+  </g>
+  <g
+     id="g24"
+     transform="matrix(2.1015602,0,0,2.0649882,-3.6247839,-13.539811)">
+    <path
+       transform="rotate(-56.31,24.538,20.216)"
+       d="m 23.499,19.839 h 2.077 v 0.755 h -2.077 z"
+       id="path5" />
+    <path
+       transform="rotate(-56.31,23.176,22.26)"
+       d="m 22.137,21.882 h 2.078 v 0.755 h -2.078 z"
+       id="path6" />
+    <path
+       transform="rotate(-56.31,23.595,19.588)"
+       d="m 22.556,19.21 h 2.077 v 0.755 h -2.077 z"
+       id="path7" />
+    <path
+       transform="rotate(-56.31,22.234,21.632)"
+       d="m 21.195,21.253 h 2.077 v 0.755 h -2.077 z"
+       id="path8" />
+    <path
+       transform="rotate(-56.31,22.653,18.96)"
+       d="m 21.614,18.582 h 2.077 v 0.755 h -2.077 z"
+       id="path9" />
+    <path
+       transform="rotate(-56.31,21.29,21.002)"
+       d="m 20.252,20.625 h 2.077 v 0.755 h -2.077 z"
+       id="path10" />
+  </g>
+  <g
+     id="g25"
+     transform="matrix(2.1015602,0,0,2.0649882,-3.6247839,-13.539811)">
+    <path
+       transform="rotate(-33.69,8.143,21.238)"
+       d="M 7.765,18.972 H 8.52 v 4.533 H 7.765 Z"
+       id="path13" />
+    <path
+       transform="rotate(-33.69,10.03,19.98)"
+       d="m 9.651,17.715 h 0.755 v 4.533 H 9.651 Z"
+       id="path14" />
+    <path
+       transform="rotate(-33.69,8.405,19.588)"
+       d="m 8.027,18.549 h 0.755 v 2.077 H 8.027 Z"
+       id="path16" />
+    <path
+       transform="rotate(-33.691,9.767,21.632)"
+       d="m 9.389,20.592 h 0.755 v 2.077 H 9.389 Z"
+       id="path17" />
+  </g>
+  <g
+     id="g26"
+     transform="matrix(2.1015602,0,0,2.0649882,-3.6247839,-13.539811)">
+    <path
+       d="m 19.860577,18.346078 c -1.356027,2.104615 -4.160812,2.711857 -6.265427,1.355831 -2.104614,-1.356027 -2.711857,-4.160812 -1.35583,-6.265427 z"
+       fill="#24A"
+       id="path11" />
+    <path
+       d="m 19.7653,18.530514 c 1.37375,-2.093089 0.790223,-4.9029 -1.302863,-6.276653 -2.093089,-1.37375 -4.902901,-0.790223 -6.276655,1.302864 -0.686417,1.046016 -0.395107,2.45195 0.651932,3.138324 1.047042,0.686368 2.45195,0.395106 3.138324,-0.651933 l 3.789253,2.486402 z"
+       fill="#C44"
+       id="path12" />
+    <circle
+       cx="18.162981"
+       cy="16.832794"
+       r="2.266"
+       fill="#24A"
+       id="circle12" />
+  </g>
+</svg>
