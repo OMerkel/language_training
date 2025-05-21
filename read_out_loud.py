@@ -20,6 +20,7 @@ Usage:
     text-to-speech conversion to allow the user to read
     the text before it is spoken.
 """
+import argparse
 from io import BytesIO
 import tomllib
 import time
@@ -142,5 +143,59 @@ def main(source_lang: str = "de-DE", target_lang: str = "it-IT",
         time.sleep(2)
 
 
+def argparse_args() -> argparse.Namespace:
+    """Parse command line arguments.
+    Args:
+        None
+    Returns:
+        argparse.Namespace: The parsed command line arguments.
+    """
+    description = "Read out loud a language training text."
+    default_file = "data/conjugation.toml"
+    parser = argparse.ArgumentParser(description=description)
+    parser.add_argument("--source_lang", type=str, default="de-DE",
+                        help="Source language code (default: de-DE)")
+    parser.add_argument("--target_lang", type=str, default="it-IT",
+                        help="Target language code (default: it-IT)")
+    parser.add_argument("--toml_file", type=str, default=default_file,
+                        help=f"Path to TOML file (default: {default_file})")
+    args = parser.parse_args()
+    return args
+
+
+def validate_args(args: argparse.Namespace) -> None:
+    """Validate command line arguments.
+    Args:
+        args (argparse.Namespace): The parsed command line arguments.
+    Returns:
+        None
+    Raises:
+        ValueError: If the TOML file does not have a .toml extension,
+                    or if the source and target language codes are not
+                    provided, or if they are the same, or if they are
+                    unsupported.
+    """
+    if not args.toml_file.endswith(".toml"):
+        raise ValueError("The TOML file must have a .toml extension.")
+    if not args.source_lang or not args.target_lang:
+        raise ValueError("Both source and target "
+                         "language codes must be provided.")
+    if args.source_lang == args.target_lang:
+        raise ValueError("Source and target language codes must be different.")
+    supported_langs = ['de-DE', 'en-US', 'fr-FR', 'es-ES', 'it-IT', 'pt-PT',
+                       'ru-RU', 'ja-JP', 'zh-CN', 'ko-KR', 'nl-NL', 'sv-SE',
+                       'tr-TR', 'pl-PL']
+    if args.source_lang not in supported_langs:
+        raise ValueError(f"Unsupported source language: {args.source_lang}."
+                         f" Supported languages are: {supported_langs}")
+    if args.target_lang not in supported_langs:
+        raise ValueError(f"Unsupported target language: {args.target_lang}."
+                         f" Supported languages are: {supported_langs}")
+
+
 if __name__ == "__main__":  # pragma: no cover
-    main()
+    command_line_args = argparse_args()
+    validate_args(command_line_args)
+    main(source_lang=command_line_args.source_lang,
+         target_lang=command_line_args.target_lang,
+         toml_file=command_line_args.toml_file)
