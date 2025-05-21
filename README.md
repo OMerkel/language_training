@@ -35,6 +35,21 @@ uv sync
 
 Now you can run any given script from this repository, e.g. ...
 
+- run read_out_loud.py and show the usage information
+
+```bash
+uv run read_out_loud.py --help
+```
+
+- run read_out_loud.py using default parameters
+
 ```bash
 uv run read_out_loud.py
+```
+
+- run read_out_loud.py showing text in Italian waiting for a keypress then
+  showing the Japanese version and read it out loud.
+
+```bash
+uv run .\read_out_loud.py --source_lang it-IT --target_lang ja-JP --toml_file .\data\greetings.toml
 ```
