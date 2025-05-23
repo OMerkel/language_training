@@ -13,6 +13,8 @@ nl-NL = "Waar is de dichtstbijzijnde bushalte?"
 sv-SE = "Var ligger närmaste busshållplats?"
 tr-TR = "En yakın otobüs durağı nerede?"
 pl-PL = "Gdzie jest najbliższy przystanek autobusowy?"
+sr-RS = "Gde je najbliža autobuska stanica?"
+ro-RO = "Unde este cea mai apropiată stație de autobuz?"
 
 [word00002]
 de-DE = "Zwei Personen nach Arco, bitte."
@@ -29,6 +31,8 @@ nl-NL = "Twee kaartjes naar Arco, alstublieft."
 sv-SE = "Två biljetter till Arco, tack."
 tr-TR = "Arco'ya iki bilet lütfen."
 pl-PL = "Dwa bilety do Arco, proszę."
+sr-RS = "Dve karte za Arco, molim."
+ro-RO = "Două bilete pentru Arco, vă rog."
 
 [word00003]
 de-DE = "Wann fährt der nächste Bus nach Arco?"
@@ -45,6 +49,8 @@ nl-NL = "Wanneer vertrekt de volgende bus naar Arco?"
 sv-SE = "När går nästa buss till Arco?"
 tr-TR = "Arco'ya giden bir sonraki otobüs ne zaman kalkıyor?"
 pl-PL = "Kiedy odjeżdża następny autobus do Arco?"
+sr-RS = "Kada polazi sledeći autobus za Arco?"
+ro-RO = "Când pleacă următorul autobuz spre Arco?"
 
 [word00004]
 de-DE = "Wie viel kostet ein Ticket nach Riva del Garda?"
@@ -61,6 +67,8 @@ nl-NL = "Hoeveel kost een kaartje naar Riva del Garda?"
 sv-SE = "Hur mycket kostar en biljett till Riva del Garda?"
 tr-TR = "Riva del Garda'ya bir bilet ne kadar?"
 pl-PL = "Ile kosztuje bilet do Riva del Garda?"
+sr-RS = "Koliko košta karta do Riva del Garda?"
+ro-RO = "Cât costă un bilet spre Riva del Garda?"
 
 [word00005]
 de-DE = "Ich hätte gerne ein Ticket nach Trient."
@@ -77,6 +85,8 @@ nl-NL = "Ik wil graag een kaartje naar Trento."
 sv-SE = "Jag skulle vilja ha en biljett till Trento."
 tr-TR = "Trento'ya bir bilet istiyorum."
 pl-PL = "Poproszę bilet do Trydentu."
+sr-RS = "Želeo bih kartu za Trento."
+ro-RO = "Aș dori un bilet spre Trento."
 
 [word00006]
 de-DE = "Auto fahren"
@@ -93,6 +103,8 @@ nl-NL = "Auto rijden"
 sv-SE = "Köra bil"
 tr-TR = "Araba sürmek"
 pl-PL = "Prowadzić samochód"
+sr-RS = "Voziti auto"
+ro-RO = "A conduce o mașină"
 
 [word00007]
 de-DE = "Fahrrad fahren"
@@ -109,6 +121,8 @@ nl-NL = "Fietsen"
 sv-SE = "Cykla"
 tr-TR = "Bisiklet sürmek"
 pl-PL = "Jeździć na rowerze"
+sr-RS = "Voziti bicikl"
+ro-RO = "A merge cu bicicleta"
 
 [word00008]
 de-DE = "Ampel"
@@ -125,6 +139,8 @@ nl-NL = "Verkeerslicht"
 sv-SE = "Trafikljus"
 tr-TR = "Trafik ışığı"
 pl-PL = "Sygnalizacja świetlna"
+sr-RS = "Semafor"
+ro-RO = "Semafor"
 
 [word00009]
 de-DE = "Fußgängerüberweg"
@@ -141,6 +157,8 @@ nl-NL = "Zebrapad"
 sv-SE = "Övergångsställe"
 tr-TR = "Yaya geçidi"
 pl-PL = "Przejście dla pieszych"
+sr-RS = "Pešački prelaz"
+ro-RO = "Trecere de pietoni"
 
 [word00010]
 de-DE = "Einbahnstraße"
@@ -157,6 +175,8 @@ nl-NL = "Eenrichtingsstraat"
 sv-SE = "Enkelriktad gata"
 tr-TR = "Tek yönlü cadde"
 pl-PL = "Ulica jednokierunkowa"
+sr-RS = "Jednosmerna ulica"
+ro-RO = "Stradă cu sens unic"
 
 [word00011]
 de-DE = "Kreuzung"
@@ -173,6 +193,8 @@ nl-NL = "Kruispunt"
 sv-SE = "Korsning"
 tr-TR = "Kavşak"
 pl-PL = "Skrzyżowanie"
+sr-RS = "Raskrsnica"
+ro-RO = "Intersecție"
 
 [word00012]
 de-DE = "Parkplatz"
@@ -189,6 +211,8 @@ nl-NL = "Parkeerplaats"
 sv-SE = "Parkering"
 tr-TR = "Otopark"
 pl-PL = "Parking"
+sr-RS = "Parking"
+ro-RO = "Parcare"
 
 [word00013]
 de-DE = "Tankstelle"
@@ -205,6 +229,8 @@ nl-NL = "Tankstation"
 sv-SE = "Bensinstation"
 tr-TR = "Benzin istasyonu"
 pl-PL = "Stacja benzynowa"
+sr-RS = "Benzinska stanica"
+ro-RO = "Benzinărie"
 
 [word00014]
 de-DE = "Bahnhof"
@@ -221,6 +247,8 @@ nl-NL = "Treinstation"
 sv-SE = "Tågstation"
 tr-TR = "Tren istasyonu"
 pl-PL = "Dworzec kolejowy"
+sr-RS = "Železnička stanica"
+ro-RO = "Gara"
 
 [word00015]
 de-DE = "Flughafen"
@@ -237,6 +265,8 @@ nl-NL = "Luchthaven"
 sv-SE = "Flygplats"
 tr-TR = "Havalimanı"
 pl-PL = "Lotnisko"
+sr-RS = "Aerodrom"
+ro-RO = "Aeroport"
 
 [word00016]
 de-DE = "Fahrplan"
@@ -253,6 +283,8 @@ nl-NL = "Dienstregeling"
 sv-SE = "Tidtabell"
 tr-TR = "Zaman çizelgesi"
 pl-PL = "Rozkład jazdy"
+sr-RS = "Red vožnje"
+ro-RO = "Orar"
 
 [word00017]
 de-DE = "Fahrkarte"
@@ -269,6 +301,8 @@ nl-NL = "Kaartje"
 sv-SE = "Biljett"
 tr-TR = "Bilet"
 pl-PL = "Bilet"
+sr-RS = "Karta"
+ro-RO = "Bilet"
 
 [word00018]
 de-DE = "Fahrzeug"
@@ -285,6 +319,8 @@ nl-NL = "Voertuig"
 sv-SE = "Fordon"
 tr-TR = "Araç"
 pl-PL = "Pojazd"
+sr-RS = "Vozilo"
+ro-RO = "Vehicul"
 
 [word00019]
 de-DE = "Fahrer"
@@ -301,3 +337,5 @@ nl-NL = "Bestuurder"
 sv-SE = "Förare"
 tr-TR = "Sürücü"
 pl-PL = "Kierowca"
+sr-RS = "Vozač"
+ro-RO = "Șofer"

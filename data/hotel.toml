@@ -13,6 +13,8 @@ nl-NL = "Ik wil graag een kamer voor twee personen."
 sv-SE = "Jag skulle vilja ha ett rum för två personer."
 tr-TR = "İki kişilik bir oda istiyorum."
 pl-PL = "Poproszę pokój dla dwóch osób."
+sr-RS = "Želeo bih sobu za dve osobe."
+ro-RO = "Aș dori o cameră pentru două persoane."
 
 [word00002]
 de-DE = "Ich hätte gerne ein Einzelzimmer."
@@ -29,6 +31,8 @@ nl-NL = "Ik wil graag een eenpersoonskamer."
 sv-SE = "Jag skulle vilja ha ett enkelrum."
 tr-TR = "Tek kişilik bir oda istiyorum."
 pl-PL = "Poproszę pokój jednoosobowy."
+sr-RS = "Želeo bih jednokrevetnu sobu."
+ro-RO = "Aș dori o cameră single."
 
 [word00003]
 de-DE = "Ich hätte gerne ein Doppelzimmer."
@@ -45,6 +49,8 @@ nl-NL = "Ik wil graag een tweepersoonskamer."
 sv-SE = "Jag skulle vilja ha ett dubbelrum."
 tr-TR = "Çift kişilik bir oda istiyorum."
 pl-PL = "Poproszę pokój dwuosobowy."
+sr-RS = "Želeo bih dvokrevetnu sobu."
+ro-RO = "Aș dori o cameră dublă."
 
 [word00004]
 de-DE = "Ich hätte gerne ein Zimmer mit Bad."
@@ -61,6 +67,8 @@ nl-NL = "Ik wil graag een kamer met bad."
 sv-SE = "Jag skulle vilja ha ett rum med badrum."
 tr-TR = "Banyolu bir oda istiyorum."
 pl-PL = "Poproszę pokój z łazienką."
+sr-RS = "Želeo bih sobu sa kupatilom."
+ro-RO = "Aș dori o cameră cu baie."
 
 [word00005]
 de-DE = "Ich hätte gerne ein Zimmer mit Dusche."
@@ -77,6 +85,8 @@ nl-NL = "Ik wil graag een kamer met douche."
 sv-SE = "Jag skulle vilja ha ett rum med dusch."
 tr-TR = "Duşlu bir oda istiyorum."
 pl-PL = "Poproszę pokój z prysznicem."
+sr-RS = "Želeo bih sobu sa tušem."
+ro-RO = "Aș dori o cameră cu duș."
 
 [word00006]
 de-DE = "Ich gehe die Treppe hoch."
@@ -93,6 +103,8 @@ nl-NL = "Ik ga de trap op."
 sv-SE = "Jag går uppför trappan."
 tr-TR = "Merdivenlerden yukarı çıkıyorum."
 pl-PL = "Wchodzę po schodach."
+sr-RS = "Penjem se uz stepenice."
+ro-RO = "Urc pe scări."
 
 [word00007]
 de-DE = "Ich gehe die Treppe runter."
@@ -109,6 +121,8 @@ nl-NL = "Ik ga de trap af."
 sv-SE = "Jag går nerför trappan."
 tr-TR = "Merdivenlerden aşağı iniyorum."
 pl-PL = "Schodzę po schodach."
+sr-RS = "Silazim niz stepenice."
+ro-RO = "Cobor pe scări."
 
 [word00008]
 de-DE = "Die Rezeption ist im Erdgeschoss."
@@ -125,6 +139,8 @@ nl-NL = "De receptie is op de begane grond."
 sv-SE = "Receptionen ligger på bottenvåningen."
 tr-TR = "Resepsiyon zemin katta."
 pl-PL = "Recepcja znajduje się na parterze."
+sr-RS = "Recepcija je u prizemlju."
+ro-RO = "Recepția este la parter."
 
 [word00009]
 de-DE = "Das Zimmer ist im dritten Stock."
@@ -141,6 +157,8 @@ nl-NL = "De kamer is op de derde verdieping."
 sv-SE = "Rummet ligger på tredje våningen."
 tr-TR = "Oda üçüncü katta."
 pl-PL = "Pokój jest na trzecim piętrze."
+sr-RS = "Soba je na trećem spratu."
+ro-RO = "Camera este la etajul trei."
 
 [word00010]
 de-DE = "Die Lobby"
@@ -157,6 +175,8 @@ nl-NL = "De lobby"
 sv-SE = "Lobbyn"
 tr-TR = "Lobi"
 pl-PL = "Hol"
+sr-RS = "Lobi"
+ro-RO = "Holul"
 
 [word00011]
 de-DE = "Ab wann ist das Restaurant geöffnet?"
@@ -173,6 +193,8 @@ nl-NL = "Vanaf hoe laat is het restaurant open?"
 sv-SE = "Från vilken tid är restaurangen öppen?"
 tr-TR = "Restoran saat kaçtan itibaren açık?"
 pl-PL = "Od której godziny restauracja jest otwarta?"
+sr-RS = "Od koliko sati je restoran otvoren?"
+ro-RO = "De la ce oră este deschis restaurantul?"
 
 [word00012]
 de-DE = "Wie viel kostet das Zimmer?"
@@ -189,6 +211,8 @@ nl-NL = "Hoeveel kost de kamer?"
 sv-SE = "Hur mycket kostar rummet?"
 tr-TR = "Oda ne kadar?"
 pl-PL = "Ile kosztuje pokój?"
+sr-RS = "Koliko košta soba?"
+ro-RO = "Cât costă camera?"
 
 [word00013]
 de-DE = "Ich habe eine Reservierung."
@@ -205,6 +229,8 @@ nl-NL = "Ik heb een reservering."
 sv-SE = "Jag har en bokning."
 tr-TR = "Bir rezervasyonum var."
 pl-PL = "Mam rezerwację."
+sr-RS = "Imam rezervaciju."
+ro-RO = "Am o rezervare."
 
 [word00014]
 de-DE = "Ich möchte ein Zimmer reservieren."
@@ -221,6 +247,8 @@ nl-NL = "Ik wil graag een kamer reserveren."
 sv-SE = "Jag skulle vilja boka ett rum."
 tr-TR = "Bir oda ayırtmak istiyorum."
 pl-PL = "Chciałbym zarezerwować pokój."
+sr-RS = "Želeo bih da rezervišem sobu."
+ro-RO = "Aș dori să rezerv o cameră."
 
 [word00015]
 de-DE = "Ich möchte ein Zimmer stornieren."
@@ -237,6 +265,8 @@ nl-NL = "Ik wil graag een kamer annuleren."
 sv-SE = "Jag skulle vilja avboka ett rum."
 tr-TR = "Bir odayı iptal etmek istiyorum."
 pl-PL = "Chciałbym anulować pokój."
+sr-RS = "Želeo bih da otkažem sobu."
+ro-RO = "Aș dori să anulez o cameră."
 
 [word00016]
 de-DE = "Ich möchte bitte ein Zimmer für eine Nacht."
@@ -249,10 +279,12 @@ ru-RU = "Я бы хотел комнату на одну ночь, пожалу�
 ja-JP = "一泊の部屋をお願いします。"
 zh-CN = "我想要一个住一晚的房间。"
 ko-KR = "하룻밤 방을 원합니다."
-nl-NL = "Ik wil graag een kamer voor één nacht."
+nl-NL = "Ik wil graag een kamer voor een nacht."
 sv-SE = "Jag skulle vilja ha ett rum för en natt, tack."
 tr-TR = "Bir gece için oda istiyorum, lütfen."
 pl-PL = "Poproszę pokój na jedną noc."
+sr-RS = "Želeo bih sobu za jednu noć, molim."
+ro-RO = "Aș dori o cameră pentru o noapte, vă rog."
 
 [word00017]
 de-DE = "die Abreise"
@@ -269,6 +301,8 @@ nl-NL = "het vertrek"
 sv-SE = "avresan"
 tr-TR = "ayrılış"
 pl-PL = "wyjazd"
+sr-RS = "odlazak"
+ro-RO = "plecarea"
 
 [word00018]
 de-DE = "Wir reisen am Sonntag ab."
@@ -285,6 +319,8 @@ nl-NL = "We vertrekken op zondag."
 sv-SE = "Vi åker på söndag."
 tr-TR = "Pazar günü ayrılıyoruz."
 pl-PL = "Wyjeżdżamy w niedzielę."
+sr-RS = "Odlazimo u nedelju."
+ro-RO = "Plecam duminică."
 
 [word00019]
 de-DE = "das Hotel"
@@ -301,3 +337,5 @@ nl-NL = "het hotel"
 sv-SE = "hotellet"
 tr-TR = "otel"
 pl-PL = "hotel"
+sr-RS = "hotel"
+ro-RO = "hotelul"

@@ -78,3 +78,5 @@ Use the mentioned Country Codes to refer to your intended language selection.
 | ![Swedish Flag](./img/flag_sv-SE.svg)    | Sweden        | sv-SE           |
 | ![Turkish Flag](./img/flag_tr-TR.svg)    | Turkey        | tr-TR           |
 | ![Polish Flag](./img/flag_pl-PL.svg)     | Poland        | pl-PL           |
+| ![Serbian Flag](./img/flag_sr-RS.svg)    | Serbia        | sr-RS           |
+| ![Romanian Flag](./img/flag_ro-RO.svg)   | Romania       | ro-RO           |

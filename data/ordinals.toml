@@ -13,6 +13,8 @@ nl-NL = "de eerste plaats"
 sv-SE = "första platsen"
 tr-TR = "birinci yer"
 pl-PL = "pierwsze miejsce"
+sr-RS = "prvo mesto"
+ro-RO = "primul loc"
 
 [word00002]
 de-DE = "der zweite Platz"
@@ -29,6 +31,8 @@ nl-NL = "de tweede plaats"
 sv-SE = "andra platsen"
 tr-TR = "ikinci yer"
 pl-PL = "drugie miejsce"
+sr-RS = "drugo mesto"
+ro-RO = "al doilea loc"
 
 [word00003]
 de-DE = "der dritte Platz"
@@ -45,6 +49,8 @@ nl-NL = "de derde plaats"
 sv-SE = "tredje platsen"
 tr-TR = "üçüncü yer"
 pl-PL = "trzecie miejsce"
+sr-RS = "treće mesto"
+ro-RO = "al treilea loc"
 
 [word00004]
 de-DE = "der vierte Platz"
@@ -61,6 +67,8 @@ nl-NL = "de vierde plaats"
 sv-SE = "fjärde platsen"
 tr-TR = "dördüncü yer"
 pl-PL = "czwarte miejsce"
+sr-RS = "četvrto mesto"
+ro-RO = "al patrulea loc"
 
 [word00005]
 de-DE = "der fünfte Platz"
@@ -77,6 +85,8 @@ nl-NL = "de vijfde plaats"
 sv-SE = "femte platsen"
 tr-TR = "beşinci yer"
 pl-PL = "piąte miejsce"
+sr-RS = "peto mesto"
+ro-RO = "al cincilea loc"
 
 [word00006]
 de-DE = "der sechste Platz"
@@ -93,6 +103,8 @@ nl-NL = "de zesde plaats"
 sv-SE = "sjätte platsen"
 tr-TR = "altıncı yer"
 pl-PL = "szóste miejsce"
+sr-RS = "šesto mesto"
+ro-RO = "al șaselea loc"
 
 [word00007]
 de-DE = "der siebte Platz"
@@ -109,6 +121,8 @@ nl-NL = "de zevende plaats"
 sv-SE = "sjunde platsen"
 tr-TR = "yedinci yer"
 pl-PL = "siódme miejsce"
+sr-RS = "sedmo mesto"
+ro-RO = "al șaptelea loc"
 
 [word00008]
 de-DE = "der achte Platz"
@@ -125,6 +139,8 @@ nl-NL = "de achtste plaats"
 sv-SE = "åttonde platsen"
 tr-TR = "sekizinci yer"
 pl-PL = "ósme miejsce"
+sr-RS = "osmo mesto"
+ro-RO = "al optulea loc"
 
 [word00009]
 de-DE = "der neunte Platz"
@@ -141,6 +157,8 @@ nl-NL = "de negende plaats"
 sv-SE = "nionde platsen"
 tr-TR = "dokuzuncu yer"
 pl-PL = "dziewiąte miejsce"
+sr-RS = "deveto mesto"
+ro-RO = "al nouălea loc"
 
 [word00010]
 de-DE = "der zehnte Platz"
@@ -157,6 +175,8 @@ nl-NL = "de tiende plaats"
 sv-SE = "tionde platsen"
 tr-TR = "onuncu yer"
 pl-PL = "dziesiąte miejsce"
+sr-RS = "deseto mesto"
+ro-RO = "al zecelea loc"
 
 [word00011]
 de-DE = "der elfte Platz"
@@ -173,6 +193,8 @@ nl-NL = "de elfde plaats"
 sv-SE = "elfte platsen"
 tr-TR = "on birinci yer"
 pl-PL = "jedenaste miejsce"
+sr-RS = "jedanaesto mesto"
+ro-RO = "al unsprezecelea loc"
 
 [word00012]
 de-DE = "der zwölfte Platz"
@@ -189,6 +211,8 @@ nl-NL = "de twaalfde plaats"
 sv-SE = "tolfte platsen"
 tr-TR = "on ikinci yer"
 pl-PL = "dwunaste miejsce"
+sr-RS = "dvanaesto mesto"
+ro-RO = "al doisprezecelea loc"
 
 [word00013]
 de-DE = "der dreizehnte Platz"
@@ -205,6 +229,8 @@ nl-NL = "de dertiende plaats"
 sv-SE = "trettonde platsen"
 tr-TR = "on üçüncü yer"
 pl-PL = "trzynaste miejsce"
+sr-RS = "trinaesto mesto"
+ro-RO = "al treisprezecelea loc"
 
 [word00014]
 de-DE = "der vierzehnte Platz"
@@ -221,6 +247,8 @@ nl-NL = "de veertiende plaats"
 sv-SE = "fjortonde platsen"
 tr-TR = "on dördüncü yer"
 pl-PL = "czternaste miejsce"
+sr-RS = "četrnaesto mesto"
+ro-RO = "al paisprezecelea loc"
 
 [word00015]
 de-DE = "der fünfzehnte Platz"
@@ -237,6 +265,8 @@ nl-NL = "de vijftiende plaats"
 sv-SE = "femtonde platsen"
 tr-TR = "on beşinci yer"
 pl-PL = "piętnaste miejsce"
+sr-RS = "petnaesto mesto"
+ro-RO = "al cincisprezecelea loc"
 
 [word00016]
 de-DE = "der sechzehnte Platz"
@@ -253,6 +283,8 @@ nl-NL = "de zestiende plaats"
 sv-SE = "sextonde platsen"
 tr-TR = "on altıncı yer"
 pl-PL = "szesnaste miejsce"
+sr-RS = "šesnaesto mesto"
+ro-RO = "al șaisprezecelea loc"
 
 [word00017]
 de-DE = "der siebzehnte Platz"
@@ -269,6 +301,8 @@ nl-NL = "de zeventiende plaats"
 sv-SE = "sjuttonde platsen"
 tr-TR = "on yedinci yer"
 pl-PL = "siedemnaste miejsce"
+sr-RS = "sedamnaesto mesto"
+ro-RO = "al șaptesprezecelea loc"
 
 [word00018]
 de-DE = "der achtzehnte Platz"
@@ -285,6 +319,8 @@ nl-NL = "de achttiende plaats"
 sv-SE = "artonnde platsen"
 tr-TR = "on sekizinci yer"
 pl-PL = "osiemnaste miejsce"
+sr-RS = "osamnaesto mesto"
+ro-RO = "al optsprezecelea loc"
 
 [word00019]
 de-DE = "der neunzehnte Platz"
@@ -301,6 +337,8 @@ nl-NL = "de negentiende plaats"
 sv-SE = "nittonde platsen"
 tr-TR = "on dokuzuncu yer"
 pl-PL = "dziewiętnaste miejsce"
+sr-RS = "devetnaesto mesto"
+ro-RO = "al nouăsprezecelea loc"
 
 [word00020]
 de-DE = "der zwanzigste Platz"
@@ -317,6 +355,8 @@ nl-NL = "de twintigste plaats"
 sv-SE = "tjugonde platsen"
 tr-TR = "yirminci yer"
 pl-PL = "dwudzieste miejsce"
+sr-RS = "dvadeseto mesto"
+ro-RO = "al douăzecilea loc"
 
 [word00021]
 de-DE = "Die einundzwanzigste Flasche"
@@ -333,6 +373,8 @@ nl-NL = "de eenentwintigste fles"
 sv-SE = "den tjugoförsta flaskan"
 tr-TR = "yirmi birinci şişe"
 pl-PL = "dwudziesta pierwsza butelka"
+sr-RS = "dvadeset prva flaša"
+ro-RO = "a douăzeci și una sticlă"
 
 [word00022]
 de-DE = "Die zweiundzwanzigste Flasche"
@@ -349,6 +391,8 @@ nl-NL = "de tweeëntwintigste fles"
 sv-SE = "den tjugoandra flaskan"
 tr-TR = "yirmi ikinci şişe"
 pl-PL = "dwudziesta druga butelka"
+sr-RS = "dvadeset druga flaša"
+ro-RO = "a douăzeci și două sticlă"
 
 [word00023]
 de-DE = "Die dreiundzwanzigste Flasche"
@@ -365,6 +409,8 @@ nl-NL = "de drieëntwintigste fles"
 sv-SE = "den tjugotredje flaskan"
 tr-TR = "yirmi üçüncü şişe"
 pl-PL = "dwudziesta trzecia butelka"
+sr-RS = "dvadeset treća flaša"
+ro-RO = "a douăzeci și trei sticlă"
 
 [word00024]
 de-DE = "Die vierundzwanzigste Flasche"
@@ -381,6 +427,8 @@ nl-NL = "de vierentwintigste fles"
 sv-SE = "den tjugofjärde flaskan"
 tr-TR = "yirmi dördüncü şişe"
 pl-PL = "dwudziesta czwarta butelka"
+sr-RS = "dvadeset četvrta flaša"
+ro-RO = "a douăzeci și patru sticlă"
 
 [word00025]
 de-DE = "Die fünfundzwanzigste Flasche"
@@ -397,6 +445,8 @@ nl-NL = "de vijfentwintigste fles"
 sv-SE = "den tjugofemte flaskan"
 tr-TR = "yirmi beşinci şişe"
 pl-PL = "dwudziesta piąta butelka"
+sr-RS = "dvadeset peta flaša"
+ro-RO = "a douăzeci și cinci sticlă"
 
 [word00026]
 de-DE = "Die sechsundzwanzigste Flasche"
@@ -413,6 +463,8 @@ nl-NL = "de zesentwintigste fles"
 sv-SE = "den tjugosjätte flaskan"
 tr-TR = "yirmi altıncı şişe"
 pl-PL = "dwudziesta szósta butelka"
+sr-RS = "dvadeset šesta flaša"
+ro-RO = "a douăzeci și șase sticlă"
 
 [word00027]
 de-DE = "Die siebenundzwanzigste Flasche"
@@ -429,6 +481,8 @@ nl-NL = "de zevenentwintigste fles"
 sv-SE = "den tjugosjunde flaskan"
 tr-TR = "yirmi yedinci şişe"
 pl-PL = "dwudziesta siódma butelka"
+sr-RS = "dvadeset sedma flaša"
+ro-RO = "a douăzeci și șapte sticlă"
 
 [word00028]
 de-DE = "Die achtundzwanzigste Flasche"
@@ -445,6 +499,8 @@ nl-NL = "de achtentwintigste fles"
 sv-SE = "den tjugoåttonde flaskan"
 tr-TR = "yirmi sekizinci şişe"
 pl-PL = "dwudziesta ósma butelka"
+sr-RS = "dvadeset osma flaša"
+ro-RO = "a douăzeci și opt sticlă"
 
 [word00029]
 de-DE = "Die neunundzwanzigste Flasche"
@@ -461,6 +517,8 @@ nl-NL = "de negenentwintigste fles"
 sv-SE = "den tjugonionde flaskan"
 tr-TR = "yirmi dokuzuncu şişe"
 pl-PL = "dwudziesta dziewiąta butelka"
+sr-RS = "dvadeset deveta flaša"
+ro-RO = "a douăzeci și nouă sticlă"
 
 [word00030]
 de-DE = "Die dreißigste Flasche"
@@ -477,6 +535,8 @@ nl-NL = "de dertigste fles"
 sv-SE = "den trettionde flaskan"
 tr-TR = "otuzuncu şişe"
 pl-PL = "trzydziesta butelka"
+sr-RS = "trideseta flaša"
+ro-RO = "a treizecea sticlă"
 
 [word00031]
 de-DE = "Die einunddreißigste Flasche"
@@ -493,6 +553,8 @@ nl-NL = "de eenendertigste fles"
 sv-SE = "den trettioförsta flaskan"
 tr-TR = "otuz birinci şişe"
 pl-PL = "trzydziesta pierwsza butelka"
+sr-RS = "trideset prva flaša"
+ro-RO = "a treizeci și una sticlă"
 
 [word00032]
 de-DE = "Die zweiunddreißigste Flasche"
@@ -509,6 +571,8 @@ nl-NL = "de tweeëndertigste fles"
 sv-SE = "den trettioandra flaskan"
 tr-TR = "otuz ikinci şişe"
 pl-PL = "trzydziesta druga butelka"
+sr-RS = "trideset druga flaša"
+ro-RO = "a treizeci și două sticlă"
 
 [word00033]
 de-DE = "Die dreiunddreißigste Flasche"
@@ -525,6 +589,8 @@ nl-NL = "de drieëndertigste fles"
 sv-SE = "den trettiotredje flaskan"
 tr-TR = "otuz üçüncü şişe"
 pl-PL = "trzydziesta trzecia butelka"
+sr-RS = "trideset treća flaša"
+ro-RO = "a treizeci și trei sticlă"
 
 [word00034]
 de-DE = "Die vierunddreißigste Flasche"
@@ -541,6 +607,8 @@ nl-NL = "de vierendertigste fles"
 sv-SE = "den trettiofjärde flaskan"
 tr-TR = "otuz dördüncü şişe"
 pl-PL = "trzydziesta czwarta butelka"
+sr-RS = "trideset četvrta flaša"
+ro-RO = "a treizeci și patru sticlă"
 
 [word00035]
 de-DE = "Die fünfunddreißigste Flasche"
@@ -557,6 +625,8 @@ nl-NL = "de vijfendertigste fles"
 sv-SE = "den trettiofemte flaskan"
 tr-TR = "otuz beşinci şişe"
 pl-PL = "trzydziesta piąta butelka"
+sr-RS = "trideset peta flaša"
+ro-RO = "a treizeci și cinci sticlă"
 
 [word00036]
 de-DE = "Die sechsunddreißigste Flasche"
@@ -573,6 +643,8 @@ nl-NL = "de zesendertigste fles"
 sv-SE = "den trettiosjätte flaskan"
 tr-TR = "otuz altıncı şişe"
 pl-PL = "trzydziesta szósta butelka"
+sr-RS = "trideset šesta flaša"
+ro-RO = "a treizeci și șase sticlă"
 
 [word00037]
 de-DE = "Die siebenunddreißigste Flasche"
@@ -589,3 +661,5 @@ nl-NL = "de zevenendertigste fles"
 sv-SE = "den trettiosjunde flaskan"
 tr-TR = "otuz yedinci şişe"
 pl-PL = "trzydziesta siódma butelka"
+sr-RS = "trideset sedma flaša"
+ro-RO = "a treizeci și șapte sticlă"

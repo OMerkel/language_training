@@ -13,6 +13,8 @@ nl-NL = "Ik heb een boek."
 sv-SE = "Jag har en bok."
 tr-TR = "Bir kitabım var."
 pl-PL = "Mam książkę."
+sr-RS = "Imam knjigu."
+ro-RO = "Am o carte."
 
 [word00002]
 de-DE = "Du hast einen Hund."
@@ -29,6 +31,8 @@ nl-NL = "Jij hebt een hond."
 sv-SE = "Du har en hund."
 tr-TR = "Bir köpeğin var."
 pl-PL = "Masz psa."
+sr-RS = "Imaš psa."
+ro-RO = "Ai un câine."
 
 [word00003]
 de-DE = "Er hat eine Katze."
@@ -45,6 +49,8 @@ nl-NL = "Hij heeft een kat."
 sv-SE = "Han har en katt."
 tr-TR = "Onun bir kedisi var."
 pl-PL = "On ma kota."
+sr-RS = "On ima mačku."
+ro-RO = "El are o pisică."
 
 [word00004]
 de-DE = "Wir haben Zeit."
@@ -61,6 +67,8 @@ nl-NL = "Wij hebben tijd."
 sv-SE = "Vi har tid."
 tr-TR = "Zamanımız var."
 pl-PL = "Mamy czas."
+sr-RS = "Imamo vremena."
+ro-RO = "Avem timp."
 
 [word00005]
 de-DE = "Ihr habt Hunger."
@@ -77,6 +85,8 @@ nl-NL = "Jullie hebben honger."
 sv-SE = "Ni är hungriga."
 tr-TR = "Açsınız."
 pl-PL = "Jesteście głodni."
+sr-RS = "Vi ste gladni."
+ro-RO = "Vă este foame."
 
 [word00006]
 de-DE = "Sie haben Glück."
@@ -93,6 +103,8 @@ nl-NL = "Zij hebben geluk."
 sv-SE = "De har tur."
 tr-TR = "Şanslılar."
 pl-PL = "Mają szczęście."
+sr-RS = "Oni imaju sreće."
+ro-RO = "Ei au noroc."
 
 [word00007]
 de-DE = "Ich mag Schokolade."
@@ -109,6 +121,8 @@ nl-NL = "Ik houd van chocolade."
 sv-SE = "Jag gillar choklad."
 tr-TR = "Çikolatayı severim."
 pl-PL = "Lubię czekoladę."
+sr-RS = "Volim čokoladu."
+ro-RO = "Îmi place ciocolata."
 
 [word00008]
 de-DE = "Du magst Musik."
@@ -125,6 +139,8 @@ nl-NL = "Jij houdt van muziek."
 sv-SE = "Du gillar musik."
 tr-TR = "Müziği seversin."
 pl-PL = "Lubisz muzykę."
+sr-RS = "Voliš muziku."
+ro-RO = "Îți place muzica."
 
 [word00009]
 de-DE = "Er mag Sport."
@@ -141,6 +157,8 @@ nl-NL = "Hij houdt van sport."
 sv-SE = "Han gillar sport."
 tr-TR = "Sporu sever."
 pl-PL = "On lubi sport."
+sr-RS = "On voli sport."
+ro-RO = "Lui îi place sportul."
 
 [word00010]
 de-DE = "Wir mögen Pizza."
@@ -157,6 +175,8 @@ nl-NL = "Wij houden van pizza."
 sv-SE = "Vi gillar pizza."
 tr-TR = "Pizzayı severiz."
 pl-PL = "Lubimy pizzę."
+sr-RS = "Volimo picu."
+ro-RO = "Ne place pizza."
 
 [word00011]
 de-DE = "Ihr mögt Filme."
@@ -173,6 +193,8 @@ nl-NL = "Jullie houden van films."
 sv-SE = "Ni gillar filmer."
 tr-TR = "Filmleri seversiniz."
 pl-PL = "Lubicie filmy."
+sr-RS = "Volite filmove."
+ro-RO = "Vă plac filmele."
 
 [word00012]
 de-DE = "Sie mögen Tiere."
@@ -189,6 +211,8 @@ nl-NL = "Zij houden van dieren."
 sv-SE = "De gillar djur."
 tr-TR = "Hayvanları severler."
 pl-PL = "Oni lubią zwierzęta."
+sr-RS = "Oni vole životinje."
+ro-RO = "Le plac animalele."
 
 [word00013]
 de-DE = "Ich bin müde."
@@ -205,6 +229,8 @@ nl-NL = "Ik ben moe."
 sv-SE = "Jag är trött."
 tr-TR = "Yorgunum."
 pl-PL = "Jestem zmęczony."
+sr-RS = "Umoran sam."
+ro-RO = "Sunt obosit."
 
 [word00014]
 de-DE = "Du bist freundlich."
@@ -217,10 +243,12 @@ ru-RU = "Ты дружелюбный."
 ja-JP = "あなたは親切です。"
 zh-CN = "你很友好。"
 ko-KR = "너는 친절하다."
-nl-NL = "Jij bent vriendelijk."
+nl-NL = "Jij bist freundlich."
 sv-SE = "Du är vänlig."
 tr-TR = "Sen arkadaşcansın."
 pl-PL = "Jesteś przyjazny."
+sr-RS = "Ti si ljubazan."
+ro-RO = "Ești prietenos."
 
 [word00015]
 de-DE = "Er ist Lehrer."
@@ -237,6 +265,8 @@ nl-NL = "Hij is leraar."
 sv-SE = "Han är lärare."
 tr-TR = "O öğretmen."
 pl-PL = "On jest nauczycielem."
+sr-RS = "On je učitelj."
+ro-RO = "El este profesor."
 
 [word00016]
 de-DE = "Wir sind glücklich."
@@ -253,6 +283,8 @@ nl-NL = "Wij zijn gelukkig."
 sv-SE = "Vi är glada."
 tr-TR = "Mutluyuz."
 pl-PL = "Jesteśmy szczęśliwi."
+sr-RS = "Srećni smo."
+ro-RO = "Suntem fericiți."
 
 [word00017]
 de-DE = "Ihr seid pünktlich."
@@ -269,6 +301,8 @@ nl-NL = "Jullie zijn op tijd."
 sv-SE = "Ni är punktliga."
 tr-TR = "Dakiksiniz."
 pl-PL = "Jesteście punktualni."
+sr-RS = "Vi ste tačni."
+ro-RO = "Sunteți punctuali."
 
 [word00018]
 de-DE = "Sie sind Ärzte."
@@ -285,6 +319,8 @@ nl-NL = "Zij zijn artsen."
 sv-SE = "De är läkare."
 tr-TR = "Onlar doktor."
 pl-PL = "Oni są lekarzami."
+sr-RS = "Oni su lekari."
+ro-RO = "Ei sunt doctori."
 
 [word00019]
 de-DE = "Ich laufe jeden Morgen."
@@ -301,6 +337,8 @@ nl-NL = "Ik loop elke ochtend hard."
 sv-SE = "Jag springer varje morgon."
 tr-TR = "Her sabah koşarım."
 pl-PL = "Biegam każdego ranka."
+sr-RS = "Trčim svako jutro."
+ro-RO = "Alerg în fiecare dimineață."
 
 [word00020]
 de-DE = "Du läufst schnell."
@@ -317,6 +355,8 @@ nl-NL = "Jij loopt snel."
 sv-SE = "Du springer snabbt."
 tr-TR = "Hızlı koşarsın."
 pl-PL = "Biegasz szybko."
+sr-RS = "Brzo trčiš."
+ro-RO = "Fugi repede."
 
 [word00021]
 de-DE = "Er läuft im Park."
@@ -333,6 +373,8 @@ nl-NL = "Hij loopt in het park."
 sv-SE = "Han springer i parken."
 tr-TR = "Parkta koşar."
 pl-PL = "On biega w parku."
+sr-RS = "On trči u parku."
+ro-RO = "El aleargă în parc."
 
 [word00022]
 de-DE = "Wir laufen zusammen."
@@ -349,6 +391,8 @@ nl-NL = "Wij lopen samen."
 sv-SE = "Vi springer tillsammans."
 tr-TR = "Birlikte koşarız."
 pl-PL = "Biegamy razem."
+sr-RS = "Trčimo zajedno."
+ro-RO = "Alergăm împreună."
 
 [word00023]
 de-DE = "Ihr lauft zur Schule."
@@ -365,6 +409,8 @@ nl-NL = "Jullie lopen naar school."
 sv-SE = "Ni springer till skolan."
 tr-TR = "Okula koşarsınız."
 pl-PL = "Biegacie do szkoły."
+sr-RS = "Trčite do škole."
+ro-RO = "Alergați la școală."
 
 [word00024]
 de-DE = "Sie laufen im Stadion."
@@ -381,6 +427,8 @@ nl-NL = "Zij lopen in het stadion."
 sv-SE = "De springer på stadion."
 tr-TR = "Stadyumda koşarlar."
 pl-PL = "Oni biegają na stadionie."
+sr-RS = "Oni trče na stadionu."
+ro-RO = "Ei aleargă pe stadion."
 
 [word00025]
 de-DE = "Ich sehe den Film."
@@ -397,6 +445,8 @@ nl-NL = "Ik zie de film."
 sv-SE = "Jag ser filmen."
 tr-TR = "Filmi görüyorum."
 pl-PL = "Widzę film."
+sr-RS = "Vidim film."
+ro-RO = "Văd filmul."
 
 [word00026]
 de-DE = "Du siehst das Bild."
@@ -413,6 +463,8 @@ nl-NL = "Jij ziet het plaatje."
 sv-SE = "Du ser bilden."
 tr-TR = "Resmi görüyorsun."
 pl-PL = "Widzisz obraz."
+sr-RS = "Vidiš sliku."
+ro-RO = "Vezi imaginea."
 
 [word00027]
 de-DE = "Er sieht den Hund."
@@ -429,6 +481,8 @@ nl-NL = "Hij ziet de hond."
 sv-SE = "Han ser hunden."
 tr-TR = "Köpeği görüyor."
 pl-PL = "On widzi psa."
+sr-RS = "On vidi psa."
+ro-RO = "El vede câinele."
 
 [word00028]
 de-DE = "Wir sehen die Sterne."
@@ -445,6 +499,8 @@ nl-NL = "Wij zien de sterren."
 sv-SE = "Vi ser stjärnorna."
 tr-TR = "Yıldızları görüyoruz."
 pl-PL = "Widzimy gwiazdy."
+sr-RS = "Vidimo zvezde."
+ro-RO = "Vedem stelele."
 
 [word00029]
 de-DE = "Ihr seht das Auto."
@@ -461,6 +517,8 @@ nl-NL = "Jullie zien de auto."
 sv-SE = "Ni ser bilen."
 tr-TR = "Arabayı görüyorsunuz."
 pl-PL = "Widzicie samochód."
+sr-RS = "Vidite auto."
+ro-RO = "Vedeți mașina."
 
 [word00030]
 de-DE = "Sie sehen den Vogel."
@@ -477,6 +535,8 @@ nl-NL = "Zij zien de vogel."
 sv-SE = "De ser fågeln."
 tr-TR = "Kuşu görüyorlar."
 pl-PL = "Oni widzą ptaka."
+sr-RS = "Oni vide pticu."
+ro-RO = "Ei văd pasărea."
 
 [word00031]
 de-DE = "Ich esse einen Apfel."
@@ -493,6 +553,8 @@ nl-NL = "Ik eet een appel."
 sv-SE = "Jag äter ett äpple."
 tr-TR = "Bir elma yiyorum."
 pl-PL = "Jem jabłko."
+sr-RS = "Jedem jabuku."
+ro-RO = "Mănânc un măr."
 
 [word00032]
 de-DE = "Du isst ein Brot."
@@ -509,6 +571,8 @@ nl-NL = "Jij eet een brood."
 sv-SE = "Du äter ett bröd."
 tr-TR = "Bir ekmek yiyorsun."
 pl-PL = "Jesz chleb."
+sr-RS = "Jedeš hleb."
+ro-RO = "Mănânci pâine."
 
 [word00033]
 de-DE = "Sie isst einen Kuchen."
@@ -525,6 +589,8 @@ nl-NL = "Zij eet een taart."
 sv-SE = "Hon äter en tårta."
 tr-TR = "Bir pasta yiyor."
 pl-PL = "Ona je ciasto."
+sr-RS = "Ona jede tortu."
+ro-RO = "Ea mănâncă prăjitură."
 
 [word00034]
 de-DE = "Wir essen Suppe."
@@ -541,6 +607,8 @@ nl-NL = "Wij eten soep."
 sv-SE = "Vi äter soppa."
 tr-TR = "Çorba içeriz."
 pl-PL = "Jemy zupę."
+sr-RS = "Jedemo supu."
+ro-RO = "Mâncăm supă."
 
 [word00035]
 de-DE = "Ihr esst Reis."
@@ -557,6 +625,8 @@ nl-NL = "Jullie eten rijst."
 sv-SE = "Ni äter ris."
 tr-TR = "Pirinç yiyorsunuz."
 pl-PL = "Jecie ryż."
+sr-RS = "Jedete pirinač."
+ro-RO = "Mâncați orez."
 
 [word00036]
 de-DE = "Sie essen Gemüse."
@@ -573,6 +643,8 @@ nl-NL = "Zij eten groenten."
 sv-SE = "De äter grönsaker."
 tr-TR = "Sebze yiyorlar."
 pl-PL = "Oni jedzą warzywa."
+sr-RS = "Oni jedu povrće."
+ro-RO = "Ei mănâncă legume."
 
 [word00037]
 de-DE = "Ich trinke Wasser."
@@ -589,6 +661,8 @@ nl-NL = "Ik drink water."
 sv-SE = "Jag dricker vatten."
 tr-TR = "Su içerim."
 pl-PL = "Piję wodę."
+sr-RS = "Pijem vodu."
+ro-RO = "Beau apă."
 
 [word00038]
 de-DE = "Du trinkst Tee."
@@ -605,6 +679,8 @@ nl-NL = "Jij drinkt thee."
 sv-SE = "Du dricker te."
 tr-TR = "Çay içiyorsun."
 pl-PL = "Pijesz herbatę."
+sr-RS = "Piješ čaj."
+ro-RO = "Bei ceai."
 
 [word00039]
 de-DE = "Er trinkt Kaffee."
@@ -621,6 +697,8 @@ nl-NL = "Hij drinkt koffie."
 sv-SE = "Han dricker kaffe."
 tr-TR = "Kahve içer."
 pl-PL = "On pije kawę."
+sr-RS = "On pije kafu."
+ro-RO = "El bea cafea."
 
 [word00040]
 de-DE = "Wir trinken Saft."
@@ -637,6 +715,8 @@ nl-NL = "Wij drinken sap."
 sv-SE = "Vi dricker juice."
 tr-TR = "Meyve suyu içeriz."
 pl-PL = "Pijemy sok."
+sr-RS = "Pijemo sok."
+ro-RO = "Bem suc."
 
 [word00041]
 de-DE = "Ihr trinkt Limonade."
@@ -653,6 +733,8 @@ nl-NL = "Jullie drinken limonade."
 sv-SE = "Ni dricker lemonad."
 tr-TR = "Limonata içiyorsunuz."
 pl-PL = "Pijecie lemoniadę."
+sr-RS = "Pijete limunadu."
+ro-RO = "Beți limonadă."
 
 [word00042]
 de-DE = "Sie trinken Milch."
@@ -669,6 +751,8 @@ nl-NL = "Zij drinken melk."
 sv-SE = "De dricker mjölk."
 tr-TR = "Süt içiyorlar."
 pl-PL = "Oni piją mleko."
+sr-RS = "Oni piju mleko."
+ro-RO = "Ei beau lapte."
 
 [word00043]
 de-DE = "Ich gehe nach Hause."
@@ -685,6 +769,8 @@ nl-NL = "Ik ga naar huis."
 sv-SE = "Jag går hem."
 tr-TR = "Eve gidiyorum."
 pl-PL = "Idę do domu."
+sr-RS = "Idem kući."
+ro-RO = "Merg acasă."
 
 [word00044]
 de-DE = "Du gehst zur Schule."
@@ -701,6 +787,8 @@ nl-NL = "Jij gaat naar school."
 sv-SE = "Du går till skolan."
 tr-TR = "Okula gidiyorsun."
 pl-PL = "Idziesz do szkoły."
+sr-RS = "Ideš u školu."
+ro-RO = "Mergi la școală."
 
 [word00045]
 de-DE = "Er geht ins Büro."
@@ -717,6 +805,8 @@ nl-NL = "Hij gaat naar kantoor."
 sv-SE = "Han går till kontoret."
 tr-TR = "O, ofise gidiyor."
 pl-PL = "On idzie do biura."
+sr-RS = "On ide u kancelariju."
+ro-RO = "El merge la birou."
 
 [word00046]
 de-DE = "Wir gehen in den Park."
@@ -733,6 +823,8 @@ nl-NL = "Wij gaan naar het park."
 sv-SE = "Vi går till parken."
 tr-TR = "Parka gidiyoruz."
 pl-PL = "Idziemy do parku."
+sr-RS = "Idemo u park."
+ro-RO = "Mergem în parc."
 
 [word00047]
 de-DE = "Ihr geht ins Kino."
@@ -749,6 +841,8 @@ nl-NL = "Jullie gaan naar de bioscoop."
 sv-SE = "Ni går på bio."
 tr-TR = "Sinemaya gidiyorsunuz."
 pl-PL = "Idziecie do kina."
+sr-RS = "Idete u bioskop."
+ro-RO = "Mergeți la cinema."
 
 [word00048]
 de-DE = "Sie gehen zum Bahnhof."
@@ -765,6 +859,8 @@ nl-NL = "Zij gaan naar het station."
 sv-SE = "De går till stationen."
 tr-TR = "Tren istasyonuna gidiyorlar."
 pl-PL = "Oni idą na dworzec."
+sr-RS = "Oni idu na stanicu."
+ro-RO = "Ei merg la gară."
 
 [word00049]
 de-DE = "Ich spiele Fußball."
@@ -781,6 +877,8 @@ nl-NL = "Ik speel voetbal."
 sv-SE = "Jag spelar fotboll."
 tr-TR = "Futbol oynuyorum."
 pl-PL = "Gram w piłkę nożną."
+sr-RS = "Igram fudbal."
+ro-RO = "Joc fotbal."
 
 [word00050]
 de-DE = "Du spielst Gitarre."
@@ -797,6 +895,8 @@ nl-NL = "Jij speelt gitaar."
 sv-SE = "Du spelar gitarr."
 tr-TR = "Gitar çalıyorsun."
 pl-PL = "Grasz na gitarze."
+sr-RS = "Sviraš gitaru."
+ro-RO = "Cânți la chitară."
 
 [word00051]
 de-DE = "Er spielt Schach."
@@ -813,6 +913,8 @@ nl-NL = "Hij speelt schaak."
 sv-SE = "Han spelar schack."
 tr-TR = "Satranç oynuyor."
 pl-PL = "On gra w szachy."
+sr-RS = "On igra šah."
+ro-RO = "El joacă șah."
 
 [word00052]
 de-DE = "Wir spielen Karten."
@@ -829,6 +931,8 @@ nl-NL = "Wij spelen kaarten."
 sv-SE = "Vi spelar kort."
 tr-TR = "Kart oynuyoruz."
 pl-PL = "Gramy w karty."
+sr-RS = "Igramo karte."
+ro-RO = "Jucăm cărți."
 
 [word00053]
 de-DE = "Ihr spielt Tennis."
@@ -845,6 +949,8 @@ nl-NL = "Jullie spelen tennis."
 sv-SE = "Ni spelar tennis."
 tr-TR = "Tenis oynuyorsunuz."
 pl-PL = "Gracie w tenisa."
+sr-RS = "Igrate tenis."
+ro-RO = "Jucați tenis."
 
 [word00054]
 de-DE = "Sie spielen im Garten."
@@ -861,6 +967,8 @@ nl-NL = "Zij spelen in de tuin."
 sv-SE = "De leker i trädgården."
 tr-TR = "Bahçede oynuyorlar."
 pl-PL = "Oni bawią się w ogrodzie."
+sr-RS = "Oni se igraju u bašti."
+ro-RO = "Ei se joacă în grădină."
 
 [word00055]
 de-DE = "Ich klettere auf den Baum."
@@ -877,6 +985,8 @@ nl-NL = "Ik klim in de boom."
 sv-SE = "Jag klättrar i trädet."
 tr-TR = "Ağaca tırmanıyorum."
 pl-PL = "Wspinam się na drzewo."
+sr-RS = "Penjem se na drvo."
+ro-RO = "Mă cațăr în copac."
 
 [word00056]
 de-DE = "Du kletterst auf den Felsen."
@@ -893,6 +1003,8 @@ nl-NL = "Jij klimt op de rots."
 sv-SE = "Du klättrar på stenen."
 tr-TR = "Kayaya tırmanıyorsun."
 pl-PL = "Wspinasz się na skałę."
+sr-RS = "Penješ se na stenu."
+ro-RO = "Te cațări pe stâncă."
 
 [word00057]
 de-DE = "Er klettert auf das Dach."
@@ -909,6 +1021,8 @@ nl-NL = "Hij klimt op het dak."
 sv-SE = "Han klättrar upp på taket."
 tr-TR = "Çatıya tırmanıyor."
 pl-PL = "On wspina się na dach."
+sr-RS = "On se penje na krov."
+ro-RO = "El se cațără pe acoperiș."
 
 [word00058]
 de-DE = "Wir klettern in den Bergen."
@@ -925,6 +1039,8 @@ nl-NL = "Wij klimmen in de bergen."
 sv-SE = "Vi klättrar i bergen."
 tr-TR = "Dağlarda tırmanıyoruz."
 pl-PL = "Wspinamy się w górach."
+sr-RS = "Penjemo se u planinama."
+ro-RO = "Ne cățărăm în munți."
 
 [word00059]
 de-DE = "Ihr klettert auf den Turm."
@@ -941,6 +1057,8 @@ nl-NL = "Jullie klimmen op de toren."
 sv-SE = "Ni klättrar upp i tornet."
 tr-TR = "Kuleye tırmanıyorsunuz."
 pl-PL = "Wspinacie się na wieżę."
+sr-RS = "Penjete se na kulu."
+ro-RO = "Vă cățărați pe turn."
 
 [word00060]
 de-DE = "Sie klettern auf den Hügel."
@@ -957,6 +1075,8 @@ nl-NL = "Zij klimmen op de heuvel."
 sv-SE = "De klättrar upp på kullen."
 tr-TR = "Tepeye tırmanıyorlar."
 pl-PL = "Oni wspinają się na wzgórze."
+sr-RS = "Oni se penju na brdo."
+ro-RO = "Ei se cațără pe deal."
 
 [word00061]
 de-DE = "Ich wandere im Wald."
@@ -973,6 +1093,8 @@ nl-NL = "Ik wandel in het bos."
 sv-SE = "Jag vandrar i skogen."
 tr-TR = "Ormanda yürüyüş yapıyorum."
 pl-PL = "Wędruję po lesie."
+sr-RS = "Planinarim kroz šumu."
+ro-RO = "Fac drumeții în pădure."
 
 [word00062]
 de-DE = "Du wanderst am Fluss."
@@ -989,6 +1111,8 @@ nl-NL = "Jij wandelt langs de rivier."
 sv-SE = "Du vandrar vid floden."
 tr-TR = "Nehir kenarında yürüyorsun."
 pl-PL = "Wędrujesz nad rzeką."
+sr-RS = "Planinariš pored reke."
+ro-RO = "Faci drumeții pe lângă râu."
 
 [word00063]
 de-DE = "Sie wandert in den Alpen."
@@ -1005,6 +1129,8 @@ nl-NL = "Zij wandelt in de Alpen."
 sv-SE = "Hon vandrar i Alperna."
 tr-TR = "Alplerde yürüyüş yapıyor."
 pl-PL = "Ona wędruje w Alpach."
+sr-RS = "Ona planinari po Alpima."
+ro-RO = "Ea face drumeții în Alpi."
 
 [word00064]
 de-DE = "Wir wandern zusammen."
@@ -1021,6 +1147,8 @@ nl-NL = "Wij wandelen samen."
 sv-SE = "Vi vandrar tillsammans."
 tr-TR = "Birlikte yürüyüş yapıyoruz."
 pl-PL = "Wędrujemy razem."
+sr-RS = "Planinarimo zajedno."
+ro-RO = "Facem drumeții împreună."
 
 [word00065]
 de-DE = "Ihr wandert auf dem Weg."
@@ -1037,6 +1165,8 @@ nl-NL = "Jullie wandelen op het pad."
 sv-SE = "Ni vandrar på stigen."
 tr-TR = "Yolda yürüyüş yapıyorsunuz."
 pl-PL = "Wędrujecie ścieżką."
+sr-RS = "Planinarite stazom."
+ro-RO = "Faceți drumeții pe potecă."
 
 [word00066]
 de-DE = "Sie wandern durch das Tal."
@@ -1053,6 +1183,8 @@ nl-NL = "Zij wandelen door het dal."
 sv-SE = "De vandrar genom dalen."
 tr-TR = "Vadiden yürüyüş yapıyorlar."
 pl-PL = "Oni wędrują przez dolinę."
+sr-RS = "Oni planinare kroz dolinu."
+ro-RO = "Ei fac drumeții prin vale."
 
 [word00067]
 de-DE = "Ich fahre mit dem Auto."
@@ -1069,6 +1201,8 @@ nl-NL = "Ik rijd auto."
 sv-SE = "Jag kör bil."
 tr-TR = "Araba sürüyorum."
 pl-PL = "Prowadzę samochód."
+sr-RS = "Vozim auto."
+ro-RO = "Conduc o mașină."
 
 [word00068]
 de-DE = "Du fährst Fahrrad."
@@ -1085,6 +1219,8 @@ nl-NL = "Jij fietst."
 sv-SE = "Du cyklar."
 tr-TR = "Bisiklete biniyorsun."
 pl-PL = "Jeździsz na rowerze."
+sr-RS = "Vozis bicikl."
+ro-RO = "Mergi cu bicicleta."
 
 [word00069]
 de-DE = "Sie fährt mit dem Bus."
@@ -1101,6 +1237,8 @@ nl-NL = "Zij neemt de bus."
 sv-SE = "Hon tar bussen."
 tr-TR = "Otobüse biniyor."
 pl-PL = "Ona jedzie autobusem."
+sr-RS = "Ona ide autobusom."
+ro-RO = "Ea merge cu autobuzul."
 
 [word00070]
 de-DE = "Wir fahren nach Berlin."
@@ -1117,6 +1255,8 @@ nl-NL = "Wij gaan naar Berlijn."
 sv-SE = "Vi åker till Berlin."
 tr-TR = "Berlin'e gidiyoruz."
 pl-PL = "Jedziemy do Berlina."
+sr-RS = "Idemo u Berlin."
+ro-RO = "Mergem la Berlin."
 
 [word00071]
 de-DE = "Ihr fahrt mit dem Zug."
@@ -1133,6 +1273,8 @@ nl-NL = "Jullie gaan met de trein."
 sv-SE = "Ni åker tåg."
 tr-TR = "Trenle gidiyorsunuz."
 pl-PL = "Jedziecie pociągiem."
+sr-RS = "Putujete vozom."
+ro-RO = "Mergeți cu trenul."
 
 [word00072]
 de-DE = "Sie fahren nach Hause."
@@ -1149,3 +1291,5 @@ nl-NL = "Zij rijden naar huis."
 sv-SE = "De åker hem."
 tr-TR = "Eve gidiyorlar."
 pl-PL = "Jadą do domu."
+sr-RS = "Oni idu kući."
+ro-RO = "Ei merg acasă."

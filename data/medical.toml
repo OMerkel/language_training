@@ -13,6 +13,8 @@ nl-NL = "de dokter"
 sv-SE = "läkaren"
 tr-TR = "doktor"
 pl-PL = "lekarz"
+sr-RS = "lekar"
+ro-RO = "medicul"
 
 [word00002]
 de-DE = "das Krankenhaus"
@@ -29,6 +31,8 @@ nl-NL = "het ziekenhuis"
 sv-SE = "sjukhuset"
 tr-TR = "hastane"
 pl-PL = "szpital"
+sr-RS = "bolnica"
+ro-RO = "spitalul"
 
 [word00003]
 de-DE = "Ich brauche einen Arzt."
@@ -45,6 +49,8 @@ nl-NL = "Ik heb een dokter nodig."
 sv-SE = "Jag behöver en läkare."
 tr-TR = "Bir doktora ihtiyacım var."
 pl-PL = "Potrzebuję lekarza."
+sr-RS = "Treba mi lekar."
+ro-RO = "Am nevoie de un doctor."
 
 [word00004]
 de-DE = "Haben Sie Schmerzen?"
@@ -61,6 +67,8 @@ nl-NL = "Heeft u pijn?"
 sv-SE = "Har du ont?"
 tr-TR = "Ağrınız var mı?"
 pl-PL = "Czy boli?"
+sr-RS = "Imate li bolove?"
+ro-RO = "Aveți dureri?"
 
 [word00005]
 de-DE = "Ich habe Fieber."
@@ -77,6 +85,8 @@ nl-NL = "Ik heb koorts."
 sv-SE = "Jag har feber."
 tr-TR = "Ateşim var."
 pl-PL = "Mam gorączkę."
+sr-RS = "Imam temperaturu."
+ro-RO = "Am febră."
 
 [word00006]
 de-DE = "Mir ist schwindelig."
@@ -93,6 +103,8 @@ nl-NL = "Ik ben duizelig."
 sv-SE = "Jag är yr."
 tr-TR = "Başım dönüyor."
 pl-PL = "Mam zawroty głowy."
+sr-RS = "Vrtoglavica mi je."
+ro-RO = "Amețesc."
 
 [word00007]
 de-DE = "die Erste Hilfe"
@@ -109,6 +121,8 @@ nl-NL = "eerste hulp"
 sv-SE = "första hjälpen"
 tr-TR = "ilk yardım"
 pl-PL = "pierwsza помощь"
+sr-RS = "prva pomoć"
+ro-RO = "primul ajutor"
 
 [word00008]
 de-DE = "Rufen Sie einen Krankenwagen!"
@@ -125,6 +139,8 @@ nl-NL = "Bel een ambulance!"
 sv-SE = "Ring efter en ambulans!"
 tr-TR = "Ambulans çağırın!"
 pl-PL = "Wezwij karetkę!"
+sr-RS = "Pozovite hitnu pomoć!"
+ro-RO = "Chemați o ambulanță!"
 
 [word00009]
 de-DE = "Ich habe eine Allergie."
@@ -141,6 +157,8 @@ nl-NL = "Ik heb een allergie."
 sv-SE = "Jag har en allergi."
 tr-TR = "Alerjim var."
 pl-PL = "Mam alergię."
+sr-RS = "Imam alergiju."
+ro-RO = "Am o alergie."
 
 [word00010]
 de-DE = "Ich habe Kopfschmerzen."
@@ -157,6 +175,8 @@ nl-NL = "Ik heb hoofdpijn."
 sv-SE = "Jag har huvudvärk."
 tr-TR = "Başım ağrıyor."
 pl-PL = "Boli mnie głowa."
+sr-RS = "Boli me glava."
+ro-RO = "Mă doare capul."
 
 [word00011]
 de-DE = "Ich habe Husten."
@@ -173,6 +193,8 @@ nl-NL = "Ik hoest."
 sv-SE = "Jag har hosta."
 tr-TR = "Öksürüyorum."
 pl-PL = "Mam kaszel."
+sr-RS = "Imam kašalj."
+ro-RO = "Tușesc."
 
 [word00012]
 de-DE = "Ich habe Bauchschmerzen."
@@ -189,6 +211,8 @@ nl-NL = "Ik heb buikpijn."
 sv-SE = "Jag har ont i magen."
 tr-TR = "Karnım ağrıyor."
 pl-PL = "Boli mnie brzuch."
+sr-RS = "Imam bolove u stomaku."
+ro-RO = "Mă doare burta."
 
 [word00013]
 de-DE = "Ich habe mich verletzt."
@@ -205,6 +229,8 @@ nl-NL = "Ik heb me bezeerd."
 sv-SE = "Jag har skadat mig."
 tr-TR = "Yaralandım."
 pl-PL = "Zraniłem się."
+sr-RS = "Povredio sam se."
+ro-RO = "M-am rănit."
 
 [word00014]
 de-DE = "Bitte nehmen Sie diese Tabletten."
@@ -221,6 +247,8 @@ nl-NL = "Neem deze tabletten alstublieft."
 sv-SE = "Ta dessa tabletter, tack."
 tr-TR = "Lütfen bu hapları alın."
 pl-PL = "Proszę wziąć te tabletki."
+sr-RS = "Molim vas, uzmite ove tablete."
+ro-RO = "Vă rog să luați aceste pastile."
 
 [word00015]
 de-DE = "Sind Sie geimpft?"
@@ -237,6 +265,8 @@ nl-NL = "Bent u gevaccineerd?"
 sv-SE = "Är du vaccinerad?"
 tr-TR = "Aşı oldunuz mu?"
 pl-PL = "Jesteś zaszczepiony?"
+sr-RS = "Da li ste vakcinisani?"
+ro-RO = "Sunteți vaccinat?"
 
 [word00016]
 de-DE = "die Apotheke"
@@ -253,6 +283,8 @@ nl-NL = "de apotheek"
 sv-SE = "apoteket"
 tr-TR = "eczane"
 pl-PL = "apteka"
+sr-RS = "apoteka"
+ro-RO = "farmacia"
 
 [word00017]
 de-DE = "das Rezept"
@@ -269,6 +301,8 @@ nl-NL = "het recept"
 sv-SE = "receptet"
 tr-TR = "reçete"
 pl-PL = "recepta"
+sr-RS = "recept"
+ro-RO = "rețetă"
 
 [word00018]
 de-DE = "Ich habe eine Erkältung."
@@ -285,6 +319,8 @@ nl-NL = "Ik ben verkouden."
 sv-SE = "Jag är förkyld."
 tr-TR = "Nezlem var."
 pl-PL = "Mam przeziębienie."
+sr-RS = "Prehlađen sam."
+ro-RO = "Sunt răcit."
 
 [word00019]
 de-DE = "Ich habe Durchfall."
@@ -301,6 +337,8 @@ nl-NL = "Ik heb diarree."
 sv-SE = "Jag har diarré."
 tr-TR = "İshalim var."
 pl-PL = "Mam biegunkę."
+sr-RS = "Imam proliv."
+ro-RO = "Am diaree."
 
 [word00020]
 de-DE = "Ich habe Halsschmerzen."
@@ -317,6 +355,8 @@ nl-NL = "Ik heb keelpijn."
 sv-SE = "Jag har ont i halsen."
 tr-TR = "Boğazım ağrıyor."
 pl-PL = "Boli mnie gardło."
+sr-RS = "Boli me grlo."
+ro-RO = "Mă doare gâtul."
 
 [word00021]
 de-DE = "Ich habe einen Ausschlag."
@@ -333,6 +373,8 @@ nl-NL = "Ik heb uitslag."
 sv-SE = "Jag har utslag."
 tr-TR = "Döküntüm var."
 pl-PL = "Mam wysypkę."
+sr-RS = "Imam osip."
+ro-RO = "Am o erupție cutanată."
 
 [word00022]
 de-DE = "Ich habe Asthma."
@@ -349,6 +391,8 @@ nl-NL = "Ik heb astma."
 sv-SE = "Jag har astma."
 tr-TR = "Astımım var."
 pl-PL = "Mam astmę."
+sr-RS = "Imam astmu."
+ro-RO = "Am astm."
 
 [word00023]
 de-DE = "Ich brauche ein Pflaster."
@@ -365,6 +409,8 @@ nl-NL = "Ik heb een pleister nodig."
 sv-SE = "Jag behöver ett plåster."
 tr-TR = "Bir yara bandına ihtiyacım var."
 pl-PL = "Potrzebuję plastra."
+sr-RS = "Treba mi flaster."
+ro-RO = "Am nevoie de un plasture."
 
 [word00024]
 de-DE = "Ich habe eine Verbrennung."
@@ -381,6 +427,8 @@ nl-NL = "Ik heb een brandwond."
 sv-SE = "Jag har en brännskada."
 tr-TR = "Yanık var."
 pl-PL = "Mam oparzenie."
+sr-RS = "Imam opekotinu."
+ro-RO = "Am o arsură."
 
 [word00025]
 de-DE = "Ich habe eine Prellung."
@@ -397,6 +445,8 @@ nl-NL = "Ik heb een blauwe plek."
 sv-SE = "Jag har ett blåmärke."
 tr-TR = "Morluğum var."
 pl-PL = "Mam siniaka."
+sr-RS = "Imam modricu."
+ro-RO = "Am o vânătaie."
 
 [word00026]
 de-DE = "Ich habe eine Verstauchung."
@@ -413,6 +463,8 @@ nl-NL = "Ik heb een verstuiking."
 sv-SE = "Jag har en stukning."
 tr-TR = "Burkulmam var."
 pl-PL = "Mam skręcenie."
+sr-RS = "Imam uganuće."
+ro-RO = "Am o entorsă."
 
 [word00027]
 de-DE = "das Thermometer"
@@ -429,6 +481,8 @@ nl-NL = "de thermometer"
 sv-SE = "termometern"
 tr-TR = "termometre"
 pl-PL = "termometr"
+sr-RS = "termometar"
+ro-RO = "termometrul"
 
 [word00028]
 de-DE = "der Verband"
@@ -445,6 +499,8 @@ nl-NL = "het verband"
 sv-SE = "bandaget"
 tr-TR = "bandaj"
 pl-PL = "bandaż"
+sr-RS = "zavoj"
+ro-RO = "bandajul"
 
 [word00029]
 de-DE = "die Spritze"
@@ -461,6 +517,8 @@ nl-NL = "de spuit"
 sv-SE = "sprutan"
 tr-TR = "enjektör"
 pl-PL = "strzykawka"
+sr-RS = "špric"
+ro-RO = "seringa"
 
 [word00030]
 de-DE = "Ich brauche Hilfe!"
@@ -477,6 +535,8 @@ nl-NL = "Ik heb hulp nodig!"
 sv-SE = "Jag behöver hjälp!"
 tr-TR = "Yardıma ihtiyacım var!"
 pl-PL = "Potrzebuję pomocy!"
+sr-RS = "Treba mi pomoć!"
+ro-RO = "Am nevoie de ajutor!"
 
 [word00031]
 de-DE = "das Stethoskop"
@@ -493,6 +553,8 @@ nl-NL = "de stethoscoop"
 sv-SE = "stetoskopet"
 tr-TR = "stetoskop"
 pl-PL = "stetoskop"
+sr-RS = "stetoskop"
+ro-RO = "stetoscopul"
 
 [word00032]
 de-DE = "die Krücke"
@@ -509,6 +571,8 @@ nl-NL = "de kruk"
 sv-SE = "kryckan"
 tr-TR = "koltuk değneği"
 pl-PL = "kula"
+sr-RS = "štaka"
+ro-RO = "cârja"
 
 [word00033]
 de-DE = "die Blutdruckmessung"
@@ -525,6 +589,8 @@ nl-NL = "de bloeddrukmeting"
 sv-SE = "blodtrycksmätning"
 tr-TR = "tansiyon ölçümü"
 pl-PL = "pomiar ciśnienia krwi"
+sr-RS = "merenje krvnog pritiska"
+ro-RO = "măsurarea tensiunii arteriale"
 
 [word00034]
 de-DE = "die Operation"
@@ -541,6 +607,8 @@ nl-NL = "de operatie"
 sv-SE = "operationen"
 tr-TR = "ameliyat"
 pl-PL = "operacja"
+sr-RS = "operacija"
+ro-RO = "operația"
 
 [word00035]
 de-DE = "Ich habe eine Infektion."
@@ -557,6 +625,8 @@ nl-NL = "Ik heb een infectie."
 sv-SE = "Jag har en infektion."
 tr-TR = "Enfeksiyonum var."
 pl-PL = "Mam infekcję."
+sr-RS = "Imam infekciju."
+ro-RO = "Am o infecție."
 
 [word00036]
 de-DE = "Ich habe eine Wunde."
@@ -573,6 +643,8 @@ nl-NL = "Ik heb een wond."
 sv-SE = "Jag har ett sår."
 tr-TR = "Yaram var."
 pl-PL = "Mam ranę."
+sr-RS = "Imam ranu."
+ro-RO = "Am o rană."
 
 [word00037]
 de-DE = "Ich habe eine Blasenentzündung."
@@ -589,6 +661,8 @@ nl-NL = "Ik heb een blaasontsteking."
 sv-SE = "Jag har urinvägsinfektion."
 tr-TR = "İdrar yolu enfeksiyonum var."
 pl-PL = "Mam zapalenie pęcherza."
+sr-RS = "Imam upalu bešike."
+ro-RO = "Am o infecție urinară."
 
 [word00038]
 de-DE = "Ich habe eine Lebensmittelvergiftung."
@@ -605,6 +679,8 @@ nl-NL = "Ik heb een voedselvergiftiging."
 sv-SE = "Jag har matförgiftning."
 tr-TR = "Gıda zehirlenmesi geçirdim."
 pl-PL = "Mam zatrucie pokarmowe."
+sr-RS = "Imam trovanje hranom."
+ro-RO = "Am o intoxicație alimentară."
 
 [word00039]
 de-DE = "Ich habe eine Grippe."
@@ -621,6 +697,8 @@ nl-NL = "Ik heb griep."
 sv-SE = "Jag har influensa."
 tr-TR = "Gribim var."
 pl-PL = "Mam grypę."
+sr-RS = "Imam grip."
+ro-RO = "Am gripă."
 
 [word00040]
 de-DE = "Ich habe eine Fraktur."
@@ -637,6 +715,8 @@ nl-NL = "Ik heb een botbreuk."
 sv-SE = "Jag har ett benbrott."
 tr-TR = "Kırığım var."
 pl-PL = "Mam złamanie."
+sr-RS = "Imam prelom."
+ro-RO = "Am o fractură."
 
 [word00041]
 de-DE = "die Notaufnahme"
@@ -653,6 +733,8 @@ nl-NL = "de spoedeisende hulp"
 sv-SE = "akutmottagningen"
 tr-TR = "acil servis"
 pl-PL = "izba przyjęć"
+sr-RS = "hitna pomoć"
+ro-RO = "camera de urgență"
 
 [word00042]
 de-DE = "das Desinfektionsmittel"
@@ -669,6 +751,8 @@ nl-NL = "het desinfectiemiddel"
 sv-SE = "desinfektionsmedlet"
 tr-TR = "dezenfektan"
 pl-PL = "środek dezynfekujący"
+sr-RS = "dezinfekciono sredstvo"
+ro-RO = "dezinfectantul"
 
 [word00043]
 de-DE = "die Maske"
@@ -685,6 +769,8 @@ nl-NL = "het mondkapje"
 sv-SE = "munskyddet"
 tr-TR = "maske"
 pl-PL = "maska"
+sr-RS = "maska"
+ro-RO = "masca"
 
 [word00044]
 de-DE = "Ich habe Bluthochdruck."
@@ -701,6 +787,8 @@ nl-NL = "Ik heb hoge bloeddruk."
 sv-SE = "Jag har högt blodtryck."
 tr-TR = "Yüksek tansiyonum var."
 pl-PL = "Mam nadciśnienie."
+sr-RS = "Imam visok krvni pritisak."
+ro-RO = "Am hipertensiune."
 
 [word00045]
 de-DE = "Ich habe Diabetes."
@@ -717,6 +805,8 @@ nl-NL = "Ik heb diabetes."
 sv-SE = "Jag har diabetes."
 tr-TR = "Diyabetim var."
 pl-PL = "Mam cukrzycę."
+sr-RS = "Imam dijabetes."
+ro-RO = "Am diabet."
 
 [word00046]
 de-DE = "die Sprühpflaster"
@@ -733,6 +823,8 @@ nl-NL = "de spraypleister"
 sv-SE = "sprayplåstret"
 tr-TR = "sprey yara bandı"
 pl-PL = "plaster w sprayu"
+sr-RS = "sprej flaster"
+ro-RO = "plasture spray"
 
 [word00047]
 de-DE = "Ich habe eine Sehstörung."
@@ -749,6 +841,8 @@ nl-NL = "Ik heb een zichtstoornis."
 sv-SE = "Jag har en synstörning."
 tr-TR = "Görme bozukluğum var."
 pl-PL = "Mam zaburzenia widzenia."
+sr-RS = "Imam poremećaj vida."
+ro-RO = "Am un tulburare de vedere."
 
 [word00048]
 de-DE = "die Schmerzen"
@@ -765,6 +859,8 @@ nl-NL = "de pijn"
 sv-SE = "smärtan"
 tr-TR = "ağrı"
 pl-PL = "ból"
+sr-RS = "bol"
+ro-RO = "durerea"
 
 [word00049]
 de-DE = "Es schmerzt sehr!"
@@ -781,6 +877,8 @@ nl-NL = "Het doet erg veel pijn!"
 sv-SE = "Det gör mycket ont!"
 tr-TR = "Çok acıyor!"
 pl-PL = "Bardzo boli!"
+sr-RS = "Mnogo boli!"
+ro-RO = "Mă doare foarte tare!"
 
 [word00050]
 de-DE = "das Erste-Hilfe-Set"
@@ -797,6 +895,8 @@ nl-NL = "de EHBO-doos"
 sv-SE = "första hjälpen-lådan"
 tr-TR = "ilk yardım çantası"
 pl-PL = "apteczka pierwszej pomocy"
+sr-RS = "prva pomoć set"
+ro-RO = "trusa de prim ajutor"
 
 [word00051]
 de-DE = "die Tablette"
@@ -813,6 +913,8 @@ nl-NL = "de tablet"
 sv-SE = "tabletten"
 tr-TR = "hap"
 pl-PL = "tabletka"
+sr-RS = "tableta"
+ro-RO = "pastila"
 
 [word00052]
 de-DE = "die Salbe"
@@ -829,6 +931,8 @@ nl-NL = "de zalf"
 sv-SE = "salvan"
 tr-TR = "merhem"
 pl-PL = "maść"
+sr-RS = "mast"
+ro-RO = "unguentul"
 
 [word00053]
 de-DE = "die Infusion"
@@ -845,6 +949,8 @@ nl-NL = "de infuus"
 sv-SE = "infusionen"
 tr-TR = "serum"
 pl-PL = "wlew"
+sr-RS = "infuzija"
+ro-RO = "perfuzia"
 
 [word00054]
 de-DE = "die Narbe"
@@ -861,6 +967,8 @@ nl-NL = "het litteken"
 sv-SE = "ärret"
 tr-TR = "yara izi"
 pl-PL = "blizna"
+sr-RS = "ožiljak"
+ro-RO = "cicatricea"
 
 [word00055]
 de-DE = "die Sprunggelenksbandage"
@@ -877,6 +985,8 @@ nl-NL = "de enkelbrace"
 sv-SE = "fotledsstödet"
 tr-TR = "ayak bilekliği"
 pl-PL = "stabilizator kostki"
+sr-RS = "gležanj zavoj"
+ro-RO = "orteza pentru gleznă"
 
 [word00056]
 de-DE = "die Blutprobe"
@@ -893,6 +1003,8 @@ nl-NL = "het bloedmonster"
 sv-SE = "blodprovet"
 tr-TR = "kan örneği"
 pl-PL = "próbka krwi"
+sr-RS = "uzorak krvi"
+ro-RO = "proba de sânge"
 
 [word00057]
 de-DE = "die Schutzbrille"
@@ -909,6 +1021,8 @@ nl-NL = "de veiligheidsbril"
 sv-SE = "skyddsglasögonen"
 tr-TR = "koruyucu gözlük"
 pl-PL = "okulary ochronne"
+sr-RS = "zaštitne naočare"
+ro-RO = "ochelarii de protecție"
 
 [word00058]
 de-DE = "die Rettungsdecke"
@@ -925,6 +1039,8 @@ nl-NL = "de reddingsdeken"
 sv-SE = "räddningsfilten"
 tr-TR = "acil battaniye"
 pl-PL = "koc ratunkowy"
+sr-RS = "spasilački pokrivač"
+ro-RO = "pătura de salvare"
 
 [word00059]
 de-DE = "die Zange"
@@ -941,6 +1057,8 @@ nl-NL = "de pincet"
 sv-SE = "pincetten"
 tr-TR = "pens"
 pl-PL = "pęseta"
+sr-RS = "klešta"
+ro-RO = "cleștele"
 
 [word00060]
 de-DE = "die Schiene"
@@ -957,6 +1075,8 @@ nl-NL = "de spalk"
 sv-SE = "skena"
 tr-TR = "atel"
 pl-PL = "szyna"
+sr-RS = "udlaga"
+ro-RO = "atelă"
 
 [word00061]
 de-DE = "Ich habe eine Gehirnerschütterung."
@@ -973,6 +1093,8 @@ nl-NL = "Ik heb een hersenschudding."
 sv-SE = "Jag har hjärnskakning."
 tr-TR = "Beyin sarsıntım var."
 pl-PL = "Mam wstrząsienie mózgu."
+sr-RS = "Imam potres mozga."
+ro-RO = "Am o comoție cerebrală."
 
 [word00062]
 de-DE = "Ich habe eine Lungenentzündung."
@@ -989,6 +1111,8 @@ nl-NL = "Ik heb een longontsteking."
 sv-SE = "Jag har lunginflammation."
 tr-TR = "Zatürrem var."
 pl-PL = "Mam zapalenie płuc."
+sr-RS = "Imam upalu pluća."
+ro-RO = "Am pneumonie."
 
 [word00063]
 de-DE = "Ich habe eine Ohrenentzündung."
@@ -1005,6 +1129,8 @@ nl-NL = "Ik heb een oorontsteking."
 sv-SE = "Jag har öroninflammation."
 tr-TR = "Kulak enfeksiyonum var."
 pl-PL = "Mam zapalenie ucha."
+sr-RS = "Imam infekciju uha."
+ro-RO = "Am o infecție la ureche."
 
 [word00064]
 de-DE = "die Pinzette"
@@ -1021,6 +1147,8 @@ nl-NL = "de pincet"
 sv-SE = "pincetten"
 tr-TR = "cımbız"
 pl-PL = "pęseta"
+sr-RS = "pinceta"
+ro-RO = "penseta"
 
 [word00065]
 de-DE = "das Fieberthermometer"
@@ -1037,6 +1165,8 @@ nl-NL = "de koortsthermometer"
 sv-SE = "febertermometern"
 tr-TR = "ateş ölçer"
 pl-PL = "termometr lekarski"
+sr-RS = "termometar za groznicu"
+ro-RO = "termometrul pentru febră"
 
 [word00066]
 de-DE = "die Infusion"
@@ -1053,6 +1183,8 @@ nl-NL = "de infuus"
 sv-SE = "infusionen"
 tr-TR = "serum"
 pl-PL = "wlew"
+sr-RS = "infuzija"
+ro-RO = "perfuzia"
 
 [word00067]
 de-DE = "die Rettungsgasse"
@@ -1069,6 +1201,8 @@ nl-NL = "de reddingsstrook"
 sv-SE = "räddningsfilen"
 tr-TR = "acil şerit"
 pl-PL = "korytarz życia"
+sr-RS = "traka za hitne slučajeve"
+ro-RO = "banda de urgență"
 
 [word00068]
 de-DE = "die Notrufnummer"
@@ -1085,6 +1219,8 @@ nl-NL = "het alarmnummer"
 sv-SE = "nödnumret"
 tr-TR = "acil numara"
 pl-PL = "numer alarmowy"
+sr-RS = "broj za hitne slučajeve"
+ro-RO = "numărul de urgență"
 
 [word00069]
 de-DE = "die Bluttransfusion"
@@ -1101,6 +1237,8 @@ nl-NL = "de bloedtransfusie"
 sv-SE = "blodtransfusionen"
 tr-TR = "kan nakli"
 pl-PL = "transfuzja krwi"
+sr-RS = "transfuzija krvi"
+ro-RO = "transfuzia de sânge"
 
 [word00070]
 de-DE = "die Sprunggelenksbandage"
@@ -1117,6 +1255,8 @@ nl-NL = "de enkelbrace"
 sv-SE = "fotledsstödet"
 tr-TR = "ayak bilekliği"
 pl-PL = "stabilizator kostki"
+sr-RS = "gležanj zavoj"
+ro-RO = "orteza pentru gleznă"
 
 [word00071]
 de-DE = "die Schutzmaske"
@@ -1133,6 +1273,8 @@ nl-NL = "het beschermingsmasker"
 sv-SE = "skyddsmasken"
 tr-TR = "koruyucu maske"
 pl-PL = "maska ochronna"
+sr-RS = "zaštitna maska"
+ro-RO = "masca de protecție"
 
 [word00072]
 de-DE = "die Halskrause"
@@ -1149,6 +1291,8 @@ nl-NL = "de nekkraag"
 sv-SE = "nackkragen"
 tr-TR = "boyunluk"
 pl-PL = "kołnierz ortopedyczny"
+sr-RS = "vratna kragna"
+ro-RO = "guler cervical"
 
 [word00073]
 de-DE = "die Beatmungsmaske"
@@ -1165,6 +1309,8 @@ nl-NL = "het beademingsmasker"
 sv-SE = "andningsmasken"
 tr-TR = "suni solunum maskesi"
 pl-PL = "maska do resuscytacji"
+sr-RS = "maska za reanimaciju"
+ro-RO = "masca de resuscitare"
 
 [word00074]
 de-DE = "die Mullbinde"
@@ -1181,6 +1327,8 @@ nl-NL = "de gaasverband"
 sv-SE = "gasbindan"
 tr-TR = "gazlı sargı"
 pl-PL = "bandaż gazowy"
+sr-RS = "gaza zavoj"
+ro-RO = "bandajul de tifon"
 
 [word00075]
 de-DE = "Ich habe eine Platzwunde."
@@ -1197,6 +1345,8 @@ nl-NL = "Ik heb een snijwond."
 sv-SE = "Jag har en sårskada."
 tr-TR = "Yırtık bir yaralanmam var."
 pl-PL = "Mam ranę szarpaną."
+sr-RS = "Imam ranu."
+ro-RO = "Am o rană."
 
 [word00076]
 de-DE = "Ich habe eine Zahnfleischentzündung."
@@ -1213,6 +1363,8 @@ nl-NL = "Ik heb tandvleesontsteking."
 sv-SE = "Jag har tandköttsinflammation."
 tr-TR = "Diş eti iltihabım var."
 pl-PL = "Mam zapalenie dziąseł."
+sr-RS = "Imam upalu desni."
+ro-RO = "Am inflamație la gingii."
 
 [word00077]
 de-DE = "Ich habe eine Mittelohrentzündung."
@@ -1229,3 +1381,41 @@ nl-NL = "Ik heb een middenoorontsteking."
 sv-SE = "Jag har öroninflammation."
 tr-TR = "Orta kulak iltihabım var."
 pl-PL = "Mam zapalenie ucha środkowego."
+sr-RS = "Imam upalu srednjeg uha."
+ro-RO = "Am otită."
+
+[word00078]
+de-DE = "die Genesung"
+en-US = "the recovery"
+fr-FR = "la guérison"
+es-ES = "la recuperación"
+it-IT = "la guarigione"
+pt-PT = "a recuperação"
+ru-RU = "выздоровление"
+ja-JP = "回復"
+zh-CN = "康复"
+ko-KR = "회복"
+nl-NL = "het herstel"
+sv-SE = "återhämtningen"
+tr-TR = "iyileşme"
+pl-PL = "powrót do zdrowia"
+sr-RS = "oporavak"
+ro-RO = "recuperarea"
+
+[word00079]
+de-DE = "die Genesungswünsche"
+en-US = "get well wishes"
+fr-FR = "les vœux de rétablissement"
+es-ES = "los deseos de recuperación"
+it-IT = "gli auguri di pronta guarigione"
+pt-PT = "os votos de melhoras"
+ru-RU = "пожелания выздоровления"
+ja-JP = "お大事に"
+zh-CN = "祝你早日康复"
+ko-KR = "쾌유를 빕니다"
+nl-NL = "beterschapswensen"
+sv-SE = "krya på dig-hälsningar"
+tr-TR = "geçmiş olsun dilekleri"
+pl-PL = "życzenia powrotu do zdrowia"
+sr-RS = "želje za brz oporavak"
+ro-RO = "urări de însănătoșire"
