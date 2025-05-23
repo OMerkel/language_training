@@ -13,6 +13,8 @@ nl-NL = "Vakantieappartement"
 sv-SE = "Semesterlägenhet"
 tr-TR = "Tatil dairesi"
 pl-PL = "Apartament wakacyjny"
+sr-RS = "Apartman za odmor"
+ro-RO = "Apartament de vacanță"
 
 [word00002]
 de-DE = "Wie führen wir die Schlüsselübergabe durch?"
@@ -29,6 +31,8 @@ nl-NL = "Hoe regelen we de sleuteloverdracht?"
 sv-SE = "Hur gör vi med nyckelöverlämningen?"
 tr-TR = "Anahtar teslimini nasıl yapıyoruz?"
 pl-PL = "Jak przeprowadzamy przekazanie kluczy?"
+sr-RS = "Kako ćemo izvršiti primopredaju ključeva?"
+ro-RO = "Cum facem predarea cheilor?"
 
 [word00003]
 de-DE = "Wo befindet sich der Wohnungsschlüssel?"
@@ -45,6 +49,8 @@ nl-NL = "Waar is de sleutel van het appartement?"
 sv-SE = "Var finns lägenhetsnyckeln?"
 tr-TR = "Daire anahtarı nerede?"
 pl-PL = "Gdzie jest klucz do mieszkania?"
+sr-RS = "Gde se nalazi ključ od stana?"
+ro-RO = "Unde este cheia apartamentului?"
 
 [word00004]
 de-DE = "Der Zimmerschlüssel steckt in der Türe."
@@ -61,6 +67,8 @@ nl-NL = "De kamersleutel zit in de deur."
 sv-SE = "Rumsnyckeln sitter i dörren."
 tr-TR = "Oda anahtarı kapıda."
 pl-PL = "Klucz do pokoju jest w drzwiach."
+sr-RS = "Ključ od sobe je u vratima."
+ro-RO = "Cheia camerei este în ușă."
 
 [word00005]
 de-DE = "Beschreiben Sie mir bitte den Weg."
@@ -77,6 +85,8 @@ nl-NL = "Kunt u mij de weg beschrijven, alstublieft?"
 sv-SE = "Beskriv vägen för mig, tack."
 tr-TR = "Lütfen bana yolu tarif edin."
 pl-PL = "Proszę opisać mi drogę."
+sr-RS = "Molim vas, opišite mi put."
+ro-RO = "Vă rog să-mi descrieți drumul."
 
 [word00006]
 de-DE = "Wir werden in einer Stunde ankommen."
@@ -93,6 +103,8 @@ nl-NL = "We komen over een uur aan."
 sv-SE = "Vi kommer om en timme."
 tr-TR = "Bir saat içinde varacağız."
 pl-PL = "Przyjedziemy za godzinę."
+sr-RS = "Stižemo za sat vremena."
+ro-RO = "Vom ajunge într-o oră."
 
 [word00007]
 de-DE = "Wir werden um siebzehn Uhr dreizig ankommen."
@@ -109,6 +121,8 @@ nl-NL = "We komen om half zes aan."
 sv-SE = "Vi kommer klockan sjutton trettio."
 tr-TR = "Saat on yedi otuzda varacağız."
 pl-PL = "Przyjedziemy o siedemnastej trzydzieści."
+sr-RS = "Stižemo u sedamnaest i trideset."
+ro-RO = "Vom ajunge la ora șaptesprezece treizeci."
 
 [word00008]
 de-DE = "das Haus"
@@ -125,6 +139,8 @@ nl-NL = "het huis"
 sv-SE = "huset"
 tr-TR = "ev"
 pl-PL = "dom"
+sr-RS = "kuća"
+ro-RO = "casa"
 
 [word00009]
 de-DE = "das Zimmer"
@@ -141,6 +157,8 @@ nl-NL = "de kamer"
 sv-SE = "rummet"
 tr-TR = "oda"
 pl-PL = "pokój"
+sr-RS = "soba"
+ro-RO = "camera"
 
 [word00010]
 de-DE = "das Bad"
@@ -157,6 +175,8 @@ nl-NL = "de badkamer"
 sv-SE = "badrummet"
 tr-TR = "banyo"
 pl-PL = "łazienka"
+sr-RS = "kupatilo"
+ro-RO = "baia"
 
 [word00011]
 de-DE = "die Küche"
@@ -173,6 +193,8 @@ nl-NL = "de keuken"
 sv-SE = "köket"
 tr-TR = "mutfak"
 pl-PL = "kuchnia"
+sr-RS = "kuhinja"
+ro-RO = "bucătăria"
 
 [word00012]
 de-DE = "das Wohnzimmer"
@@ -189,6 +211,8 @@ nl-NL = "de woonkamer"
 sv-SE = "vardagsrummet"
 tr-TR = "oturma odası"
 pl-PL = "salon"
+sr-RS = "dnevna soba"
+ro-RO = "sufrageria"
 
 [word00013]
 de-DE = "das Schlafzimmer"
@@ -205,6 +229,8 @@ nl-NL = "de slaapkamer"
 sv-SE = "sovrummet"
 tr-TR = "yatak odası"
 pl-PL = "sypialnia"
+sr-RS = "spavaća soba"
+ro-RO = "dormitorul"
 
 [word00014]
 de-DE = "das Esszimmer"
@@ -221,6 +247,8 @@ nl-NL = "de eetkamer"
 sv-SE = "matsalen"
 tr-TR = "yemek odası"
 pl-PL = "jadalnia"
+sr-RS = "trpezarija"
+ro-RO = "sala de mese"
 
 [word00015]
 de-DE = "das Badezimmer"
@@ -237,6 +265,8 @@ nl-NL = "de badkamer"
 sv-SE = "badrummet"
 tr-TR = "banyo"
 pl-PL = "łazienka"
+sr-RS = "kupatilo"
+ro-RO = "baia"
 
 [word00016]
 de-DE = "die Toilette"
@@ -253,6 +283,8 @@ nl-NL = "het toilet"
 sv-SE = "toaletten"
 tr-TR = "tuvalet"
 pl-PL = "toaleta"
+sr-RS = "toalet"
+ro-RO = "toaleta"
 
 [word00017]
 de-DE = "der Balkon"
@@ -269,6 +301,8 @@ nl-NL = "het balkon"
 sv-SE = "balkongen"
 tr-TR = "balkon"
 pl-PL = "balkon"
+sr-RS = "balkon"
+ro-RO = "balconul"
 
 [word00018]
 de-DE = "die Terrasse"
@@ -285,6 +319,8 @@ nl-NL = "het terras"
 sv-SE = "terrassen"
 tr-TR = "teras"
 pl-PL = "taras"
+sr-RS = "terasa"
+ro-RO = "terasa"
 
 [word00019]
 de-DE = "der Aufzug"
@@ -301,6 +337,8 @@ nl-NL = "de lift"
 sv-SE = "hissen"
 tr-TR = "asansör"
 pl-PL = "winda"
+sr-RS = "lift"
+ro-RO = "ascensorul"
 
 [word00020]
 de-DE = "die Treppe"
@@ -317,6 +355,8 @@ nl-NL = "de trap"
 sv-SE = "trappan"
 tr-TR = "merdiven"
 pl-PL = "schody"
+sr-RS = "stepenište"
+ro-RO = "scara"
 
 [word00021]
 de-DE = "der Flur"
@@ -333,6 +373,8 @@ nl-NL = "de gang"
 sv-SE = "korridoren"
 tr-TR = "koridor"
 pl-PL = "korytarz"
+sr-RS = "hodnik"
+ro-RO = "coridorul"
 
 [word00022]
 de-DE = "der Garten"
@@ -349,6 +391,8 @@ nl-NL = "de tuin"
 sv-SE = "trädgården"
 tr-TR = "bahçe"
 pl-PL = "ogród"
+sr-RS = "bašta"
+ro-RO = "grădina"
 
 [word00023]
 de-DE = "der Parkplatz"
@@ -365,6 +409,8 @@ nl-NL = "de parkeerplaats"
 sv-SE = "parkeringsplatsen"
 tr-TR = "otopark"
 pl-PL = "parking"
+sr-RS = "parking"
+ro-RO = "parcarea"
 
 [word00024]
 de-DE = "die Garage"
@@ -381,6 +427,8 @@ nl-NL = "de garage"
 sv-SE = "garaget"
 tr-TR = "garaj"
 pl-PL = "garaż"
+sr-RS = "garaža"
+ro-RO = "garajul"
 
 [word00025]
 de-DE = "der Keller"
@@ -397,6 +445,8 @@ nl-NL = "de kelder"
 sv-SE = "källaren"
 tr-TR = "bodrum katı"
 pl-PL = "piwnica"
+sr-RS = "podrum"
+ro-RO = "subsolul"
 
 [word00026]
 it-IT = "la cantina"
@@ -413,6 +463,8 @@ nl-NL = "de wijnkelder"
 sv-SE = "vinkällaren"
 tr-TR = "şarap mahzeni"
 pl-PL = "piwniczka na wino"
+sr-RS = "vinski podrum"
+ro-RO = "crama"
 
 [word00027]
 en-US = "the attic"
@@ -429,6 +481,8 @@ nl-NL = "de zolder"
 sv-SE = "vinden"
 tr-TR = "çatı katı"
 pl-PL = "strych"
+sr-RS = "tavan"
+ro-RO = "mansarda"
 
 [word00028]
 en-US = "the balcony"
@@ -445,3 +499,5 @@ nl-NL = "het balkon"
 sv-SE = "balkongen"
 tr-TR = "balkon"
 pl-PL = "balkon"
+sr-RS = "balkon"
+ro-RO = "balconul"

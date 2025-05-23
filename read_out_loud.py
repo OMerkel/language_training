@@ -192,7 +192,7 @@ def validate_args(args: argparse.Namespace) -> None:
         raise ValueError("Source and target language codes must be different.")
     supported_langs = ['de-DE', 'en-US', 'fr-FR', 'es-ES', 'it-IT', 'pt-PT',
                        'ru-RU', 'ja-JP', 'zh-CN', 'ko-KR', 'nl-NL', 'sv-SE',
-                       'tr-TR', 'pl-PL']
+                       'tr-TR', 'pl-PL', 'sr-RS', 'ro-RO']
     if args.source_lang not in supported_langs:
         raise ValueError(f"Unsupported source language: {args.source_lang}."
                          f" Supported languages are: {supported_langs}")

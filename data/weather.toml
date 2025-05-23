@@ -13,6 +13,8 @@ nl-NL = "Hoe is het weer vandaag?"
 sv-SE = "Hur är vädret idag?"
 tr-TR = "Bugün hava nasıl?"
 pl-PL = "Jaka jest dziś pogoda?"
+sr-RS = "Kakvo je vreme danas?"
+ro-RO = "Cum este vremea astăzi?"
 
 [word00002]
 en-US = "It's sunny."
@@ -29,6 +31,8 @@ nl-NL = "Het is zonnig."
 sv-SE = "Det är soligt."
 tr-TR = "Hava güneşli."
 pl-PL = "Jest słonecznie."
+sr-RS = "Sunčano je."
+ro-RO = "Este soare."
 
 [word00003]
 en-US = "It's raining."
@@ -45,6 +49,8 @@ nl-NL = "Het regent."
 sv-SE = "Det regnar."
 tr-TR = "Yağmur yağıyor."
 pl-PL = "Pada deszcz."
+sr-RS = "Pada kiša."
+ro-RO = "Plouă."
 
 [word00004]
 en-US = "It's cloudy."
@@ -61,6 +67,8 @@ nl-NL = "Het is bewolkt."
 sv-SE = "Det är molnigt."
 tr-TR = "Hava bulutlu."
 pl-PL = "Jest pochmurno."
+sr-RS = "Oblačno je."
+ro-RO = "Este înnorat."
 
 [word00005]
 en-US = "It's cold."
@@ -77,6 +85,8 @@ nl-NL = "Het is koud."
 sv-SE = "Det är kallt."
 tr-TR = "Hava soğuk."
 pl-PL = "Jest zimno."
+sr-RS = "Hladno je."
+ro-RO = "Este frig."
 
 [word00006]
 en-US = "It's hot."
@@ -93,6 +103,8 @@ nl-NL = "Het is warm."
 sv-SE = "Det är varmt."
 tr-TR = "Hava sıcak."
 pl-PL = "Jest gorąco."
+sr-RS = "Vruće je."
+ro-RO = "Este cald."
 
 [word00007]
 de-DE = "Wie wird das Wetter morgen?"
@@ -109,6 +121,8 @@ nl-NL = "Hoe wordt het weer morgen?"
 sv-SE = "Hur blir vädret imorgon?"
 tr-TR = "Yarın hava nasıl olacak?"
 pl-PL = "Jaka będzie pogoda jutro?"
+sr-RS = "Kakvo će vreme biti sutra?"
+ro-RO = "Cum va fi vremea mâine?"
 
 [word00008]
 en-US = "It's going to rain."
@@ -125,6 +139,8 @@ nl-NL = "Het gaat regenen."
 sv-SE = "Det kommer att regna."
 tr-TR = "Yağmur yağacak."
 pl-PL = "Będzie padać."
+sr-RS = "Padaće kiša."
+ro-RO = "Va ploua."
 
 [word00009]
 en-US = "What is the temperature?"
@@ -141,6 +157,8 @@ nl-NL = "Wat is de temperatuur?"
 sv-SE = "Vad är temperaturen?"
 tr-TR = "Sıcaklık nedir?"
 pl-PL = "Jaka jest temperatura?"
+sr-RS = "Kolika je temperatura?"
+ro-RO = "Care este temperatura?"
 
 [word00010]
 fr-FR = "Il fait vingt-quatre degrés."
@@ -157,6 +175,8 @@ nl-NL = "Het is vierentwintig graden."
 sv-SE = "Det är tjugofyra grader."
 tr-TR = "Yirmi dört derece."
 pl-PL = "Jest dwadzieścia cztery stopnie."
+sr-RS = "Dvadeset četiri stepena."
+ro-RO = "Sunt douăzeci și patru de grade."
 
 [word00011]
 en-US = "It's snowing."
@@ -173,6 +193,8 @@ nl-NL = "Het sneeuwt."
 sv-SE = "Det snöar."
 tr-TR = "Kar yağıyor."
 pl-PL = "Pada śnieg."
+sr-RS = "Pada sneg."
+ro-RO = "Ninge."
 
 [word00012]
 en-US = "What is the weather like?"
@@ -189,6 +211,8 @@ nl-NL = "Hoe is het weer?"
 sv-SE = "Hur är vädret?"
 tr-TR = "Hava nasıl?"
 pl-PL = "Jaka jest pogoda?"
+sr-RS = "Kakvo je vreme?"
+ro-RO = "Cum este vremea?"
 
 [word00013]
 en-US = "How many degrees are there?"
@@ -205,6 +229,8 @@ nl-NL = "Hoeveel graden is het?"
 sv-SE = "Hur många grader är det?"
 tr-TR = "Kaç derece?"
 pl-PL = "Ile jest stopni?"
+sr-RS = "Koliko stepeni ima?"
+ro-RO = "Câte grade sunt?"
 
 [word00014]
 en-US = "It's foggy."
@@ -221,6 +247,8 @@ nl-NL = "Het is mistig."
 sv-SE = "Det är dimmigt."
 tr-TR = "Sisli."
 pl-PL = "Jest mgliście."
+sr-RS = "Maglovito je."
+ro-RO = "Este ceață."
 
 [word00015]
 en-US = "It's windy."
@@ -237,6 +265,8 @@ nl-NL = "Het is winderig."
 sv-SE = "Det blåser."
 tr-TR = "Rüzgarlı."
 pl-PL = "Wieje wiatr."
+sr-RS = "Vetrovito je."
+ro-RO = "Este vânt."
 
 [word00016]
 en-US = "It's stormy."
@@ -253,6 +283,8 @@ nl-NL = "Het is stormachtig."
 sv-SE = "Det är stormigt."
 tr-TR = "Fırtınalı."
 pl-PL = "Jest burzowo."
+sr-RS = "Olujno je."
+ro-RO = "Este furtună."
 
 [word00017]
 de-DE = "Heute ist abends ein Gewitter angekündigt."
@@ -269,6 +301,8 @@ nl-NL = "Er is vanavond onweer voorspeld."
 sv-SE = "Åska är utlovad till ikväll."
 tr-TR = "Bu akşam için gök gürültülü fırtına bekleniyor."
 pl-PL = "Na dziś wieczór zapowiadana jest burza z piorunami."
+sr-RS = "Za večeras je najavljena oluja sa grmljavinom."
+ro-RO = "Pentru această seară este prognozată o furtună cu tunete."
 
 [word00018]
 en-US = "It's humid."
@@ -285,6 +319,8 @@ nl-NL = "Het is vochtig."
 sv-SE = "Det är fuktigt."
 tr-TR = "Nemli."
 pl-PL = "Jest wilgotno."
+sr-RS = "Vlažno je."
+ro-RO = "Este umed."
 
 [word00019]
 en-US = "It's hailing."
@@ -301,6 +337,8 @@ nl-NL = "Het hagelt."
 sv-SE = "Det haglar."
 tr-TR = "Dolu yağıyor."
 pl-PL = "Pada grad."
+sr-RS = "Pada grad."
+ro-RO = "Plouă cu grindină."
 
 [word00020]
 en-US = "It's clear."
@@ -317,6 +355,8 @@ nl-NL = "Het is helder."
 sv-SE = "Det är klart."
 tr-TR = "Hava açık."
 pl-PL = "Jest bezchmurnie."
+sr-RS = "Vedro je."
+ro-RO = "Este senin."
 
 [word00021]
 en-US = "It's drizzling."
@@ -333,6 +373,8 @@ nl-NL = "Het motregent."
 sv-SE = "Det duggregnar."
 tr-TR = "Çiseleme var."
 pl-PL = "Mży."
+sr-RS = "Rosulja pada."
+ro-RO = "Burnițează."
 
 [word00022]
 en-US = "It's freezing."
@@ -349,6 +391,8 @@ nl-NL = "Het vriest."
 sv-SE = "Det fryser."
 tr-TR = "Donuyor."
 pl-PL = "Jest mroźno."
+sr-RS = "Mrzne."
+ro-RO = "Îngheață."
 
 [word00023]
 en-US = "It's lightning."
@@ -365,6 +409,8 @@ nl-NL = "Het bliksemt."
 sv-SE = "Det blixtrar."
 tr-TR = "Şimşek çakıyor."
 pl-PL = "Błyska się."
+sr-RS = "Seva munja."
+ro-RO = "Fulgeră."
 
 [word00024]
 en-US = "It's a beautiful day."
@@ -381,6 +427,8 @@ nl-NL = "Het is een mooie dag."
 sv-SE = "Det är en vacker dag."
 tr-TR = "Güzel bir gün."
 pl-PL = "To piękny dzień."
+sr-RS = "Lep je dan."
+ro-RO = "Este o zi frumoasă."
 
 [word00025]
 it-IT = "Oggi è una giornata nuvolosa."
@@ -397,6 +445,8 @@ nl-NL = "Vandaag is het een bewolkte dag."
 sv-SE = "Idag är det en molnig dag."
 tr-TR = "Bugün bulutlu bir gün."
 pl-PL = "Dziś jest pochmurny dzień."
+sr-RS = "Danas je oblačan dan."
+ro-RO = "Astăzi este o zi înnorată."
 
 [word00026]
 it-IT = "Che tempo farà domani a Dro?"
@@ -413,6 +463,8 @@ nl-NL = "Hoe wordt het weer morgen in Dro?"
 sv-SE = "Hur blir vädret imorgon i Dro?"
 tr-TR = "Yarın Dro'da hava nasıl olacak?"
 pl-PL = "Jaka będzie pogoda jutro w Dro?"
+sr-RS = "Kakvo će vreme biti sutra u Drou?"
+ro-RO = "Cum va fi vremea mâine în Dro?"
 
 [word00027]
 it-IT = "Domani mattina ci sarà il sole."
@@ -429,6 +481,8 @@ nl-NL = "Morgenochtend zal het zonnig zijn."
 sv-SE = "Det blir soligt imorgon bitti."
 tr-TR = "Yarın sabah güneşli olacak."
 pl-PL = "Jutro rano będzie słonecznie."
+sr-RS = "Sutra ujutru biće sunčano."
+ro-RO = "Mâine dimineață va fi soare."
 
 [word00028]
 it-IT = "Pioverà nel pomeriggio alle 15:00."
@@ -445,3 +499,5 @@ nl-NL = "Het gaat regenen in de middag om 15:00 uur."
 sv-SE = "Det kommer att regna på eftermiddagen klockan 15:00."
 tr-TR = "Öğleden sonra saat 15:00'te yağmur yağacak."
 pl-PL = "Po południu o 15:00 będzie padać."
+sr-RS = "Popodne u 15:00 će padati kiša."
+ro-RO = "Va ploua după-amiază la ora 15:00."

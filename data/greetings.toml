@@ -13,6 +13,8 @@ de-DE = "Hallo"
 en-US = "Hello"
 fr-FR = "Bonjour"
 it-IT = "Ciao"
+sr-RS = "Zdravo"
+ro-RO = "Salut"
 
 [word00002]
 de-DE = "Guten Morgen"
@@ -29,6 +31,8 @@ pl-PL = "Dzień dobry"
 en-US = "Good morning"
 fr-FR = "Bonjour"
 it-IT = "Buongiorno"
+sr-RS = "Dobro jutro"
+ro-RO = "Bună dimineața"
 
 [word00003]
 de-DE = "Guten Tag"
@@ -45,6 +49,8 @@ pl-PL = "Dzień dobry"
 en-US = "Good day"
 fr-FR = "Bonne journée"
 it-IT = "Buona giornata"
+sr-RS = "Dobar dan"
+ro-RO = "Bună ziua"
 
 [word00004]
 it-IT = "Ciao, informal"
@@ -61,6 +67,8 @@ nl-NL = "Hoi, informeel"
 sv-SE = "Hej, informellt"
 tr-TR = "Selam, gayri resmi"
 pl-PL = "Cześć, nieformalnie"
+sr-RS = "Ćao, neformalno"
+ro-RO = "Salut, informal"
 
 [word00005]
 en-US = "Good night"
@@ -77,6 +85,8 @@ sv-SE = "God natt"
 tr-TR = "İyi geceler"
 pl-PL = "Dobranoc"
 it-IT = "Buona notte"
+sr-RS = "Laku noć"
+ro-RO = "Noapte bună"
 
 [word00006]
 it-IT = "buon pomeriggio"
@@ -93,6 +103,8 @@ nl-NL = "Goedemiddag"
 sv-SE = "God eftermiddag"
 tr-TR = "Tünaydın"
 pl-PL = "Dzień dobry"
+sr-RS = "Dobar dan (poslepodne)"
+ro-RO = "Bună după-amiază"
 
 [word00007]
 it-IT = "Buonasera"
@@ -109,6 +121,8 @@ nl-NL = "Goedenavond"
 sv-SE = "God kväll"
 tr-TR = "İyi akşamlar"
 pl-PL = "Dobry wieczór"
+sr-RS = "Dobro veče"
+ro-RO = "Bună seara"
 
 [word00008]
 it-IT = "Salve"
@@ -125,6 +139,8 @@ nl-NL = "Groeten"
 sv-SE = "Hälsningar"
 tr-TR = "Selamlar"
 pl-PL = "Pozdrowienia"
+sr-RS = "Pozdrav"
+ro-RO = "Salutări"
 
 [word00009]
 en-US = "Goodbye"
@@ -141,6 +157,8 @@ sv-SE = "Adjö"
 tr-TR = "Hoşça kal"
 pl-PL = "Do widzenia"
 it-IT = "Arrivederci"
+sr-RS = "Doviđenja"
+ro-RO = "La revedere"
 
 [word00010]
 de-DE = "Wie geht es Dir?"
@@ -157,6 +175,8 @@ pl-PL = "Jak się masz?"
 en-US = "How are you?"
 fr-FR = "Comment ça va?"
 it-IT = "Come stai?"
+sr-RS = "Kako si?"
+ro-RO = "Ce mai faci?"
 
 [word00011]
 de-DE = "Wie geht es Ihnen?"
@@ -173,8 +193,10 @@ pl-PL = "Jak się pan/pani ma?"
 en-US = "How are you? (formal)"
 fr-FR = "Comment allez-vous?"
 it-IT = "Come sta?"
+sr-RS = "Kako ste?"
+ro-RO = "Ce mai faceți?"
 
-[word00017]
+[word00012]
 en-US = "Thank you"
 fr-FR = "Merci"
 de-DE = "Danke"
@@ -189,3 +211,5 @@ sv-SE = "Tack"
 tr-TR = "Teşekkürler"
 pl-PL = "Dziękuję"
 it-IT = "Grazie"
+sr-RS = "Hvala"
+ro-RO = "Mulțumesc"

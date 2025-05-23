@@ -13,6 +13,8 @@ nl-NL = "Ik ben het eens"
 sv-SE = "Jag håller med"
 tr-TR = "Katılıyorum"
 pl-PL = "Zgadzam się"
+sr-RS = "Slažem se"
+ro-RO = "Sunt de acord"
 
 [word00002]
 it-IT = "Ci credo"
@@ -29,6 +31,8 @@ nl-NL = "Ik geloof het"
 sv-SE = "Jag tror det"
 tr-TR = "İnanıyorum"
 pl-PL = "Wierzę w to"
+sr-RS = "Verujem"
+ro-RO = "Cred"
 
 [word00003]
 en-US = "Thank you"
@@ -45,6 +49,8 @@ sv-SE = "Tack"
 tr-TR = "Teşekkürler"
 pl-PL = "Dziękuję"
 it-IT = "Grazie"
+sr-RS = "Hvala"
+ro-RO = "Mulțumesc"
 
 [word00004]
 en-US = "yes"
@@ -61,6 +67,8 @@ sv-SE = "ja"
 tr-TR = "evet"
 pl-PL = "tak"
 it-IT = "sì"
+sr-RS = "da"
+ro-RO = "da"
 
 [word00005]
 en-US = "no"
@@ -77,3 +85,5 @@ sv-SE = "nej"
 tr-TR = "hayır"
 pl-PL = "nie"
 it-IT = "no"
+sr-RS = "ne"
+ro-RO = "nu"

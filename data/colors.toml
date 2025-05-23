@@ -13,6 +13,8 @@ nl-NL = "de kleur"
 sv-SE = "färgen"
 tr-TR = "renk"
 pl-PL = "kolor"
+sr-RS = "boja"
+ro-RO = "culoarea"
 
 [word00002]
 de-DE = "die Farbpalette"
@@ -29,6 +31,8 @@ nl-NL = "het kleurenpalet"
 sv-SE = "färgpaletten"
 tr-TR = "renk paleti"
 pl-PL = "paleta kolorów"
+sr-RS = "paleta boja"
+ro-RO = "paleta de culori"
 
 [word00003]
 de-DE = "Ich zeichne ein Tier."
@@ -45,6 +49,8 @@ nl-NL = "Ik teken een dier."
 sv-SE = "Jag ritar ett djur."
 tr-TR = "Bir hayvan çiziyorum."
 pl-PL = "Rysuję zwierzę."
+sr-RS = "Crtam životinju."
+ro-RO = "Desenez un animal."
 
 [word00004]
 de-DE = "Du malst ein schönes Bild."
@@ -61,6 +67,8 @@ nl-NL = "Jij schildert een mooi schilderij."
 sv-SE = "Du målar en fin bild."
 tr-TR = "Güzel bir resim yapıyorsun."
 pl-PL = "Malujesz ładny obraz."
+sr-RS = "Slikas lepu sliku."
+ro-RO = "Pictezi un tablou frumos."
 
 [word00005]
 de-DE = "rot"
@@ -77,6 +85,8 @@ nl-NL = "rood"
 sv-SE = "röd"
 tr-TR = "kırmızı"
 pl-PL = "czerwony"
+sr-RS = "crvena"
+ro-RO = "roșu"
 
 [word00006]
 de-DE = "blau"
@@ -93,6 +103,8 @@ nl-NL = "blauw"
 sv-SE = "blå"
 tr-TR = "mavi"
 pl-PL = "niebieski"
+sr-RS = "plava"
+ro-RO = "albastru"
 
 [word00007]
 de-DE = "gelb"
@@ -109,6 +121,8 @@ nl-NL = "geel"
 sv-SE = "gul"
 tr-TR = "sarı"
 pl-PL = "żółty"
+sr-RS = "žuta"
+ro-RO = "galben"
 
 [word00008]
 de-DE = "grün"
@@ -125,6 +139,8 @@ nl-NL = "groen"
 sv-SE = "grön"
 tr-TR = "yeşil"
 pl-PL = "zielony"
+sr-RS = "zelena"
+ro-RO = "verde"
 
 [word00009]
 de-DE = "orange"
@@ -141,6 +157,8 @@ nl-NL = "oranje"
 sv-SE = "orange"
 tr-TR = "turuncu"
 pl-PL = "pomarańczowy"
+sr-RS = "narandžasta"
+ro-RO = "portocaliu"
 
 [word00010]
 de-DE = "violett"
@@ -157,6 +175,8 @@ nl-NL = "paars"
 sv-SE = "lila"
 tr-TR = "mor"
 pl-PL = "fioletowy"
+sr-RS = "ljubičasta"
+ro-RO = "violet"
 
 [word00011]
 de-DE = "rosa"
@@ -173,6 +193,8 @@ nl-NL = "roze"
 sv-SE = "rosa"
 tr-TR = "pembe"
 pl-PL = "różowy"
+sr-RS = "roze"
+ro-RO = "roz"
 
 [word00012]
 de-DE = "braun"
@@ -189,6 +211,8 @@ nl-NL = "bruin"
 sv-SE = "brun"
 tr-TR = "kahverengi"
 pl-PL = "brązowy"
+sr-RS = "braon"
+ro-RO = "maro"
 
 [word00013]
 de-DE = "schwarz"
@@ -205,6 +229,8 @@ nl-NL = "zwart"
 sv-SE = "svart"
 tr-TR = "siyah"
 pl-PL = "czarny"
+sr-RS = "crna"
+ro-RO = "negru"
 
 [word00014]
 de-DE = "weiß"
@@ -221,6 +247,8 @@ nl-NL = "wit"
 sv-SE = "vit"
 tr-TR = "beyaz"
 pl-PL = "biały"
+sr-RS = "bela"
+ro-RO = "alb"
 
 [word00015]
 de-DE = "grau"
@@ -237,6 +265,8 @@ nl-NL = "grijs"
 sv-SE = "grå"
 tr-TR = "gri"
 pl-PL = "szary"
+sr-RS = "siva"
+ro-RO = "gri"
 
 [word00016]
 de-DE = "türkis"
@@ -253,6 +283,8 @@ nl-NL = "turkoois"
 sv-SE = "turkos"
 tr-TR = "turkuaz"
 pl-PL = "turkusowy"
+sr-RS = "tirkizna"
+ro-RO = "turcoaz"
 
 [word00017]
 de-DE = "beige"
@@ -269,6 +301,8 @@ nl-NL = "beige"
 sv-SE = "beige"
 tr-TR = "bej"
 pl-PL = "beżowy"
+sr-RS = "bež"
+ro-RO = "bej"
 
 [word00018]
 de-DE = "gold"
@@ -285,6 +319,8 @@ nl-NL = "goud"
 sv-SE = "guld"
 tr-TR = "altın"
 pl-PL = "złoty"
+sr-RS = "zlatna"
+ro-RO = "auriu"
 
 [word00019]
 de-DE = "silber"
@@ -301,6 +337,8 @@ nl-NL = "zilver"
 sv-SE = "silver"
 tr-TR = "gümüş"
 pl-PL = "srebrny"
+sr-RS = "srebrna"
+ro-RO = "argintiu"
 
 [word00020]
 de-DE = "hellblau"
@@ -317,6 +355,8 @@ nl-NL = "lichtblauw"
 sv-SE = "ljusblå"
 tr-TR = "açık mavi"
 pl-PL = "jasnoniebieski"
+sr-RS = "svetloplava"
+ro-RO = "albastru deschis"
 
 [word00021]
 de-DE = "dunkelgrün"
@@ -333,6 +373,8 @@ nl-NL = "donkergroen"
 sv-SE = "mörkgrön"
 tr-TR = "koyu yeşil"
 pl-PL = "ciemnozielony"
+sr-RS = "tamnоzelena"
+ro-RO = "verde închis"
 
 [word00022]
 de-DE = "pastellfarben"
@@ -349,6 +391,8 @@ nl-NL = "pastelkleuren"
 sv-SE = "pastellfärger"
 tr-TR = "pastel renkler"
 pl-PL = "kolory pastelowe"
+sr-RS = "pastelne boje"
+ro-RO = "culori pastelate"
 
 [word00023]
 de-DE = "bunt"
@@ -365,6 +409,8 @@ nl-NL = "kleurrijk"
 sv-SE = "färgglad"
 tr-TR = "renkli"
 pl-PL = "kolorowy"
+sr-RS = "šareno"
+ro-RO = "colorat"
 
 [word00024]
 de-DE = "gestreift"
@@ -381,6 +427,8 @@ nl-NL = "gestreept"
 sv-SE = "randig"
 tr-TR = "çizgili"
 pl-PL = "w paski"
+sr-RS = "prugasto"
+ro-RO = "dungat"
 
 [word00025]
 de-DE = "gepunktet"
@@ -397,3 +445,5 @@ nl-NL = "gestippeld"
 sv-SE = "prickig"
 tr-TR = "benekli"
 pl-PL = "w kropki"
+sr-RS = "tačkasto"
+ro-RO = "cu buline"

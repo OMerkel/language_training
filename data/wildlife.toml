@@ -13,6 +13,8 @@ nl-NL = "het wild dier"
 sv-SE = "vilddjuret"
 tr-TR = "vahşi hayvan"
 pl-PL = "dzikie zwierzę"
+sr-RS = "divlja životinja"
+ro-RO = "animal sălbatic"
 
 [word00002]
 de-DE = "die Tierspur"
@@ -29,6 +31,8 @@ nl-NL = "het dierenspoor"
 sv-SE = "djurets spår"
 tr-TR = "hayvan izi"
 pl-PL = "ślad zwierzęcia"
+sr-RS = "trag животinje"
+ro-RO = "urma de animal"
 
 [word00003]
 de-DE = "Ich beobachte den Steinbock mit dem Fernglas."
@@ -45,6 +49,8 @@ nl-NL = "Ik observeer de steenbok met de verrekijker."
 sv-SE = "Jag observerar stenbocken med kikare."
 tr-TR = "Dürbünle yaban keçisini gözlemliyorum."
 pl-PL = "Obserwuję koziorożca przez lornetkę."
+sr-RS = "Posmatram divokoza dvogledom."
+ro-RO = "Observ ibexul cu binoclul."
 
 [word00004]
 de-DE = "Der Bär klettert den Baum hoch."
@@ -60,7 +66,9 @@ ko-KR = "곰이 나무를 올라간다."
 nl-NL = "De beer klimt in de boom."
 sv-SE = "Björnen klättrar upp i trädet."
 tr-TR = "Ayı ağaca tırmanıyor."
-pl-PL = "Niedźwiedź wspina się na drzewo."
+pl-PL = "Niedźwiedź wspina się на дерево."
+sr-RS = "Medved se penje na drvo."
+ro-RO = "Ursul se urcă în copac."
 
 [word00005]
 de-DE = "Das Reh kreuzt den Wanderweg."
@@ -77,6 +85,8 @@ nl-NL = "Het ree steekt het wandelpad over."
 sv-SE = "Rådjuret korsar vandringsleden."
 tr-TR = "Geyik yürüyüş yolunu geçiyor."
 pl-PL = "Sarna przecina szlak."
+sr-RS = "Jelen prelazi stazu."
+ro-RO = "Cerbul traversează poteca."
 
 [word00006]
 de-DE = "Der Hase springt weit."
@@ -93,6 +103,8 @@ nl-NL = "De haas springt ver."
 sv-SE = "Haren hoppar långt."
 tr-TR = "Tavşan uzağa sıçrar."
 pl-PL = "Zając skacze daleko."
+sr-RS = "Zec skače daleko."
+ro-RO = "Iepurele sare departe."
 
 [word00007]
 de-DE = "Da ist eine Eidechse."
@@ -109,6 +121,8 @@ nl-NL = "Daar is een hagedis."
 sv-SE = "Där är en ödla."
 tr-TR = "Orada bir kertenkele var."
 pl-PL = "Tam jest jaszczurka."
+sr-RS = "Tamo je gušter."
+ro-RO = "Acolo este o șopârlă."
 
 [word00008]
 de-DE = "Diese Schlingnatter ist eine ungiftige Schlange."
@@ -125,6 +139,8 @@ nl-NL = "Deze gladde slang is niet giftig."
 sv-SE = "Den här snoken är ofarlig."
 tr-TR = "Bu yılan zehirli değildir."
 pl-PL = "Ta gniewosz plamisty jest niejadowity."
+sr-RS = "Ova zmija nije otrovna."
+ro-RO = "Acest șarpe neted nu este veninos."
 
 [word00009]
 de-DE = "die Blindschleiche"
@@ -141,6 +157,8 @@ nl-NL = "de hazelworm"
 sv-SE = "kopparödlan"
 tr-TR = "kör yılanı"
 pl-PL = "padalec"
+sr-RS = "slepičar"
+ro-RO = "șopârla orbă"
 
 [word00010]
 de-DE = "Der Bär ist niedlich."
@@ -157,6 +175,8 @@ nl-NL = "De beer is schattig."
 sv-SE = "Björnen är söt."
 tr-TR = "Ayı sevimli."
 pl-PL = "Niedźwiedź jest uroczy."
+sr-RS = "Medved je sladak."
+ro-RO = "Ursul este drăguț."
 
 [word00011]
 de-DE = "Das Wiesel ist flink."
@@ -173,6 +193,8 @@ nl-NL = "De wezel is snel."
 sv-SE = "Vesslan är snabb."
 tr-TR = "Gelincik çeviktir."
 pl-PL = "Łasica jest zwinna."
+sr-RS = "Lasica je okretna."
+ro-RO = "Nevăstuica este agilă."
 
 [word00012]
 de-DE = "der Fuchs"
@@ -189,6 +211,8 @@ nl-NL = "de vos"
 sv-SE = "räven"
 tr-TR = "tilki"
 pl-PL = "lis"
+sr-RS = "lisica"
+ro-RO = "vulpe"
 
 [word00013]
 de-DE = "der Dachs"
@@ -205,6 +229,8 @@ nl-NL = "de das"
 sv-SE = "grävlingen"
 tr-TR = "porsuk"
 pl-PL = "borsuk"
+sr-RS = "jazavac"
+ro-RO = "bursuc"
 
 [word00014]
 de-DE = "der Hirsch"
@@ -221,6 +247,8 @@ nl-NL = "het hert"
 sv-SE = "hjorten"
 tr-TR = "geyik"
 pl-PL = "jeleń"
+sr-RS = "jelen"
+ro-RO = "cerb"
 
 [word00015]
 de-DE = "das Wildschwein"
@@ -237,6 +265,8 @@ nl-NL = "het wild zwijn"
 sv-SE = "vildsvinet"
 tr-TR = "yaban domuzu"
 pl-PL = "dzik"
+sr-RS = "divlja svinja"
+ro-RO = "mistreț"
 
 [word00016]
 de-DE = "der Luchs"
@@ -253,6 +283,8 @@ nl-NL = "de lynx"
 sv-SE = "lo"
 tr-TR = "vaşak"
 pl-PL = "ryś"
+sr-RS = "ris"
+ro-RO = "râs"
 
 [word00017]
 de-DE = "der Uhu"
@@ -269,6 +301,8 @@ nl-NL = "de oehoe"
 sv-SE = "berguven"
 tr-TR = "peçeli baykuş"
 pl-PL = "puchacz"
+sr-RS = "sova uhu"
+ro-RO = "bufniță regală"
 
 [word00018]
 de-DE = "der Steinadler"
@@ -285,6 +319,8 @@ nl-NL = "de steenarend"
 sv-SE = "kungsörnen"
 tr-TR = "altın kartal"
 pl-PL = "orzeł przedni"
+sr-RS = "zlatni orao"
+ro-RO = "vultur auriu"
 
 [word00019]
 de-DE = "der Mäusebussard"
@@ -301,6 +337,8 @@ nl-NL = "de buizerd"
 sv-SE = "ormvråken"
 tr-TR = "şahin"
 pl-PL = "myszołów"
+sr-RS = "mišar"
+ro-RO = "șoim comun"
 
 [word00020]
 de-DE = "der Habicht"
@@ -317,6 +355,8 @@ nl-NL = "de havik"
 sv-SE = "duvhöken"
 tr-TR = "atmaca"
 pl-PL = "jastrząb"
+sr-RS = "jastreb"
+ro-RO = "uliu"
 
 [word00021]
 de-DE = "der Specht"
@@ -333,6 +373,8 @@ nl-NL = "de specht"
 sv-SE = "hackspetten"
 tr-TR = "ağaçkakan"
 pl-PL = "dzięcioł"
+sr-RS = "detlić"
+ro-RO = "ciocănitoare"
 
 [word00022]
 de-DE = "der Eichelhäher"
@@ -349,6 +391,8 @@ nl-NL = "de gaai"
 sv-SE = "nötskrikan"
 tr-TR = "alakarga"
 pl-PL = "sójka"
+sr-RS = "sojka"
+ro-RO = "gaiță"
 
 [word00023]
 de-DE = "der Buntspecht"
@@ -365,6 +409,8 @@ nl-NL = "de grote bonte specht"
 sv-SE = "större hackspetten"
 tr-TR = "benekli ağaçkakan"
 pl-PL = "dzięcioł duży"
+sr-RS = "veliki detlić"
+ro-RO = "ciocănitoare mare"
 
 [word00024]
 de-DE = "der Frosch"
@@ -381,6 +427,8 @@ nl-NL = "de kikker"
 sv-SE = "grodan"
 tr-TR = "kurbağa"
 pl-PL = "żaba"
+sr-RS = "žaba"
+ro-RO = "broască"
 
 [word00025]
 de-DE = "die Kröte"
@@ -397,6 +445,8 @@ nl-NL = "de pad"
 sv-SE = "paddan"
 tr-TR = "kara kurbağası"
 pl-PL = "ropucha"
+sr-RS = "krastača"
+ro-RO = "broască râioasă"
 
 [word00026]
 de-DE = "der Salamander"
@@ -413,6 +463,8 @@ nl-NL = "de salamander"
 sv-SE = "salamandern"
 tr-TR = "semender"
 pl-PL = "salamandra"
+sr-RS = "salamander"
+ro-RO = "salamandră"
 
 [word00027]
 de-DE = "die Ringelnatter"
@@ -429,6 +481,8 @@ nl-NL = "de ringslang"
 sv-SE = "snoken"
 tr-TR = "su yılanı"
 pl-PL = "zaskroniec"
+sr-RS = "vodena zmija"
+ro-RO = "șarpe de apă"
 
 [word00028]
 de-DE = "die Kreuzotter"
@@ -445,6 +499,8 @@ nl-NL = "de adder"
 sv-SE = "huggormen"
 tr-TR = "engerek"
 pl-PL = "żmija zygzakowata"
+sr-RS = "šarka"
+ro-RO = "viperă"
 
 [word00029]
 de-DE = "der Igel"
@@ -461,6 +517,8 @@ nl-NL = "de egel"
 sv-SE = "igelkotten"
 tr-TR = "kirpi"
 pl-PL = "jeż"
+sr-RS = "jež"
+ro-RO = "arici"
 
 [word00030]
 de-DE = "die Maus"
@@ -477,6 +535,8 @@ nl-NL = "de muis"
 sv-SE = "musen"
 tr-TR = "fare"
 pl-PL = "mysz"
+sr-RS = "miš"
+ro-RO = "șoarece"
 
 [word00031]
 de-DE = "die Fledermaus"
@@ -493,6 +553,8 @@ nl-NL = "de vleermuis"
 sv-SE = "fladdermusen"
 tr-TR = "yarasa"
 pl-PL = "nietoperz"
+sr-RS = "šišmiš"
+ro-RO = "liliac"
 
 [word00032]
 de-DE = "der Maulwurf"
@@ -509,6 +571,8 @@ nl-NL = "de mol"
 sv-SE = "mullvaden"
 tr-TR = "köstebek"
 pl-PL = "kret"
+sr-RS = "krtica"
+ro-RO = "cârtiță"
 
 [word00033]
 de-DE = "das Eichhörnchen"
@@ -525,6 +589,8 @@ nl-NL = "de eekhoorn"
 sv-SE = "ekorren"
 tr-TR = "sincap"
 pl-PL = "wiewiórka"
+sr-RS = "veverica"
+ro-RO = "veveriță"
 
 [word00034]
 de-DE = "der Siebenschläfer"
@@ -541,6 +607,8 @@ nl-NL = "de zevenslaper"
 sv-SE = "sju sovaren"
 tr-TR = "yediuyuyan"
 pl-PL = "popielica"
+sr-RS = "puh"
+ro-RO = "pârș"
 
 [word00035]
 de-DE = "der Marder"
@@ -557,6 +625,8 @@ nl-NL = "de marter"
 sv-SE = "mården"
 tr-TR = "sansar"
 pl-PL = "kuna"
+sr-RS = "kuna"
+ro-RO = "jder"
 
 [word00036]
 de-DE = "der Wolf"
@@ -573,6 +643,8 @@ nl-NL = "de wolf"
 sv-SE = "vargen"
 tr-TR = "kurt"
 pl-PL = "wilk"
+sr-RS = "vuk"
+ro-RO = "lup"
 
 [word00037]
 de-DE = "der Schmetterling"
@@ -589,6 +661,8 @@ nl-NL = "de vlinder"
 sv-SE = "fjärilen"
 tr-TR = "kelebek"
 pl-PL = "motyl"
+sr-RS = "leptir"
+ro-RO = "fluture"
 
 [word00038]
 de-DE = "die Biene"
@@ -605,6 +679,8 @@ nl-NL = "de bij"
 sv-SE = "biet"
 tr-TR = "arı"
 pl-PL = "pszczoła"
+sr-RS = "pčela"
+ro-RO = "albină"
 
 [word00039]
 de-DE = "die Wespe"
@@ -621,6 +697,8 @@ nl-NL = "de wesp"
 sv-SE = "getingen"
 tr-TR = "eşek arısı"
 pl-PL = "osa"
+sr-RS = "osa"
+ro-RO = "viespe"
 
 [word00040]
 de-DE = "die Ameise"
@@ -637,6 +715,8 @@ nl-NL = "de mier"
 sv-SE = "myran"
 tr-TR = "karınca"
 pl-PL = "mrówka"
+sr-RS = "mrav"
+ro-RO = "furnică"
 
 [word00041]
 de-DE = "der Regenwurm"
@@ -653,6 +733,8 @@ nl-NL = "de regenworm"
 sv-SE = "daggmasken"
 tr-TR = "toprak solucanı"
 pl-PL = "dżdżownica"
+sr-RS = "kišna glista"
+ro-RO = "râmă"
 
 [word00042]
 de-DE = "die Spinne"
@@ -669,6 +751,8 @@ nl-NL = "de spin"
 sv-SE = "spindeln"
 tr-TR = "örümcek"
 pl-PL = "pająk"
+sr-RS = "paučina"
+ro-RO = "păianjen"
 
 [word00043]
 de-DE = "der Marienkäfer"
@@ -685,6 +769,8 @@ nl-NL = "het lieveheersbeestje"
 sv-SE = "nyckelpigan"
 tr-TR = "uğur böceği"
 pl-PL = "biedronka"
+sr-RS = "bubamara"
+ro-RO = "gărgăriță"
 
 [word00044]
 de-DE = "der Hirschkäfer"
@@ -701,6 +787,8 @@ nl-NL = "de vliegende hert"
 sv-SE = "ekoxe"
 tr-TR = "geyik böceği"
 pl-PL = "jelonek rogacz"
+sr-RS = "jelenak"
+ro-RO = "gândac cerb"
 
 [word00045]
 de-DE = "der Falke"
@@ -717,6 +805,8 @@ nl-NL = "de valk"
 sv-SE = "falken"
 tr-TR = "doğan"
 pl-PL = "sokół"
+sr-RS = "soko"
+ro-RO = "șoim"
 
 [word00046]
 de-DE = "die Krähe"
@@ -733,6 +823,8 @@ nl-NL = "de kraai"
 sv-SE = "kråkan"
 tr-TR = "karga"
 pl-PL = "wrona"
+sr-RS = "vrana"
+ro-RO = "cioară"
 
 [word00047]
 de-DE = "der Spatz"
@@ -749,6 +841,8 @@ nl-NL = "de mus"
 sv-SE = "sparven"
 tr-TR = "serçe"
 pl-PL = "wróbel"
+sr-RS = "vrapac"
+ro-RO = "vrabie"
 
 [word00048]
 de-DE = "die Amsel"
@@ -765,6 +859,8 @@ nl-NL = "de merel"
 sv-SE = "koltrasten"
 tr-TR = "karatavuk"
 pl-PL = "kos"
+sr-RS = "kos"
+ro-RO = "mierlă"
 
 [word00049]
 de-DE = "der Storch"
@@ -781,6 +877,8 @@ nl-NL = "de ooievaar"
 sv-SE = "storken"
 tr-TR = "leylek"
 pl-PL = "bocian"
+sr-RS = "roda"
+ro-RO = "barză"
 
 [word00050]
 de-DE = "der Schwan"
@@ -797,6 +895,8 @@ nl-NL = "de zwaan"
 sv-SE = "svanen"
 tr-TR = "kuğu"
 pl-PL = "łabędź"
+sr-RS = "labud"
+ro-RO = "lebădă"
 
 [word00051]
 de-DE = "der Fasan"
@@ -813,6 +913,8 @@ nl-NL = "de fazant"
 sv-SE = "fasanen"
 tr-TR = "sülün"
 pl-PL = "bażant"
+sr-RS = "fazan"
+ro-RO = "fazan"
 
 [word00052]
 de-DE = "der Kuckuck"
@@ -829,6 +931,8 @@ nl-NL = "de koekoek"
 sv-SE = "göken"
 tr-TR = "guguk kuşu"
 pl-PL = "kukułka"
+sr-RS = "kukavica"
+ro-RO = "cuc"
 
 [word00053]
 de-DE = "der Stieglitz"
@@ -845,6 +949,8 @@ nl-NL = "de putter"
 sv-SE = "stekeln"
 tr-TR = "iskete"
 pl-PL = "szczygieł"
+sr-RS = "češljugar"
+ro-RO = "cinteză"
 
 [word00054]
 de-DE = "der Zaunkönig"
@@ -861,6 +967,8 @@ nl-NL = "de winterkoning"
 sv-SE = "gärdsmygen"
 tr-TR = "çit kuşu"
 pl-PL = "strzyżyk"
+sr-RS = "čvorak"
+ro-RO = "păsăruș"
 
 [word00055]
 de-DE = "der Pirol"
@@ -877,6 +985,8 @@ nl-NL = "de wielewaal"
 sv-SE = "sommargyllingen"
 tr-TR = "sarıkuyruk"
 pl-PL = "wilga"
+sr-RS = "žutokljun"
+ro-RO = "oriol"
 
 [word00056]
 de-DE = "der Kranich"
@@ -893,6 +1003,8 @@ nl-NL = "de kraanvogel"
 sv-SE = "tranan"
 tr-TR = "turna"
 pl-PL = "żuraw"
+sr-RS = "ždral"
+ro-RO = "cocor"
 
 [word00057]
 de-DE = "der Reiher"
@@ -909,6 +1021,8 @@ nl-NL = "de reiger"
 sv-SE = "hägern"
 tr-TR = "balıkçıl"
 pl-PL = "czapla"
+sr-RS = "čaplja"
+ro-RO = "egretă"
 
 [word00058]
 de-DE = "der Biber"
@@ -925,6 +1039,8 @@ nl-NL = "de bever"
 sv-SE = "bävern"
 tr-TR = "kunduz"
 pl-PL = "bóbr"
+sr-RS = "dabro"
+ro-RO = "castor"
 
 [word00059]
 de-DE = "der Otter"
@@ -941,6 +1057,8 @@ nl-NL = "de otter"
 sv-SE = "uttern"
 tr-TR = "su samuru"
 pl-PL = "wydra"
+sr-RS = "vidra"
+ro-RO = "vidră"
 
 [word00060]
 de-DE = "der Kormoran"
@@ -957,6 +1075,8 @@ nl-NL = "de aalscholver"
 sv-SE = "skarven"
 tr-TR = "karabatak"
 pl-PL = "kormoran"
+sr-RS = "kormoran"
+ro-RO = "cormoran"
 
 [word00061]
 de-DE = "der Graureiher"
@@ -973,6 +1093,8 @@ nl-NL = "de blauwe reiger"
 sv-SE = "gråhägern"
 tr-TR = "gri balıkçıl"
 pl-PL = "czapla siwa"
+sr-RS = "sivi čaplja"
+ro-RO = "egretă cenușie"
 
 [word00062]
 de-DE = "der Karpfen"
@@ -989,6 +1111,8 @@ nl-NL = "de karper"
 sv-SE = "karpen"
 tr-TR = "sazan"
 pl-PL = "karp"
+sr-RS = "šaran"
+ro-RO = "crap"
 
 [word00063]
 de-DE = "der Hecht"
@@ -1005,6 +1129,8 @@ nl-NL = "de snoek"
 sv-SE = "gäddan"
 tr-TR = "turna balığı"
 pl-PL = "szczupak"
+sr-RS = "štuka"
+ro-RO = "știucă"
 
 [word00064]
 de-DE = "der Aal"
@@ -1021,6 +1147,8 @@ nl-NL = "de paling"
 sv-SE = "ålen"
 tr-TR = "yılan balığı"
 pl-PL = "węgorz"
+sr-RS = "jegulja"
+ro-RO = "țipar"
 
 [word00065]
 de-DE = "der Zander"
@@ -1037,6 +1165,8 @@ nl-NL = "de snoekbaars"
 sv-SE = "gösen"
 tr-TR = "sudak"
 pl-PL = "sandacz"
+sr-RS = "smuđ"
+ro-RO = "șalău"
 
 [word00066]
 de-DE = "die Forelle"
@@ -1053,6 +1183,8 @@ nl-NL = "de forel"
 sv-SE = "öringen"
 tr-TR = "alabalık"
 pl-PL = "pstrąg"
+sr-RS = "pastrmka"
+ro-RO = "păstrăv"
 
 [word00067]
 de-DE = "der Vogel"
@@ -1069,6 +1201,8 @@ nl-NL = "de vogel"
 sv-SE = "fågeln"
 tr-TR = "kuş"
 pl-PL = "ptak"
+sr-RS = "ptica"
+ro-RO = "pasăre"
 
 [word00068]
 de-DE = "der Fisch"
@@ -1085,6 +1219,8 @@ nl-NL = "de vis"
 sv-SE = "fisken"
 tr-TR = "balık"
 pl-PL = "ryba"
+sr-RS = "riba"
+ro-RO = "pește"
 
 [word00069]
 de-DE = "das Tier"
@@ -1101,6 +1237,8 @@ nl-NL = "het dier"
 sv-SE = "djuret"
 tr-TR = "hayvan"
 pl-PL = "zwierzę"
+sr-RS = "životinja"
+ro-RO = "animal"
 
 [word00070]
 de-DE = "die Schlange"
@@ -1117,6 +1255,8 @@ nl-NL = "de slang"
 sv-SE = "ormen"
 tr-TR = "yılan"
 pl-PL = "wąż"
+sr-RS = "zmija"
+ro-RO = "șarpe"
 
 [word00071]
 de-DE = "der Käfer"
@@ -1133,6 +1273,8 @@ nl-NL = "de kever"
 sv-SE = "skalbaggen"
 tr-TR = "böcek"
 pl-PL = "chrząszcz"
+sr-RS = "buba"
+ro-RO = "gândac"
 
 [word00072]
 de-DE = "das Insekt"
@@ -1149,6 +1291,8 @@ nl-NL = "het insect"
 sv-SE = "insekten"
 tr-TR = "böcek"
 pl-PL = "owad"
+sr-RS = "insekt"
+ro-RO = "insectă"
 
 [word00073]
 de-DE = "der Schmetterling"
@@ -1165,6 +1309,8 @@ nl-NL = "de vlinder"
 sv-SE = "fjärilen"
 tr-TR = "kelebek"
 pl-PL = "motyl"
+sr-RS = "leptir"
+ro-RO = "fluture"
 
 [word00074]
 de-DE = "die Fliege"
@@ -1181,6 +1327,8 @@ nl-NL = "de vlieg"
 sv-SE = "flugan"
 tr-TR = "sinek"
 pl-PL = "mucha"
+sr-RS = "muva"
+ro-RO = "musca"
 
 [word00075]
 de-DE = "die Mücke"
@@ -1197,3 +1345,5 @@ nl-NL = "de mug"
 sv-SE = "myggan"
 tr-TR = "sivrisinek"
 pl-PL = "komar"
+sr-RS = "komarac"
+ro-RO = "țânțar"

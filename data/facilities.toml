@@ -13,6 +13,8 @@ nl-NL = "de deur"
 sv-SE = "dörren"
 tr-TR = "kapı"
 pl-PL = "drzwi"
+sr-RS = "vrata"
+ro-RO = "ușa"
 
 [word00002]
 en-US = "the window"
@@ -29,6 +31,8 @@ nl-NL = "het raam"
 sv-SE = "fönstret"
 tr-TR = "pencere"
 pl-PL = "okno"
+sr-RS = "prozor"
+ro-RO = "fereastra"
 
 [word00003]
 en-US = "the wall"
@@ -45,6 +49,8 @@ nl-NL = "de muur"
 sv-SE = "väggen"
 tr-TR = "duvar"
 pl-PL = "ściana"
+sr-RS = "zid"
+ro-RO = "peretele"
 
 [word00004]
 en-US = "the floor"
@@ -61,6 +67,8 @@ nl-NL = "de vloer"
 sv-SE = "golvet"
 tr-TR = "zemin"
 pl-PL = "podłoga"
+sr-RS = "pod"
+ro-RO = "podeaua"
 
 [word00005]
 en-US = "the ceiling"
@@ -77,6 +85,8 @@ nl-NL = "het plafond"
 sv-SE = "taket"
 tr-TR = "tavan"
 pl-PL = "sufit"
+sr-RS = "plafon"
+ro-RO = "tavanul"
 
 [word00006]
 en-US = "the roof"
@@ -93,6 +103,8 @@ nl-NL = "het dak"
 sv-SE = "taket"
 tr-TR = "çatı"
 pl-PL = "dach"
+sr-RS = "krov"
+ro-RO = "acoperișul"
 
 [word00007]
 en-US = "the stairs"
@@ -109,6 +121,8 @@ nl-NL = "de trap"
 sv-SE = "trappan"
 tr-TR = "merdiven"
 pl-PL = "schody"
+sr-RS = "stepenište"
+ro-RO = "scara"
 
 [word00008]
 it-IT = "la scala"
@@ -125,6 +139,8 @@ nl-NL = "de ladder"
 sv-SE = "stegen"
 tr-TR = "merdiven"
 pl-PL = "drabina"
+sr-RS = "merdevine"
+ro-RO = "scara (mobilă)"
 
 [word00009]
 en-US = "the yard"
@@ -141,6 +157,8 @@ nl-NL = "de tuin"
 sv-SE = "gården"
 tr-TR = "avlu"
 pl-PL = "podwórko"
+sr-RS = "dvorište"
+ro-RO = "curtea"
 
 [word00010]
 en-US = "the fence"
@@ -157,6 +175,8 @@ nl-NL = "het hek"
 sv-SE = "staketet"
 tr-TR = "çit"
 pl-PL = "płot"
+sr-RS = "ograda"
+ro-RO = "gardul"
 
 [word00011]
 en-US = "the gate"
@@ -173,13 +193,15 @@ nl-NL = "het hek"
 sv-SE = "grinden"
 tr-TR = "kapı"
 pl-PL = "brama"
+sr-RS = "kapija"
+ro-RO = "poarta"
 
 [word00012]
 de-DE = "der Briefkasten"
 en-US = "the mailbox"
 fr-FR = "la boîte aux lettres"
 es-ES = "el buzón"
-it-IT = "la cassetta delle lettere"
+it-IT = "la cassetta postale"
 pt-PT = "a caixa de correio"
 ru-RU = "почтовый ящик"
 ja-JP = "郵便受け"
@@ -189,6 +211,8 @@ nl-NL = "de brievenbus"
 sv-SE = "brevlådan"
 tr-TR = "posta kutusu"
 pl-PL = "skrzynka na listy"
+sr-RS = "poštansko sanduče"
+ro-RO = "cutia poștală"
 
 [word00013]
 en-US = "the elevator button"
@@ -205,6 +229,8 @@ nl-NL = "de liftknop"
 sv-SE = "hissknappen"
 tr-TR = "asansör düğmesi"
 pl-PL = "przycisk windy"
+sr-RS = "dugme za lift"
+ro-RO = "butonul liftului"
 
 [word00014]
 en-US = "the light switch"
@@ -221,6 +247,8 @@ nl-NL = "de lichtschakelaar"
 sv-SE = "ljusbrytaren"
 tr-TR = "ışık anahtarı"
 pl-PL = "włącznik światła"
+sr-RS = "prekidač za svetlo"
+ro-RO = "întrerupătorul de lumină"
 
 [word00015]
 en-US = "the remote control"
@@ -237,6 +265,8 @@ nl-NL = "de afstandsbediening"
 sv-SE = "fjärrkontrollen"
 tr-TR = "uzaktan kumanda"
 pl-PL = "pilot zdalnego sterowania"
+sr-RS = "daljinski upravljač"
+ro-RO = "telecomanda"
 
 [word00016]
 en-US = "the air conditioner"
@@ -253,6 +283,8 @@ nl-NL = "de airconditioning"
 sv-SE = "luftkonditioneringen"
 tr-TR = "klima"
 pl-PL = "klimatyzacja"
+sr-RS = "klima uređaj"
+ro-RO = "aerul condiționat"
 
 [word00017]
 en-US = "the keycard"
@@ -269,6 +301,8 @@ nl-NL = "de sleutelkaart"
 sv-SE = "nyckelkortet"
 tr-TR = "anahtar kartı"
 pl-PL = "karta-klucz"
+sr-RS = "kartica za ključeve"
+ro-RO = "cartela de acces"
 
 [word00018]
 en-US = "the pillow"
@@ -285,6 +319,8 @@ nl-NL = "het kussen"
 sv-SE = "kudden"
 tr-TR = "yastık"
 pl-PL = "poduszka"
+sr-RS = "jastuk"
+ro-RO = "perna"
 
 [word00019]
 en-US = "the blanket"
@@ -301,6 +337,8 @@ nl-NL = "de deken"
 sv-SE = "filten"
 tr-TR = "battaniye"
 pl-PL = "koc"
+sr-RS = "ćebe"
+ro-RO = "pătura"
 
 [word00020]
 en-US = "the mattress"
@@ -317,6 +355,8 @@ nl-NL = "het matras"
 sv-SE = "madrassen"
 tr-TR = "yatak"
 pl-PL = "materac"
+sr-RS = "dušek"
+ro-RO = "salteaua"
 
 [word00021]
 en-US = "the towel"
@@ -333,6 +373,8 @@ nl-NL = "de handdoek"
 sv-SE = "handduken"
 tr-TR = "havlu"
 pl-PL = "ręcznik"
+sr-RS = "peškir"
+ro-RO = "prosopul"
 
 [word00022]
 en-US = "the wardrobe"
@@ -349,6 +391,8 @@ nl-NL = "de kledingkast"
 sv-SE = "garderoben"
 tr-TR = "gardırop"
 pl-PL = "szafa"
+sr-RS = "ormar"
+ro-RO = "dulapul"
 
 [word00023]
 en-US = "the bed"
@@ -365,6 +409,8 @@ nl-NL = "het bed"
 sv-SE = "sängen"
 tr-TR = "yatak"
 pl-PL = "łóżko"
+sr-RS = "krevet"
+ro-RO = "patul"
 
 [word00024]
 en-US = "the sheet"
@@ -381,6 +427,8 @@ nl-NL = "het laken"
 sv-SE = "lakanet"
 tr-TR = "çarşaf"
 pl-PL = "prześcieradło"
+sr-RS = "čaršav"
+ro-RO = "cearșaful"
 
 [word00025]
 en-US = "the alarm clock"
@@ -397,6 +445,8 @@ nl-NL = "de wekker"
 sv-SE = "väckarklockan"
 tr-TR = "çalar saat"
 pl-PL = "budzik"
+sr-RS = "budilnik"
+ro-RO = "ceasul deșteptător"
 
 [word00026]
 de-DE = "die Steckdose"
@@ -413,6 +463,8 @@ nl-NL = "het stopcontact"
 sv-SE = "eluttaget"
 tr-TR = "priz"
 pl-PL = "gniazdko"
+sr-RS = "utičnica"
+ro-RO = "priza"
 
 [word00027]
 en-US = "the washing machine"
@@ -429,6 +481,8 @@ nl-NL = "de wasmachine"
 sv-SE = "tvättmaskinen"
 tr-TR = "çamaşır makinesi"
 pl-PL = "pralka"
+sr-RS = "veš mašina"
+ro-RO = "mașina de spălat"
 
 [word00028]
 en-US = "the refrigerator"
@@ -445,6 +499,8 @@ nl-NL = "de koelkast"
 sv-SE = "kylskåpet"
 tr-TR = "buzdolabı"
 pl-PL = "lodówka"
+sr-RS = "frižider"
+ro-RO = "frigiderul"
 
 [word00029]
 en-US = "the microwave"
@@ -461,6 +517,8 @@ nl-NL = "de magnetron"
 sv-SE = "mikrovågsugnen"
 tr-TR = "mikrodalga fırın"
 pl-PL = "kuchenka mikrofalowa"
+sr-RS = "mikrotalasna"
+ro-RO = "cuptorul cu microunde"
 
 [word00030]
 en-US = "the dishwasher"
@@ -477,6 +535,8 @@ nl-NL = "de vaatwasser"
 sv-SE = "diskmaskinen"
 tr-TR = "bulaşık makinesi"
 pl-PL = "zmywarka"
+sr-RS = "mašina za pranje sudova"
+ro-RO = "mașina de spălat vase"
 
 [word00031]
 en-US = "the hair dryer"
@@ -493,6 +553,8 @@ nl-NL = "de föhn"
 sv-SE = "hårfönen"
 tr-TR = "saç kurutma makinesi"
 pl-PL = "suszarka do włosów"
+sr-RS = "fen za kosu"
+ro-RO = "uscătorul de păr"
 
 [word00032]
 en-US = "the curtain"
@@ -509,6 +571,8 @@ nl-NL = "het gordijn"
 sv-SE = "gardinen"
 tr-TR = "perde"
 pl-PL = "zasłona"
+sr-RS = "zavesa"
+ro-RO = "perdeaua"
 
 [word00033]
 en-US = "the sofa"
@@ -525,6 +589,8 @@ nl-NL = "de bank"
 sv-SE = "soffan"
 tr-TR = "kanepe"
 pl-PL = "sofa"
+sr-RS = "sofa"
+ro-RO = "canapeaua"
 
 [word00034]
 en-US = "the armchair"
@@ -541,6 +607,8 @@ nl-NL = "de fauteuil"
 sv-SE = "fåtöljen"
 tr-TR = "berjer"
 pl-PL = "fotel"
+sr-RS = "fotelja"
+ro-RO = "fotoliul"
 
 [word00035]
 en-US = "the lamp"
@@ -557,6 +625,8 @@ nl-NL = "de lamp"
 sv-SE = "lampan"
 tr-TR = "lamba"
 pl-PL = "lampa"
+sr-RS = "lampa"
+ro-RO = "lampa"
 
 [word00036]
 en-US = "the carpet"
@@ -573,6 +643,8 @@ nl-NL = "het tapijt"
 sv-SE = "mattan"
 tr-TR = "halı"
 pl-PL = "dywan"
+sr-RS = "tepih"
+ro-RO = "covorul"
 
 [word00037]
 en-US = "the mirror"
@@ -589,6 +661,8 @@ nl-NL = "de spiegel"
 sv-SE = "spegeln"
 tr-TR = "ayna"
 pl-PL = "lustro"
+sr-RS = "ogledalo"
+ro-RO = "oglinda"
 
 [word00038]
 en-US = "the bookshelf"
@@ -605,6 +679,8 @@ nl-NL = "de boekenkast"
 sv-SE = "bokhyllan"
 tr-TR = "kitaplık"
 pl-PL = "regał na książki"
+sr-RS = "polica za knjige"
+ro-RO = "raftul de cărți"
 
 [word00039]
 en-US = "the television"
@@ -621,6 +697,8 @@ nl-NL = "de televisie"
 sv-SE = "teven"
 tr-TR = "televizyon"
 pl-PL = "telewizor"
+sr-RS = "televizor"
+ro-RO = "televizorul"
 
 [word00040]
 en-US = "the closet"
@@ -637,6 +715,8 @@ nl-NL = "de inbouwkast"
 sv-SE = "garderoben"
 tr-TR = "gömme dolap"
 pl-PL = "szafa wnękowa"
+sr-RS = "ugradni ormar"
+ro-RO = "dulapul încastrat"
 
 [word00041]
 en-US = "the fireplace"
@@ -653,6 +733,8 @@ nl-NL = "de open haard"
 sv-SE = "öppna spisen"
 tr-TR = "şömine"
 pl-PL = "kominek"
+sr-RS = "kamin"
+ro-RO = "șemineul"
 
 [word00042]
 en-US = "the intercom"
@@ -669,6 +751,8 @@ nl-NL = "de intercom"
 sv-SE = "porttelefonen"
 tr-TR = "diafon"
 pl-PL = "domofon"
+sr-RS = "interfon"
+ro-RO = "interfonul"
 
 [word00043]
 de-DE = "der Sicherungskasten"
@@ -685,3 +769,5 @@ nl-NL = "de meterkast"
 sv-SE = "säkringsskåpet"
 tr-TR = "sigorta kutusu"
 pl-PL = "skrzynka bezpieczników"
+sr-RS = "osiguračka kutija"
+ro-RO = "cutia de siguranțe"

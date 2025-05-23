@@ -13,6 +13,8 @@ nl-NL = "wandelen"
 sv-SE = "vandring"
 tr-TR = "doğa yürüyüşü"
 pl-PL = "wędrówka"
+sr-RS = "planinarenje"
+ro-RO = "drumeție"
 
 [word00002]
 de-DE = "der Wanderweg"
@@ -29,6 +31,8 @@ nl-NL = "wandelpad"
 sv-SE = "vandringsled"
 tr-TR = "yürüyüş yolu"
 pl-PL = "szlak turystyczny"
+sr-RS = "planinarska staza"
+ro-RO = "traseu de drumeție"
 
 [word00003]
 de-DE = "die Berghütte"
@@ -45,6 +49,8 @@ nl-NL = "berghut"
 sv-SE = "fjällstuga"
 tr-TR = "dağ kulübesi"
 pl-PL = "schronisko górskie"
+sr-RS = "planinarski dom"
+ro-RO = "cabana de munte"
 
 [word00004]
 de-DE = "das Gebirge"
@@ -61,6 +67,8 @@ nl-NL = "bergketen"
 sv-SE = "bergkedja"
 tr-TR = "dağ silsilesi"
 pl-PL = "łańcuch górski"
+sr-RS = "planinski lanac"
+ro-RO = "lanț muntos"
 
 [word00005]
 de-DE = "der Wald"
@@ -77,6 +85,8 @@ nl-NL = "het bos"
 sv-SE = "skogen"
 tr-TR = "orman"
 pl-PL = "las"
+sr-RS = "šuma"
+ro-RO = "pădure"
 
 [word00006]
 de-DE = "der Rucksack"
@@ -93,6 +103,8 @@ nl-NL = "de rugzak"
 sv-SE = "ryggsäcken"
 tr-TR = "sırt çantası"
 pl-PL = "plecak"
+sr-RS = "ranac"
+ro-RO = "rucsac"
 
 [word00007]
 de-DE = "die Verpflegung"
@@ -109,6 +121,8 @@ nl-NL = "de proviand"
 sv-SE = "proviant"
 tr-TR = "erzak"
 pl-PL = "prowiant"
+sr-RS = "proviant"
+ro-RO = "provizii"
 
 [word00008]
 de-DE = "das Trinkwasser"
@@ -125,6 +139,8 @@ nl-NL = "drinkwater"
 sv-SE = "dricksvatten"
 tr-TR = "içme suyu"
 pl-PL = "woda pitna"
+sr-RS = "pijaća voda"
+ro-RO = "apă potabilă"
 
 [word00009]
 de-DE = "die Karte"
@@ -141,6 +157,8 @@ nl-NL = "de kaart"
 sv-SE = "kartan"
 tr-TR = "harita"
 pl-PL = "mapa"
+sr-RS = "karta"
+ro-RO = "hartă"
 
 [word00010]
 de-DE = "der Kompass"
@@ -157,6 +175,8 @@ nl-NL = "het kompas"
 sv-SE = "kompassen"
 tr-TR = "pusula"
 pl-PL = "kompas"
+sr-RS = "kompas"
+ro-RO = "busolă"
 
 [word00011]
 de-DE = "das Zelt"
@@ -173,6 +193,8 @@ nl-NL = "de tent"
 sv-SE = "tältet"
 tr-TR = "çadır"
 pl-PL = "namiot"
+sr-RS = "šator"
+ro-RO = "cort"
 
 [word00012]
 de-DE = "der Schlafsack"
@@ -189,6 +211,8 @@ nl-NL = "de slaapzak"
 sv-SE = "sovsäcken"
 tr-TR = "uyku tulumu"
 pl-PL = "śpiwór"
+sr-RS = "vreća za spavanje"
+ro-RO = "sac de dormit"
 
 [word00013]
 de-DE = "die Isomatte"
@@ -205,6 +229,8 @@ nl-NL = "de mat"
 sv-SE = "liggunderlaget"
 tr-TR = "mat"
 pl-PL = "karimata"
+sr-RS = "prostirka za spavanje"
+ro-RO = "saltea de dormit"
 
 [word00014]
 de-DE = "die Stirnlampe"
@@ -221,6 +247,8 @@ nl-NL = "de hoofdlamp"
 sv-SE = "pannlampan"
 tr-TR = "alın feneri"
 pl-PL = "latarka czołowa"
+sr-RS = "čeona lampa"
+ro-RO = "lampă frontală"
 
 [word00015]
 de-DE = "das Taschenmesser"
@@ -237,6 +265,8 @@ nl-NL = "het zakmes"
 sv-SE = "fickkniven"
 tr-TR = "çakı"
 pl-PL = "scyzoryk"
+sr-RS = "džepni nož"
+ro-RO = "cuțit de buzunar"
 
 [word00016]
 de-DE = "das Erste-Hilfe-Set"
@@ -253,6 +283,8 @@ nl-NL = "de EHBO-doos"
 sv-SE = "första hjälpen-lådan"
 tr-TR = "ilk yardım çantası"
 pl-PL = "apteczka pierwszej pomocy"
+sr-RS = "prva pomoć"
+ro-RO = "trusă de prim ajutor"
 
 [word00017]
 de-DE = "das Gipfelkreuz"
@@ -269,6 +301,8 @@ nl-NL = "het topkruis"
 sv-SE = "topkorset"
 tr-TR = "zirve haçı"
 pl-PL = "krzyż na szczycie"
+sr-RS = "vršni krst"
+ro-RO = "crucea de vârf"
 
 [word00018]
 de-DE = "der Klettergurt"
@@ -285,6 +319,8 @@ nl-NL = "de klimgordel"
 sv-SE = "klättersele"
 tr-TR = "tırmanış kemeri"
 pl-PL = "uprząż wspinaczkowa"
+sr-RS = "penjački pojas"
+ro-RO = "ham de alpinism"
 
 [word00019]
 de-DE = "der Klettersteig"
@@ -301,6 +337,8 @@ nl-NL = "de klettersteig"
 sv-SE = "via ferrata"
 tr-TR = "demir yol tırmanışı"
 pl-PL = "via ferrata"
+sr-RS = "via ferrata"
+ro-RO = "via ferrata"
 
 [word00020]
 de-DE = "das Klettersteigset"
@@ -317,6 +355,8 @@ nl-NL = "het klettersteigset"
 sv-SE = "via ferrata-setet"
 tr-TR = "via ferrata seti"
 pl-PL = "zestaw via ferrata"
+sr-RS = "set za via ferrata"
+ro-RO = "set via ferrata"
 
 [word00021]
 de-DE = "das Seil"
@@ -333,6 +373,8 @@ nl-NL = "het touw"
 sv-SE = "repet"
 tr-TR = "ip"
 pl-PL = "lina"
+sr-RS = "konopac"
+ro-RO = "frânghie"
 
 [word00022]
 de-DE = "Ich knüpfe einen Achterknoten in das Seil."
@@ -349,6 +391,8 @@ nl-NL = "Ik leg een achtknoop in het touw."
 sv-SE = "Jag knyter en åttaknut på repet."
 tr-TR = "İpe sekizli düğüm atıyorum."
 pl-PL = "Wiążę w linie węzeł ósemkowy."
+sr-RS = "Vežem čvor u obliku osmice na konopcu."
+ro-RO = "Fac un nod în opt pe frânghie."
 
 [word00023]
 de-DE = "der Karabiner"
@@ -365,6 +409,8 @@ nl-NL = "de karabijnhaak"
 sv-SE = "karbinen"
 tr-TR = "karabina"
 pl-PL = "karabinek"
+sr-RS = "karabin"
+ro-RO = "carabină"
 
 [word00024]
 de-DE = "der Helm"
@@ -381,6 +427,8 @@ nl-NL = "de helm"
 sv-SE = "hjälmen"
 tr-TR = "kask"
 pl-PL = "kask"
+sr-RS = "kaciga"
+ro-RO = "cască"
 
 [word00025]
 de-DE = "die Wanderstöcke"
@@ -397,6 +445,8 @@ nl-NL = "de wandelstokken"
 sv-SE = "vandringsstavar"
 tr-TR = "yürüyüş batonları"
 pl-PL = "kije trekkingowe"
+sr-RS = "planinarski štapovi"
+ro-RO = "bețe de drumeție"
 
 [word00026]
 de-DE = "die Regenjacke"
@@ -413,6 +463,8 @@ nl-NL = "de regenjas"
 sv-SE = "regnjackan"
 tr-TR = "yağmurluk"
 pl-PL = "kurtka przeciwdeszczowa"
+sr-RS = "kišna jakna"
+ro-RO = "geacă de ploaie"
 
 [word00027]
 de-DE = "die Wanderkarte"
@@ -429,6 +481,8 @@ nl-NL = "de wandelkaart"
 sv-SE = "vandringskartan"
 tr-TR = "yürüyüş haritası"
 pl-PL = "mapa turystyczna"
+sr-RS = "planinarska karta"
+ro-RO = "hartă de drumeție"
 
 [word00028]
 de-DE = "die Taschenlampe"
@@ -445,6 +499,8 @@ nl-NL = "de zaklamp"
 sv-SE = "ficklampan"
 tr-TR = "el feneri"
 pl-PL = "latarka"
+sr-RS = "baterijska lampa"
+ro-RO = "lanternă"
 
 [word00029]
 de-DE = "die Sonnencreme"
@@ -461,6 +517,8 @@ nl-NL = "de zonnebrandcrème"
 sv-SE = "solkrämen"
 tr-TR = "güneş kremi"
 pl-PL = "krem do opalania"
+sr-RS = "krema za sunčanje"
+ro-RO = "cremă de protecție solară"
 
 [word00030]
 de-DE = "die Wasserflasche"
@@ -477,6 +535,8 @@ nl-NL = "de waterfles"
 sv-SE = "vattenflaskan"
 tr-TR = "su şişesi"
 pl-PL = "butelka na wodę"
+sr-RS = "flaša za vodu"
+ro-RO = "sticlă de apă"
 
 [word00031]
 de-DE = "das Fernglas"
@@ -493,6 +553,8 @@ nl-NL = "de verrekijker"
 sv-SE = "kikaren"
 tr-TR = "dürbün"
 pl-PL = "lornetka"
+sr-RS = "dvogled"
+ro-RO = "binoclu"
 
 [word00032]
 de-DE = "die Wandergruppe"
@@ -509,6 +571,8 @@ nl-NL = "de wandelgroep"
 sv-SE = "vandringsgruppen"
 tr-TR = "yürüyüş grubu"
 pl-PL = "grupa wędrowców"
+sr-RS = "planinarska grupa"
+ro-RO = "grup de drumeție"
 
 [word00033]
 de-DE = "die Pause"
@@ -525,6 +589,8 @@ nl-NL = "de pauze"
 sv-SE = "pausen"
 tr-TR = "mola"
 pl-PL = "przerwa"
+sr-RS = "pauza"
+ro-RO = "pauză"
 
 [word00034]
 de-DE = "die Aussicht"
@@ -541,6 +607,8 @@ nl-NL = "het uitzicht"
 sv-SE = "utsikten"
 tr-TR = "manzara"
 pl-PL = "widok"
+sr-RS = "pogled"
+ro-RO = "vedere"
 
 [word00035]
 de-DE = "der Abstieg"
@@ -557,6 +625,8 @@ nl-NL = "de afdaling"
 sv-SE = "nedstigningen"
 tr-TR = "iniş"
 pl-PL = "zejście"
+sr-RS = "silazak"
+ro-RO = "coborâre"
 
 [word00036]
 de-DE = "der Aufstieg"
@@ -573,6 +643,8 @@ nl-NL = "de klim"
 sv-SE = "uppstigningen"
 tr-TR = "tırmanış"
 pl-PL = "podejście"
+sr-RS = "uspon"
+ro-RO = "urcare"
 
 [word00037]
 de-DE = "die Route"
@@ -589,6 +661,8 @@ nl-NL = "de route"
 sv-SE = "rutten"
 tr-TR = "rota"
 pl-PL = "trasa"
+sr-RS = "ruta"
+ro-RO = "traseu"
 
 [word00038]
 de-DE = "die Orientierung"
@@ -605,6 +679,8 @@ nl-NL = "de oriëntatie"
 sv-SE = "orienteringen"
 tr-TR = "yön bulma"
 pl-PL = "orientacja"
+sr-RS = "orijentacija"
+ro-RO = "orientare"
 
 [word00039]
 de-DE = "der Notruf"
@@ -621,6 +697,8 @@ nl-NL = "de noodoproep"
 sv-SE = "nödsamtalet"
 tr-TR = "acil çağrı"
 pl-PL = "wezwanie pomocy"
+sr-RS = "hitni poziv"
+ro-RO = "apel de urgență"
 
 [word00040]
 de-DE = "die Rettungsdecke"
@@ -637,6 +715,8 @@ nl-NL = "de reddingsdeken"
 sv-SE = "räddningsfilten"
 tr-TR = "acil battaniye"
 pl-PL = "koc ratunkowy"
+sr-RS = "spasilački pokrivač"
+ro-RO = "pătură de salvare"
 
 [word00041]
 de-DE = "die Blase"
@@ -653,6 +733,8 @@ nl-NL = "de blaar"
 sv-SE = "blåsan"
 tr-TR = "su toplaması"
 pl-PL = "pęcherz"
+sr-RS = "plik"
+ro-RO = "bășică"
 
 [word00042]
 de-DE = "die Zecke"
@@ -669,6 +751,8 @@ nl-NL = "de teek"
 sv-SE = "fästingen"
 tr-TR = "kene"
 pl-PL = "kleszcz"
+sr-RS = "krpelj"
+ro-RO = "căpușă"
 
 [word00043]
 de-DE = "der Sonnenaufgang"
@@ -685,6 +769,8 @@ nl-NL = "de zonsopgang"
 sv-SE = "soluppgången"
 tr-TR = "gündoğumu"
 pl-PL = "wschód słońca"
+sr-RS = "izlazak sunca"
+ro-RO = "răsărit"
 
 [word00044]
 de-DE = "der Sonnenuntergang"
@@ -701,6 +787,8 @@ nl-NL = "de zonsondergang"
 sv-SE = "solnedgången"
 tr-TR = "gün batımı"
 pl-PL = "zachód słońca"
+sr-RS = "zalazak sunca"
+ro-RO = "apus"
 
 [word00045]
 de-DE = "die Wildnis"
@@ -717,6 +805,8 @@ nl-NL = "de wildernis"
 sv-SE = "vildmarken"
 tr-TR = "vahşi doğa"
 pl-PL = "dzicz"
+sr-RS = "divljina"
+ro-RO = "sălbăticie"
 
 [word00046]
 de-DE = "die Orientierungslauf"
@@ -733,6 +823,8 @@ nl-NL = "oriëntatieloop"
 sv-SE = "orientering"
 tr-TR = "yön bulma yarışı"
 pl-PL = "bieg na orientację"
+sr-RS = "orijentacioni trčanje"
+ro-RO = "orientare sportivă"
 
 [word00047]
 de-DE = "die Notfallpfeife"
@@ -749,6 +841,8 @@ nl-NL = "het noodfluitje"
 sv-SE = "nödvisselpipan"
 tr-TR = "acil düdük"
 pl-PL = "gwizdek ratunkowy"
+sr-RS = "hitna pištaljka"
+ro-RO = "fluier de urgență"
 
 [word00048]
 de-DE = "die Signalrakete"
@@ -765,6 +859,8 @@ nl-NL = "de signaalraket"
 sv-SE = "signalfyrverkeriet"
 tr-TR = "işaret fişeği"
 pl-PL = "rakieta sygnalizacyjna"
+sr-RS = "signalna raketa"
+ro-RO = "rachetă de semnalizare"
 
 [word00049]
 de-DE = "die Taschenapotheke"
@@ -781,6 +877,8 @@ nl-NL = "de zakapotheek"
 sv-SE = "fickapoteket"
 tr-TR = "cep eczanesi"
 pl-PL = "apteczka kieszonkowa"
+sr-RS = "džepna apoteka"
+ro-RO = "farmacie de buzunar"
 
 [word00050]
 de-DE = "die Blasenpflaster"
@@ -797,6 +895,8 @@ nl-NL = "de blarenpleisters"
 sv-SE = "blåsplåstren"
 tr-TR = "su toplaması bandı"
 pl-PL = "plastry na pęcherze"
+sr-RS = "flasteri za plikove"
+ro-RO = "plasturi pentru bășici"
 
 [word00051]
 de-DE = "die Zeckenzange"
@@ -813,6 +913,8 @@ nl-NL = "de tekentang"
 sv-SE = "fästingplockaren"
 tr-TR = "kene çıkarıcı"
 pl-PL = "pęseta do kleszczy"
+sr-RS = "klješta za krpelje"
+ro-RO = "pensetă pentru căpușe"
 
 [word00052]
 de-DE = "die Wanderstiefel"
@@ -829,6 +931,8 @@ nl-NL = "de wandelschoenen"
 sv-SE = "vandringskängorna"
 tr-TR = "yürüyüş botları"
 pl-PL = "buty trekkingowe"
+sr-RS = "planinarske cipele"
+ro-RO = "bocanci de drumeție"
 
 [word00053]
 de-DE = "die Gamaschen"
@@ -845,6 +949,8 @@ nl-NL = "de gamaschen"
 sv-SE = "damaskerna"
 tr-TR = "tozluk"
 pl-PL = "stuptuty"
+sr-RS = "gamašne"
+ro-RO = "parazăpezi"
 
 [word00054]
 de-DE = "die Schneebrille"
@@ -861,6 +967,8 @@ nl-NL = "de sneeuwbril"
 sv-SE = "snöglasögonen"
 tr-TR = "kar gözlüğü"
 pl-PL = "gogle śnieżne"
+sr-RS = "naočare za sneg"
+ro-RO = "ochelari de zăpadă"
 
 [word00055]
 de-DE = "das Biwak"
@@ -877,6 +985,8 @@ nl-NL = "het bivak"
 sv-SE = "bivacken"
 tr-TR = "bivak"
 pl-PL = "biwak"
+sr-RS = "bivak"
+ro-RO = "bivuac"
 
 [word00056]
 de-DE = "die Stirnbandlampe"
@@ -893,6 +1003,8 @@ nl-NL = "de hoofdbandlamp"
 sv-SE = "pannbandlampan"
 tr-TR = "alın bandı lambası"
 pl-PL = "lampka na opasce"
+sr-RS = "lampa za traku za glavu"
+ro-RO = "lampă cu bandă"
 
 [word00057]
 de-DE = "die Powerbank"
@@ -909,6 +1021,8 @@ nl-NL = "de powerbank"
 sv-SE = "powerbanken"
 tr-TR = "taşınabilir şarj cihazı"
 pl-PL = "powerbank"
+sr-RS = "prenosna baterija"
+ro-RO = "baterie externă"
 
 [word00058]
 de-DE = "die Wanderapotheke"
@@ -925,6 +1039,8 @@ nl-NL = "de wandelapotheek"
 sv-SE = "vandringsapoteket"
 tr-TR = "yürüyüş ilk yardım çantası"
 pl-PL = "apteczka turystyczna"
+sr-RS = "planinarska apoteka"
+ro-RO = "trusă de prim ajutor pentru drumeție"
 
 [word00059]
 de-DE = "die Notration"
@@ -941,6 +1057,8 @@ nl-NL = "de noodrantsoen"
 sv-SE = "nödransonen"
 tr-TR = "acil durum erzağı"
 pl-PL = "racja awaryjna"
+sr-RS = "hitna porcija"
+ro-RO = "rație de urgență"
 
 [word00060]
 de-DE = "die Signalweste"
@@ -957,6 +1075,8 @@ nl-NL = "het veiligheidsvest"
 sv-SE = "varselvästen"
 tr-TR = "reflektör yelek"
 pl-PL = "kamizelka odblaskowa"
+sr-RS = "signalni prsluk"
+ro-RO = "vestă reflectorizantă"
 
 [word00061]
 de-DE = "die Wanderhose"
@@ -973,6 +1093,8 @@ nl-NL = "de wandelbroek"
 sv-SE = "vandringsbyxorna"
 tr-TR = "yürüyüş pantolonu"
 pl-PL = "spodnie trekkingowe"
+sr-RS = "planinarske pantalone"
+ro-RO = "pantaloni de drumeție"
 
 [word00062]
 de-DE = "die Wanderjacke"
@@ -989,6 +1111,8 @@ nl-NL = "de wandeljas"
 sv-SE = "vandringsjackan"
 tr-TR = "yürüyüş ceketi"
 pl-PL = "kurtka trekkingowa"
+sr-RS = "planinarska jakna"
+ro-RO = "geacă de drumeție"
 
 [word00063]
 de-DE = "die Wanderroute"
@@ -1005,6 +1129,8 @@ nl-NL = "de wandelroute"
 sv-SE = "vandringsrutten"
 tr-TR = "yürüyüş rotası"
 pl-PL = "trasa trekkingowa"
+sr-RS = "planinarska ruta"
+ro-RO = "traseu de drumeție"
 
 [word00064]
 de-DE = "die Höhenmeter"
@@ -1021,6 +1147,8 @@ nl-NL = "de hoogtemeters"
 sv-SE = "höjdmetrarna"
 tr-TR = "irtifa farkı"
 pl-PL = "przewyższenie"
+sr-RS = "visinska razlika"
+ro-RO = "diferență de nivel"
 
 [word00065]
 de-DE = "die Notunterkunft"
@@ -1037,3 +1165,23 @@ nl-NL = "de noodopvang"
 sv-SE = "nödbostaden"
 tr-TR = "acil barınak"
 pl-PL = "schronienie awaryjne"
+sr-RS = "hitno sklonište"
+ro-RO = "adăpost de urgență"
+
+[word00066]
+de-DE = "die Wanderung"
+en-US = "hike"
+fr-FR = "la randonnée"
+es-ES = "la excursión"
+it-IT = "l'escursione"
+pt-PT = "a caminhada"
+ru-RU = "поход"
+ja-JP = "ハイキング"
+zh-CN = "徒步旅行"
+ko-KR = "하이킹"
+nl-NL = "de wandeling"
+sv-SE = "vandringen"
+tr-TR = "yürüyüş"
+pl-PL = "wędrówka"
+sr-RS = "planinarenje"
+ro-RO = "drumeție"
