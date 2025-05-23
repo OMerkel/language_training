@@ -20,6 +20,7 @@ Usage:
     text-to-speech conversion to allow the user to read
     the text before it is spoken.
 """
+import os
 import argparse
 from io import BytesIO
 import tomllib
@@ -27,7 +28,8 @@ import time
 from typing import Optional
 
 from gtts import gTTS  # type: ignore
-import pygame
+os.environ["PYGAME_HIDE_SUPPORT_PROMPT"] = "1"
+import pygame   # noqa, pylint: disable=wrong-import-position
 
 
 def generate_audio(text: str, lang: str = 'it') -> BytesIO:
@@ -134,7 +136,13 @@ def main(source_lang: str = "de-DE", target_lang: str = "it-IT",
     for i in text:
         print(f"{i[source_lang]=}", end=" ")
         time.sleep(5)
-        input("Press Enter to continue...")
+        try:
+            command: str = input("Press Enter to continue... ")
+        except EOFError:
+            print("\nEOF received, exiting.")
+            return
+        if command == "exit":
+            return
         print(f"{i[target_lang]=}")
         time.sleep(1)
         language: str = target_lang.split("-")[0]
